@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "066f8",
+        "ex": 1,
+        "ineum": "서",
+        "in": "서 : 글(서)",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "서 : 글(서)"
+    },
+    {
+        "rnum": 0,
+        "cd": "066fa",
+        "ex": 1,
+        "ineum": "조",
+        "in": "조 : 성(조)(한국한자)",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "조 : 성(조)(한국한 자)"
+    },
+    {
+        "rnum": 0,
+        "cd": "066fb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "승,천"
+    },
+    {
+        "rnum": 0,
+        "cd": "2332d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "회"
+    },
+    {
+        "rnum": 0,
+        "cd": "23330",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "욱"
+    }
+]

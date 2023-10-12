@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0624b",
+        "ex": 1,
+        "ineum": "수",
+        "in": "수 : 손(수)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "봉"
+    },
+    {
+        "rnum": 0,
+        "cd": "0624d",
+        "ex": 1,
+        "ineum": "재",
+        "in": "재 : 재주(재) 겨우(재)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "빈"
+    },
+    {
+        "rnum": 0,
+        "cd": "0624c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "수 : 손(수)(手의  편방용자)"
+    }
+]

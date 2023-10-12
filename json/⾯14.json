@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09768",
+        "ex": 1,
+        "ineum": "엽",
+        "in": "엽 : 보조개(엽)",
+        "em": 0,
+        "rad_id": 176,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "염"
+    },
+    {
+        "rnum": 0,
+        "cd": "2924c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 176,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "마"
+    },
+    {
+        "rnum": 0,
+        "cd": "2924d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 176,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "점"
+    }
+]

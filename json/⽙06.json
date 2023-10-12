@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "07242",
+        "ex": 1,
+        "ineum": "장",
+        "in": "장 : 암양(장)",
+        "em": 0,
+        "rad_id": 90,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "f275a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 90,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "장"
+    },
+    {
+        "rnum": 0,
+        "cd": "f275b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 90,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "장"
+    },
+    {
+        "rnum": 0,
+        "cd": "f275d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 90,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "장"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0820b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 134,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "흔 : 피칠할(흔)"
+    },
+    {
+        "rnum": 0,
+        "cd": "269a5",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 134,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "농"
+    },
+    {
+        "rnum": 0,
+        "cd": "269ab",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 134,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "우"
+    },
+    {
+        "rnum": 0,
+        "cd": "269ad",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 134,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "상"
+    }
+]

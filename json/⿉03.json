@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09ece",
+        "ex": 1,
+        "ineum": "려,여",
+        "in": "려,여 : 검을(려/여) 많을(려/여)",
+        "em": 0,
+        "rad_id": 202,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "여,예 : 많을(려/여)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04d51",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 202,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "닐,일"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a3ee",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 202,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "여"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a3ef",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 202,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "려"
+    }
+]

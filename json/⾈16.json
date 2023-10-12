@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0826b",
+        "ex": 1,
+        "ineum": "노,로",
+        "in": "노,로 : 이물(로)",
+        "em": 0,
+        "rad_id": 137,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "26abd",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 137,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "롱,룡,용"
+    },
+    {
+        "rnum": 0,
+        "cd": "26abe",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 137,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "력"
+    },
+    {
+        "rnum": 0,
+        "cd": "26abf",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 137,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "습"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0430",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 137,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "등"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "065db",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 70,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "번 : 기(번)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2311e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 70,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "치"
+    },
+    {
+        "rnum": 0,
+        "cd": "23120",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 70,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "표"
+    },
+    {
+        "rnum": 0,
+        "cd": "23122",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 70,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "당"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2d1b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 70,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "홍"
+    }
+]

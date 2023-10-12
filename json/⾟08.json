@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04883",
+        "ex": 1,
+        "ineum": "예",
+        "in": "예",
+        "em": 0,
+        "rad_id": 160,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "예"
+    },
+    {
+        "rnum": 0,
+        "cd": "08fa4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "사"
+    },
+    {
+        "rnum": 0,
+        "cd": "2841c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "랄"
+    },
+    {
+        "rnum": 0,
+        "cd": "2841d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "벽,설"
+    },
+    {
+        "rnum": 0,
+        "cd": "2841f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "고"
+    }
+]

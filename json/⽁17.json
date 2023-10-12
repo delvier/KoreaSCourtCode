@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03aae",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 66,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "령"
+    },
+    {
+        "rnum": 0,
+        "cd": "2302e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 66,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "양"
+    },
+    {
+        "rnum": 0,
+        "cd": "2302f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 66,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "삼"
+    },
+    {
+        "rnum": 0,
+        "cd": "23030",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 66,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "분"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2fa2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 66,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "영"
+    }
+]

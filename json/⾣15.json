@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04915",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 164,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "악,학"
+    },
+    {
+        "rnum": 0,
+        "cd": "04916",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 164,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "포"
+    },
+    {
+        "rnum": 0,
+        "cd": "288ee",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 164,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "자"
+    },
+    {
+        "rnum": 0,
+        "cd": "288f1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 164,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "말"
+    },
+    {
+        "rnum": 0,
+        "cd": "288f2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 164,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "참"
+    }
+]

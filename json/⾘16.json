@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "27d20",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 153,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "력"
+    },
+    {
+        "rnum": 0,
+        "cd": "27d21",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 153,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "달"
+    }
+]

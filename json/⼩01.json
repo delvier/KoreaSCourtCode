@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05c11",
+        "ex": 1,
+        "ineum": "소",
+        "in": "소 : 적을(소) 젊을(소)",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 1,
+        "dic": "소 : 적을(소) 젊을 (소)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c10",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "절 : 적을(전) 벌레 이름(절)"
+    },
+    {
+        "rnum": 0,
+        "cd": "21b55",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "시"
+    },
+    {
+        "rnum": 0,
+        "cd": "f08d3",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "설"
+    }
+]

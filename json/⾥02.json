@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "091cd",
+        "ex": 1,
+        "ineum": "중",
+        "in": "중 : 무거울(중) 중할(중) 겹칠(중)",
+        "em": 0,
+        "rad_id": 166,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "중 : 무거울(중) 중 할(중) 겹칠(중)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f129c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 166,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "중"
+    }
+]

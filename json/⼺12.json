@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05f71",
+        "ex": 1,
+        "ineum": "영",
+        "in": "영 : 그림자(영) 모습(영)",
+        "em": 0,
+        "rad_id": 59,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "경"
+    },
+    {
+        "rnum": 0,
+        "cd": "038d2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 59,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "증,층"
+    },
+    {
+        "rnum": 0,
+        "cd": "224ab",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 59,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "심"
+    },
+    {
+        "rnum": 0,
+        "cd": "224ac",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 59,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "영"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1f0c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 59,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "빈"
+    }
+]

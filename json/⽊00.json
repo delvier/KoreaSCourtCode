@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "06728",
+        "ex": 1,
+        "ineum": "목",
+        "in": "목 : 나무(목)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "목 : 나무(목)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06729",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "달,들"
+    },
+    {
+        "rnum": 0,
+        "cd": "233b4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 75,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "장"
+    }
+]

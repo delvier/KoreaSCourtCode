@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0571c",
+        "ex": 1,
+        "ineum": "환",
+        "in": "환 : 두를(환)",
+        "em": 0,
+        "rad_id": 31,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": "원 : 둥글(원)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0571b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 31,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "역 : 맴돌(역)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f005e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 31,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "강"
+    }
+]

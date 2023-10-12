@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "a0255",
+        "ex": 1,
+        "ineum": "인",
+        "in": "인",
+        "em": 0,
+        "rad_id": 178,
+        "type": "A",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "인"
+    },
+    {
+        "rnum": 0,
+        "cd": "097cc",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 178,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "인 : 질길(인)"
+    },
+    {
+        "rnum": 0,
+        "cd": "097e7",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 178,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "인 : 질길(인)"
+    }
+]

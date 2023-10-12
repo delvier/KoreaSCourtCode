@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0722a",
+        "ex": 1,
+        "ineum": "조",
+        "in": "조 : 손톱(조)",
+        "em": 0,
+        "rad_id": 87,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "조 : 손톱(조)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0722b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 87,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "조 : 손톱(조)"
+    }
+]

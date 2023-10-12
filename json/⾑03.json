@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08981",
+        "ex": 1,
+        "ineum": "요",
+        "in": "요 : 구할(요) 중요할(요)",
+        "em": 0,
+        "rad_id": 146,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "요 : 구할(요) 중요 할(요)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04672",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 146,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "선"
+    },
+    {
+        "rnum": 0,
+        "cd": "277e5",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 146,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "현"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1b1e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 146,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "남"
+    }
+]

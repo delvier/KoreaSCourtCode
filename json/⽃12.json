@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "065a2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 68,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "주 : 바꿀(조/주)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1cb7",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 68,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "린"
+    }
+]

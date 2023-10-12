@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "21ff8",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 47,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "기"
+    },
+    {
+        "rnum": 0,
+        "cd": "21ff9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 47,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "자"
+    },
+    {
+        "rnum": 0,
+        "cd": "f09cb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 47,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "수"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2f44",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 47,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "수"
+    }
+]

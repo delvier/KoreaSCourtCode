@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09f08",
+        "ex": 1,
+        "ineum": "별",
+        "in": "별 : 자라(별)",
+        "em": 0,
+        "rad_id": 205,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "별 : 자라(별)"
+    },
+    {
+        "rnum": 0,
+        "cd": "09f09",
+        "ex": 1,
+        "ineum": "타",
+        "in": "타 : 악어(타)",
+        "em": 0,
+        "rad_id": 205,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "09f0d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "타 : 악어(타)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4fd",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "타"
+    }
+]

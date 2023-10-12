@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "2235a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 55,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "위"
+    },
+    {
+        "rnum": 0,
+        "cd": "2235c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 55,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "존"
+    },
+    {
+        "rnum": 0,
+        "cd": "2235e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 55,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "기"
+    }
+]

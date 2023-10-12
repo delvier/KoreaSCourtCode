@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0459d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "충"
+    },
+    {
+        "rnum": 0,
+        "cd": "0866c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "귀,규 : 규룡(규)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2721d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "알"
+    },
+    {
+        "rnum": 0,
+        "cd": "2721e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "닉"
+    }
+]

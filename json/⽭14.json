@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "25396",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 110,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "미"
+    },
+    {
+        "rnum": 0,
+        "cd": "25398",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 110,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "연"
+    },
+    {
+        "rnum": 0,
+        "cd": "2539a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 110,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "근"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09762",
+        "ex": 1,
+        "ineum": "면",
+        "in": "면 : 낯(면)",
+        "em": 0,
+        "rad_id": 176,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "면 : 낯(면)"
+    },
+    {
+        "rnum": 0,
+        "cd": "09763",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 176,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "면 : 面(얼굴(면)의  俗字"
+    }
+]

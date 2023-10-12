@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05320",
+        "ex": 1,
+        "ineum": "장",
+        "in": "장 : 장인(장)",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "장 : 장인(장)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05321",
+        "ex": 1,
+        "ineum": "광",
+        "in": "광 : 바로잡을(광) 도울(광)",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "광 : 바로잡을(광)  도울(광)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0531f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "강 : 평상(강)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05322",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "홀 : 옛그릇(홀)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2092e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "함"
+    }
+]

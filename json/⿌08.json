@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09f05",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "지 : 거미(지)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4ec",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "미"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4ed",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "굴"
+    }
+]

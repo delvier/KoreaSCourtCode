@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05c19",
+        "ex": 1,
+        "ineum": "상",
+        "in": "상 : 숭상(상)",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "상 : 숭상(상)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c1a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "상 : 숭상할(상)"
+    },
+    {
+        "rnum": 0,
+        "cd": "21b69",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "필"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1129",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "정"
+    }
+]

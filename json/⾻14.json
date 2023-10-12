@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04be5",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 188,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "급,암"
+    },
+    {
+        "rnum": 0,
+        "cd": "09ad5",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 188,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "빈 : 종지뼈(빈) 빈 형(빈)"
+    },
+    {
+        "rnum": 0,
+        "cd": "29aad",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 188,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "확"
+    },
+    {
+        "rnum": 0,
+        "cd": "29aae",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 188,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "마"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04d8f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 209,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "체,희"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a5a7",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 209,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "침"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a5a8",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 209,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "합"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a5a9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 209,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "휵"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a5aa",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 209,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "희"
+    }
+]

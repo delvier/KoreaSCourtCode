@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "27d19",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 153,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "노"
+    },
+    {
+        "rnum": 0,
+        "cd": "27d1e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 153,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "학"
+    }
+]

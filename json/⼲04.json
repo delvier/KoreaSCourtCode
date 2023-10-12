@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "2218a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 51,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "정,평"
+    },
+    {
+        "rnum": 0,
+        "cd": "2218b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 51,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "안"
+    }
+]

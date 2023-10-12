@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05b50",
+        "ex": 1,
+        "ineum": "자",
+        "in": "자 : 아들(자) 어조사(자)",
+        "em": 0,
+        "rad_id": 39,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "자 : 아들(자) 어조 사(자)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05b51",
+        "ex": 1,
+        "ineum": "혈",
+        "in": "혈 : 고단할(혈)",
+        "em": 0,
+        "rad_id": 39,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "혈 : 고단할(혈)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05b52",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 39,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "궐 : 짧을(궐)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05b53",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 39,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "궐 : 장구벌레(궐)"
+    }
+]

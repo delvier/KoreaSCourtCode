@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08fac",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "반,환 : 얽을(판)  무늬(판)"
+    },
+    {
+        "rnum": 0,
+        "cd": "28430",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "빈"
+    },
+    {
+        "rnum": 0,
+        "cd": "28431",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "변"
+    },
+    {
+        "rnum": 0,
+        "cd": "28432",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "사"
+    },
+    {
+        "rnum": 0,
+        "cd": "f3065",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "창"
+    }
+]

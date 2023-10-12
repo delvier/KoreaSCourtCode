@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03e1c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 90,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "공"
+    },
+    {
+        "rnum": 0,
+        "cd": "24585",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 90,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "장"
+    },
+    {
+        "rnum": 0,
+        "cd": "24586",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 90,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "잔"
+    },
+    {
+        "rnum": 0,
+        "cd": "24587",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 90,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "과"
+    }
+]

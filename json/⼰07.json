@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05df8",
+        "ex": 1,
+        "ineum": "이,희",
+        "in": "이,희",
+        "em": 0,
+        "rad_id": 49,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "05dfc",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 49,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "팟 : 땅이름(팟)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2203f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 49,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "근"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2599",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 49,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "위"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "066fe",
+        "ex": 1,
+        "ineum": "증",
+        "in": "증 : 거듭할(증) 일찍(증)",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "증 : 거듭할(증) 일 찍(증)"
+    },
+    {
+        "rnum": 0,
+        "cd": "066ff",
+        "ex": 1,
+        "ineum": "체",
+        "in": "체 : 갈(체) 바꿀(체) 폐할(체)",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "잠,찬,채 : 갈(체)   바꿀(체)   폐할(체)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06700",
+        "ex": 1,
+        "ineum": "최",
+        "in": "최 : 가장(최)",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "최 : 가장(최)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06701",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "잠,참 : 일찍(참)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06702",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "력,욱"
+    }
+]

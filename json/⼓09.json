@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0530f",
+        "ex": 1,
+        "ineum": "포",
+        "in": "포 : 박(포) 병(포)",
+        "em": 0,
+        "rad_id": 20,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "포 : 박(포) 병(포)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05310",
+        "ex": 1,
+        "ineum": "복",
+        "in": "복 : 엉금엉금길(복)",
+        "em": 0,
+        "rad_id": 20,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "복 : 엉금엉금길(복/ 북)"
+    },
+    {
+        "rnum": 0,
+        "cd": "03528",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 20,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "배"
+    },
+    {
+        "rnum": 0,
+        "cd": "208ee",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 20,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "국"
+    },
+    {
+        "rnum": 0,
+        "cd": "208f0",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 20,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "도"
+    }
+]

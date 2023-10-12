@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "06bd9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 81,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "폐 : 죽을(폐)"
+    },
+    {
+        "rnum": 0,
+        "cd": "23b08",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 81,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "비"
+    },
+    {
+        "rnum": 0,
+        "cd": "23b09",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 81,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "비"
+    },
+    {
+        "rnum": 0,
+        "cd": "23b0a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 81,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "배"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1f00",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 81,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "비"
+    }
+]

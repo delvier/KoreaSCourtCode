@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05b7a",
+        "ex": 1,
+        "ineum": "유",
+        "in": "유 : 젖먹이(유) 사모할(유)",
+        "em": 0,
+        "rad_id": 39,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "유 : 젖먹이(유) 사 모할(유)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05b7b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 39,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "내 : 노인자제(내)  막내(내)"
+    },
+    {
+        "rnum": 0,
+        "cd": "219a1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 39,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "도"
+    }
+]

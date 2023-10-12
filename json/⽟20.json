@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "074db",
+        "ex": 1,
+        "ineum": "환",
+        "in": "환 : 옥홀(환)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 1,
+        "dic": "헌,현"
+    },
+    {
+        "rnum": 0,
+        "cd": "f01dc",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 96,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "관"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0449",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 96,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "란"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0b71",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 96,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "언"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1e74",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 96,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "빈"
+    }
+]

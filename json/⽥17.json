@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0758a",
+        "ex": 1,
+        "ineum": "첩",
+        "in": "첩 : 겹칠(첩)",
+        "em": 0,
+        "rad_id": 102,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 1,
+        "dic": "첩 : 겹칠(첩)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07589",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 102,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "첩"
+    },
+    {
+        "rnum": 0,
+        "cd": "24d00",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 102,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "광"
+    }
+]

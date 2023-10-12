@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "089fd",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 148,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "휴"
+    },
+    {
+        "rnum": 0,
+        "cd": "089fe",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 148,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "연 : 새이름(연)"
+    },
+    {
+        "rnum": 0,
+        "cd": "27950",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 148,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "양"
+    }
+]

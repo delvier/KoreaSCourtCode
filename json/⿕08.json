@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04db4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 214,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "취"
+    },
+    {
+        "rnum": 0,
+        "cd": "09fa3",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 214,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "각,록 : 악기(각)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a6cb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 214,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "창"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a6cd",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 214,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "치"
+    }
+]

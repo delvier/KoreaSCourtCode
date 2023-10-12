@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "058e1",
+        "ex": 1,
+        "ineum": "예",
+        "in": "예 : 밝을(예)의 古 字",
+        "em": 0,
+        "rad_id": 29,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "20b91",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 29,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "국"
+    }
+]

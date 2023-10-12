@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08eaa",
+        "ex": 1,
+        "ineum": "린,인",
+        "in": "린,인 : 짓밟을(린/인)",
+        "em": 0,
+        "rad_id": 157,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 1,
+        "dic": "인"
+    },
+    {
+        "rnum": 0,
+        "cd": "a014d",
+        "ex": 1,
+        "ineum": "린,인",
+        "in": "린,인",
+        "em": 0,
+        "rad_id": 157,
+        "type": "A",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 1,
+        "dic": "린"
+    },
+    {
+        "rnum": 0,
+        "cd": "08ea8",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 157,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "기 : 굼틀거릴(기)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08ea9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 157,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "각,곽 : 뛸(각/곽)"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "07f43",
+        "ex": 1,
+        "ineum": "앵",
+        "in": "앵 : 병(앵)",
+        "em": 0,
+        "rad_id": 121,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "0434d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 121,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "곡,구,부"
+    },
+    {
+        "rnum": 0,
+        "cd": "26248",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 121,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "수"
+    },
+    {
+        "rnum": 0,
+        "cd": "26249",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 121,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "류"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0352a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 20,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "로"
+    },
+    {
+        "rnum": 0,
+        "cd": "05313",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 20,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "구 : 배불러싫을(구)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2c29",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 20,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "형"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2ca3",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 20,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "호"
+    }
+]

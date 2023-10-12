@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0373b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 23,
+        "isin": 0,
+        "dic": "련,연"
+    },
+    {
+        "rnum": 0,
+        "cd": "0373c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 23,
+        "isin": 0,
+        "dic": "질"
+    },
+    {
+        "rnum": 0,
+        "cd": "f04ae",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 38,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 23,
+        "isin": 0,
+        "dic": "련"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1c0d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 38,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 23,
+        "isin": 0,
+        "dic": "란"
+    }
+]

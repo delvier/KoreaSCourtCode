@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "a0060",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "A",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "훈"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1db2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "민"
+    },
+    {
+        "rnum": 0,
+        "cd": "f3047",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "준"
+    },
+    {
+        "rnum": 0,
+        "cd": "f3169",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "복"
+    }
+]

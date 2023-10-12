@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "053e1",
+        "ex": 1,
+        "ineum": "예",
+        "in": "예 : 밝을(예) 슬기로울(예)",
+        "em": 0,
+        "rad_id": 29,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "예 : 밝을(예) 슬기 로울(예)"
+    },
+    {
+        "rnum": 0,
+        "cd": "03be9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 29,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "이,제"
+    },
+    {
+        "rnum": 0,
+        "cd": "20b8b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 29,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "최"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0d47",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 29,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "예"
+    }
+]

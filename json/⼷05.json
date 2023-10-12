@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "07519",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 56,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "대 : 배당체(대)"
+    },
+    {
+        "rnum": 0,
+        "cd": "22384",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 56,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "가"
+    }
+]

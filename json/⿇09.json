@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04d48",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 200,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "곡"
+    },
+    {
+        "rnum": 0,
+        "cd": "04d49",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 200,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "두"
+    },
+    {
+        "rnum": 0,
+        "cd": "09ec1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 200,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "난,논,농,란,찬,향 : 사람이름(난)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a3a8",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 200,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "두"
+    }
+]

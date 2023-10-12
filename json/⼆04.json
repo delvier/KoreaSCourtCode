@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04e98",
+        "ex": 1,
+        "ineum": "긍,선",
+        "in": "긍,선 : 뻗칠(긍) 베풀(선)",
+        "em": 0,
+        "rad_id": 7,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "극,금,원,항,호,환 : 굳셀(환)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04e99",
+        "ex": 1,
+        "ineum": "긍",
+        "in": "긍 : 건널(긍)",
+        "em": 0,
+        "rad_id": 7,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "긍 : 건널(긍)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04e9a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 7,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "아,정 : 亞(버금(아))의 略字"
+    },
+    {
+        "rnum": 0,
+        "cd": "20122",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 7,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "선"
+    },
+    {
+        "rnum": 0,
+        "cd": "20124",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 7,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "순"
+    }
+]

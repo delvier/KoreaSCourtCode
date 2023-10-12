@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05dee",
+        "ex": 1,
+        "ineum": "차",
+        "in": "차 : 틀릴(차)",
+        "em": 0,
+        "rad_id": 48,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": "차 : 틀릴(차) 들쑥 날쑥할(치)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0382b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 48,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "공,부"
+    },
+    {
+        "rnum": 0,
+        "cd": "0382c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 48,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "부"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1263",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 48,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "준"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2a58",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 48,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "채"
+    }
+]

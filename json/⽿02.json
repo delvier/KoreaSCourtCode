@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08035",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 128,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "정 : 귀에지(정)"
+    },
+    {
+        "rnum": 0,
+        "cd": "26534",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 128,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "문"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0828",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 128,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "서"
+    },
+    {
+        "rnum": 0,
+        "cd": "f118c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 128,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "조"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08c51",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 151,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "질"
+    },
+    {
+        "rnum": 0,
+        "cd": "27c11",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 151,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "호"
+    },
+    {
+        "rnum": 0,
+        "cd": "27c12",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 151,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "국"
+    },
+    {
+        "rnum": 0,
+        "cd": "27c13",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 151,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "렵"
+    },
+    {
+        "rnum": 0,
+        "cd": "27c15",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 151,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "각,일"
+    }
+]

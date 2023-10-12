@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04e8e",
+        "ex": 1,
+        "ineum": "우",
+        "in": "우 : 어조사(우) 갈(우)",
+        "em": 0,
+        "rad_id": 7,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 1,
+        "dic": "우 : 어조사(우) 갈 (우)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04e8d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 7,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "촉 : 조금걸을(촉)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04e8f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 7,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "휴 : 어조사(우)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04e90",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 7,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "우,울 : 땅이름(울)(한국한자)"
+    }
+]

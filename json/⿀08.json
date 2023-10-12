@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09b35",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 193,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "심 : 용가마(심) 큰 가마(심) 고리(심)"
+    },
+    {
+        "rnum": 0,
+        "cd": "09b36",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 193,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "규 : 세발달린가마솥(규) 가마솥(휴)"
+    },
+    {
+        "rnum": 0,
+        "cd": "29c3e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 193,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "비"
+    },
+    {
+        "rnum": 0,
+        "cd": "29c3f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 193,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "심"
+    },
+    {
+        "rnum": 0,
+        "cd": "29c41",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 193,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "갱"
+    }
+]

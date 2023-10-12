@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09b2a",
+        "ex": 1,
+        "ineum": "투",
+        "in": "투 : 싸움(투)",
+        "em": 0,
+        "rad_id": 191,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": "투 : 싸움(투)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04c17",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 191,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "구,규"
+    },
+    {
+        "rnum": 0,
+        "cd": "29c15",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 191,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "혁"
+    }
+]

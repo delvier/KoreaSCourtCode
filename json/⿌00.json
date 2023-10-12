@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09efd",
+        "ex": 1,
+        "ineum": "민",
+        "in": "민 : 힘쓸(민)",
+        "em": 0,
+        "rad_id": 205,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "구,맹,명,승 : 맹꽁이(맹) "
+    },
+    {
+        "rnum": 0,
+        "cd": "09efe",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "구,맹,민 : 힘쓸(민) 고을이름(면)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f067e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "민"
+    }
+]

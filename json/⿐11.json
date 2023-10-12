@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09f47",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 209,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "사,차 : 주부코(사/ 차)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a5b6",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 209,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "솔"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a5b7",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 209,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "료"
+    }
+]

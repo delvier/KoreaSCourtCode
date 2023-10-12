@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03e1a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 89,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "려,리"
+    },
+    {
+        "rnum": 0,
+        "cd": "2455d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 89,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "교"
+    },
+    {
+        "rnum": 0,
+        "cd": "f04d9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 89,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "례,예"
+    }
+]

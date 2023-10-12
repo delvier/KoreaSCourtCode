@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05168",
+        "ex": 1,
+        "ineum": "전",
+        "in": "전 : 온전할(전) 온통(전)",
+        "em": 0,
+        "rad_id": 11,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "전 : 온전할(전) 온 통(전)"
+    },
+    {
+        "rnum": 0,
+        "cd": "034b2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 11,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "재"
+    },
+    {
+        "rnum": 0,
+        "cd": "06c3d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 11,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "탄 : 뜰(탄)"
+    },
+    {
+        "rnum": 0,
+        "cd": "204e0",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 11,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "편"
+    },
+    {
+        "rnum": 0,
+        "cd": "204e1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 11,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "시"
+    }
+]

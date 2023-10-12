@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08000",
+        "ex": 1,
+        "ineum": "요",
+        "in": "요 : 빛날(요)",
+        "em": 0,
+        "rad_id": 124,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "광"
+    },
+    {
+        "rnum": 0,
+        "cd": "04399",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 124,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "빈"
+    },
+    {
+        "rnum": 0,
+        "cd": "07fff",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 124,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "도 : 춤추는물건(도)"
+    },
+    {
+        "rnum": 0,
+        "cd": "264a3",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 124,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "습"
+    }
+]

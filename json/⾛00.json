@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08d70",
+        "ex": 1,
+        "ineum": "주",
+        "in": "주 : 달릴(주) 달아날(주)",
+        "em": 0,
+        "rad_id": 156,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "기,시"
+    },
+    {
+        "rnum": 0,
+        "cd": "08d71",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 156,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "주"
+    },
+    {
+        "rnum": 0,
+        "cd": "27e86",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 156,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "주"
+    }
+]

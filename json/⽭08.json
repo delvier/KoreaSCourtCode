@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "077e0",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 110,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "색 : 창(색) 작살질 할(색)"
+    },
+    {
+        "rnum": 0,
+        "cd": "25372",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 110,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "납"
+    },
+    {
+        "rnum": 0,
+        "cd": "25373",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 110,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "뉴"
+    },
+    {
+        "rnum": 0,
+        "cd": "25375",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 110,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "임"
+    },
+    {
+        "rnum": 0,
+        "cd": "f3220",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 110,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "진"
+    }
+]

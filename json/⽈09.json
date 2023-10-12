@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "06703",
+        "ex": 1,
+        "ineum": "회",
+        "in": "회 : 모을(회)",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "회 : 모을(회)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2333e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "동,통"
+    }
+]

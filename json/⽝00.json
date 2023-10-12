@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "072ac",
+        "ex": 1,
+        "ineum": "견",
+        "in": "견 : 개(견)",
+        "em": 0,
+        "rad_id": 94,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "견 : 개(견)"
+    },
+    {
+        "rnum": 0,
+        "cd": "072ad",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 94,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "견 : 개(견)"
+    }
+]

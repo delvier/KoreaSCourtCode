@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "077da",
+        "ex": 1,
+        "ineum": "촉",
+        "in": "촉 : 볼(촉)",
+        "em": 0,
+        "rad_id": 109,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "077d6",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 109,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "리,시,여,이 : 찾아 볼(리)"
+    },
+    {
+        "rnum": 0,
+        "cd": "25354",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 109,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "류"
+    },
+    {
+        "rnum": 0,
+        "cd": "25355",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 109,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "관"
+    }
+]

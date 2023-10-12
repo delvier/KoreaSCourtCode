@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05169",
+        "ex": 1,
+        "ineum": "량,양",
+        "in": "량,양 : 둘(량/양)",
+        "em": 0,
+        "rad_id": 11,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "양 : 둘(량/양)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2689",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 11,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "은"
+    }
+]

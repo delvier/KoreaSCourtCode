@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04d4c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 201,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "험,혐"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a3c2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 201,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "점"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a3c4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 201,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "작"
+    }
+]

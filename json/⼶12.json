@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05f0a",
+        "ex": 1,
+        "ineum": "폐",
+        "in": "폐 : 해질(폐) 관할(폐) 폐(폐)",
+        "em": 0,
+        "rad_id": 55,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "폐 : 해질(폐) 관할 (폐) 폐(폐)"
+    },
+    {
+        "rnum": 0,
+        "cd": "038a2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 55,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "폐"
+    },
+    {
+        "rnum": 0,
+        "cd": "2236c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 55,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "언"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03f17",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 98,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "정"
+    },
+    {
+        "rnum": 0,
+        "cd": "074e7",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 98,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "십 : 데카그람(십)"
+    },
+    {
+        "rnum": 0,
+        "cd": "24b26",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 98,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "와"
+    }
+]

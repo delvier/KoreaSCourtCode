@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05907",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "비 : 갖출(비)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f021e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "구"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2774",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "재"
+    },
+    {
+        "rnum": 0,
+        "cd": "f290e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "준"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2c6b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 34,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "혜"
+    }
+]

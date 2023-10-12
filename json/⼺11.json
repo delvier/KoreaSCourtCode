@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05f70",
+        "ex": 1,
+        "ineum": "창",
+        "in": "창 : 밝을(창) 드러낼(창)",
+        "em": 0,
+        "rad_id": 59,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": "장"
+    },
+    {
+        "rnum": 0,
+        "cd": "038d1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 59,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "용"
+    },
+    {
+        "rnum": 0,
+        "cd": "05f6f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 59,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "표 : 끈이치렁거릴(표) 단청할(표)"
+    },
+    {
+        "rnum": 0,
+        "cd": "224a9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 59,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "사"
+    },
+    {
+        "rnum": 0,
+        "cd": "224aa",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 59,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "변"
+    }
+]

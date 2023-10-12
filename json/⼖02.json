@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05339",
+        "ex": 1,
+        "ineum": "필",
+        "in": "필 : 필(필)",
+        "em": 0,
+        "rad_id": 23,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "필 : 필(필)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0533a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 23,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "구 : 區(구역(구)) 의 略字"
+    }
+]

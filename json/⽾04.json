@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08015",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경 : 갈(경)",
+        "em": 0,
+        "rad_id": 127,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "정"
+    },
+    {
+        "rnum": 0,
+        "cd": "08016",
+        "ex": 1,
+        "ineum": "초",
+        "in": "초 : 써레(초)",
+        "em": 0,
+        "rad_id": 127,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "08017",
+        "ex": 1,
+        "ineum": "모",
+        "in": "모 : 쓸(모) 소식(모)",
+        "em": 0,
+        "rad_id": 127,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "모 : 쓸(모) 소식(모)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08018",
+        "ex": 1,
+        "ineum": "운",
+        "in": "운 : 김맬(운)",
+        "em": 0,
+        "rad_id": 127,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "운 : 김맬(운)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08019",
+        "ex": 1,
+        "ineum": "파",
+        "in": "파 : 써레(파) 갈퀴(파)",
+        "em": 0,
+        "rad_id": 127,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    }
+]

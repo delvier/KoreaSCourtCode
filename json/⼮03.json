@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05dde",
+        "ex": 1,
+        "ineum": "주",
+        "in": "주 : 고을(주)",
+        "em": 0,
+        "rad_id": 47,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "주 : 고을(주)"
+    },
+    {
+        "rnum": 0,
+        "cd": "03829",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 47,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "황"
+    },
+    {
+        "rnum": 0,
+        "cd": "05ddf",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 47,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "황 : 망할(황)"
+    },
+    {
+        "rnum": 0,
+        "cd": "21fe9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 47,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "렬"
+    },
+    {
+        "rnum": 0,
+        "cd": "21fea",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 47,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "렬"
+    }
+]

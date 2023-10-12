@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "245a9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 91,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "장"
+    },
+    {
+        "rnum": 0,
+        "cd": "245aa",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 91,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "이"
+    }
+]

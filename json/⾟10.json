@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08faa",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "설"
+    },
+    {
+        "rnum": 0,
+        "cd": "08fab",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "변"
+    },
+    {
+        "rnum": 0,
+        "cd": "28428",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "벽"
+    },
+    {
+        "rnum": 0,
+        "cd": "2842f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "벽"
+    }
+]

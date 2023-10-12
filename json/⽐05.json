@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "06bd6",
+        "ex": 1,
+        "ineum": "비",
+        "in": "비 : 삼갈(비)",
+        "em": 0,
+        "rad_id": 81,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "비 : 삼갈(비)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06bd7",
+        "ex": 1,
+        "ineum": "비",
+        "in": "비 : 도울(비)",
+        "em": 0,
+        "rad_id": 81,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "비 : 도울(비)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06bd8",
+        "ex": 1,
+        "ineum": "비",
+        "in": "비 : 도울(비)",
+        "em": 0,
+        "rad_id": 81,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "비 : 도울(비)"
+    },
+    {
+        "rnum": 0,
+        "cd": "03c8b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 81,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "착"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1375",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 81,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "차"
+    }
+]

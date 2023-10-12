@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "2759c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 24,
+        "isin": 0,
+        "dic": "령"
+    },
+    {
+        "rnum": 0,
+        "cd": "2759d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 24,
+        "isin": 0,
+        "dic": "초"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2747",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 24,
+        "isin": 0,
+        "dic": "잠"
+    }
+]

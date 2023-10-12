@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "07253",
+        "ex": 1,
+        "ineum": "방",
+        "in": "방 : 패(방) 방목(방)",
+        "em": 0,
+        "rad_id": 91,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "07254",
+        "ex": 1,
+        "ineum": "박",
+        "in": "박 : 박공(박)",
+        "em": 0,
+        "rad_id": 91,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "03e22",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 91,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "비,피"
+    },
+    {
+        "rnum": 0,
+        "cd": "245e2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 91,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "체"
+    }
+]

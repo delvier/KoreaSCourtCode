@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04b69",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 184,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 0,
+        "dic": "마"
+    },
+    {
+        "rnum": 0,
+        "cd": "09960",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 184,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 0,
+        "dic": "라 : 소넣은밀떡(라)"
+    },
+    {
+        "rnum": 0,
+        "cd": "09961",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 184,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 0,
+        "dic": "찬 : 국만밥(찬) 국 으로밥할(찬)"
+    }
+]

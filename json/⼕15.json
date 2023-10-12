@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05335",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "독 : 손궤(독)"
+    },
+    {
+        "rnum": 0,
+        "cd": "20963",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "변"
+    }
+]

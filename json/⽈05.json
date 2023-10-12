@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "066f7",
+        "ex": 1,
+        "ineum": "갈",
+        "in": "갈 : 어찌(갈)",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "갈 : 어찌(갈)"
+    },
+    {
+        "rnum": 0,
+        "cd": "23327",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "책"
+    },
+    {
+        "rnum": 0,
+        "cd": "23328",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "균,순"
+    },
+    {
+        "rnum": 0,
+        "cd": "f11ce",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "주"
+    }
+]

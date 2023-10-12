@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "096b7",
+        "ex": 1,
+        "ineum": "례,예",
+        "in": "례,예 : 종(례/예)",
+        "em": 0,
+        "rad_id": 171,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "예 : 종(례/예)"
+    },
+    {
+        "rnum": 0,
+        "cd": "28f7e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 171,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "애"
+    }
+]

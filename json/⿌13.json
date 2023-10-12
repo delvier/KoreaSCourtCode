@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09f0a",
+        "ex": 1,
+        "ineum": "벽",
+        "in": "벽 : 거북(벽)",
+        "em": 0,
+        "rad_id": 205,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4fc",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "전"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4fe",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 205,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "오"
+    }
+]

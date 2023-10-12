@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09ef7",
+        "ex": 1,
+        "ineum": "독",
+        "in": "독 : 더럽힐(독)",
+        "em": 0,
+        "rad_id": 203,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4b9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 203,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "감"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4ba",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 203,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "리"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4bb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 203,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "암"
+    }
+]

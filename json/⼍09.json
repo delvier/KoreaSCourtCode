@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "051a8",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 14,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "부 : 富(넉넉할(부))의 俗字"
+    },
+    {
+        "rnum": 0,
+        "cd": "f24da",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 14,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "우"
+    },
+    {
+        "rnum": 0,
+        "cd": "f24db",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 14,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "우"
+    }
+]

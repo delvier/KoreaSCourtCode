@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05e6d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 50,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "멸 : 수레덮개(멱/멸)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05e6e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 50,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "주 : 휘장(주)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05e6f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 50,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "절 : 걸레(절)"
+    },
+    {
+        "rnum": 0,
+        "cd": "22169",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 50,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "피"
+    },
+    {
+        "rnum": 0,
+        "cd": "2216b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 50,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "세"
+    }
+]

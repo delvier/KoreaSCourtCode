@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03789",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "찰"
+    },
+    {
+        "rnum": 0,
+        "cd": "0378a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "술"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c32",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "감 : 비틀걸음(감)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c33",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "골,활 : 무릎병(골)  뼈삘(골)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c34",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "감"
+    }
+]

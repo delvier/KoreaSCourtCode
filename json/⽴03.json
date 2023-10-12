@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "041c3",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "사"
+    },
+    {
+        "rnum": 0,
+        "cd": "07ace",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "부 : 오를(부)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07acf",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "천 : 킬로미터(천)"
+    },
+    {
+        "rnum": 0,
+        "cd": "25a57",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "원"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1cce",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "립,은"
+    }
+]

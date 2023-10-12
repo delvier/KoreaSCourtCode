@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0377e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "자,좌"
+    },
+    {
+        "rnum": 0,
+        "cd": "0377f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "파"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c2d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "요 : 높을(요) 멀(요)"
+    },
+    {
+        "rnum": 0,
+        "cd": "21bdb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "좌"
+    },
+    {
+        "rnum": 0,
+        "cd": "21bdc",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "골"
+    }
+]

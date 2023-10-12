@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0897f",
+        "ex": 1,
+        "ineum": "서",
+        "in": "서 : 서녘(서) 서양(서)",
+        "em": 0,
+        "rad_id": 146,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "서 : 서녘(서) 서양 (서)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0897e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 146,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "아 : 덮을(아) 가리 어숨길(아)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08980",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 146,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "아"
+    },
+    {
+        "rnum": 0,
+        "cd": "f082f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 146,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "서"
+    }
+]

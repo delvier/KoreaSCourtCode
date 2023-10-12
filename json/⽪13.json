@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03ff9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 107,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "달"
+    },
+    {
+        "rnum": 0,
+        "cd": "076bd",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 107,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "전,조 : 박막(전)"
+    },
+    {
+        "rnum": 0,
+        "cd": "25023",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 107,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "학"
+    },
+    {
+        "rnum": 0,
+        "cd": "25024",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 107,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "만"
+    }
+]

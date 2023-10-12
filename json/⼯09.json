@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0382d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 48,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "전"
+    },
+    {
+        "rnum": 0,
+        "cd": "05def",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 48,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "구 : 수황기(규)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f113b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 48,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "정"
+    }
+]

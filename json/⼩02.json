@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05c14",
+        "ex": 1,
+        "ineum": "이",
+        "in": "이 : 그렇다할(이)  너(이)",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "05c12",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "니,이 : 필연(이)  다를(이)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c13",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "이 : 爾(너(이))와  同字"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c15",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "가,소 : 귀여울(가/ 소)"
+    }
+]

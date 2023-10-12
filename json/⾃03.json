@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "268ff",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 132,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "경"
+    },
+    {
+        "rnum": 0,
+        "cd": "26900",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 132,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "취"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0591c",
+        "ex": 1,
+        "ineum": "야",
+        "in": "야 : 밤(야)",
+        "em": 0,
+        "rad_id": 36,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "야 : 밤(야)"
+    },
+    {
+        "rnum": 0,
+        "cd": "03689",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 36,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "고"
+    },
+    {
+        "rnum": 0,
+        "cd": "0591d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 36,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "청"
+    },
+    {
+        "rnum": 0,
+        "cd": "f27c9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 36,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "정"
+    }
+]

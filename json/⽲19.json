@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "07a72",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 0,
+        "dic": "리 : 곡식포기가지런할 (리)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07a73",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 0,
+        "dic": "찬 : 벼베어쌓을(찬)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2590e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 0,
+        "dic": "묘"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2d16",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 0,
+        "dic": "홍"
+    }
+]

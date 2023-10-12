@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08203",
+        "ex": 1,
+        "ineum": "석,작",
+        "in": "석,작 : 신(석) 클(석) 빛날(석)",
+        "em": 0,
+        "rad_id": 134,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "석,작 : 신(석) 클 (석) 빛날(석)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08204",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 134,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "석 : 신(석)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2696d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 134,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "박"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1800",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 134,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "흥"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1b95",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 134,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "도"
+    }
+]

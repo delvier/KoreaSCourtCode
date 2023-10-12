@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "06bb7",
+        "ex": 1,
+        "ineum": "은",
+        "in": "은 : 은나라(은)",
+        "em": 0,
+        "rad_id": 79,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "은 : 은나라(은) 검 붉은빛(안)"
+    },
+    {
+        "rnum": 0,
+        "cd": "03c7e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 79,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "개"
+    },
+    {
+        "rnum": 0,
+        "cd": "03c7f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 79,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "각"
+    },
+    {
+        "rnum": 0,
+        "cd": "23a88",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 79,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "개"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08266",
+        "ex": 1,
+        "ineum": "함",
+        "in": "함 : 싸움배(함)",
+        "em": 0,
+        "rad_id": 137,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "함 : 싸움배(함)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08268",
+        "ex": 1,
+        "ineum": "몽",
+        "in": "몽 : 싸움배(몽)",
+        "em": 0,
+        "rad_id": 137,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "04489",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 137,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "무"
+    },
+    {
+        "rnum": 0,
+        "cd": "08267",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 137,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "확 : 배(확)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08269",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 137,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "제 : 노거리(제)"
+    }
+]

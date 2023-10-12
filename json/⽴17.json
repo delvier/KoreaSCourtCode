@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "07af8",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경 : 성할(경) 굳셀(경)",
+        "em": 0,
+        "rad_id": 117,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "25ad0",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "상"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0419",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "동"
+    },
+    {
+        "rnum": 0,
+        "cd": "f24b0",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "용"
+    },
+    {
+        "rnum": 0,
+        "cd": "f31fe",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 117,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 0,
+        "dic": "익"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0590c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 35,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "능,릉 : 넘을(릉)  높을(릉) 범할(릉)"
+    },
+    {
+        "rnum": 0,
+        "cd": "21562",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 35,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "맘"
+    },
+    {
+        "rnum": 0,
+        "cd": "21563",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 35,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "장"
+    },
+    {
+        "rnum": 0,
+        "cd": "21564",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 35,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "태"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1277",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 35,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 0,
+        "dic": "준"
+    }
+]

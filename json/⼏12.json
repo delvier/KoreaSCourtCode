@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "051f3",
+        "ex": 1,
+        "ineum": "등",
+        "in": "등 : 걸상(등)",
+        "em": 0,
+        "rad_id": 16,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "051f4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 16,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "빙 : 기댈(빙) 의지 할(빙) 증거(빙)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1bda",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 16,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "두"
+    }
+]

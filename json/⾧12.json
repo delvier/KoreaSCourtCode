@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0957d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 168,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "료,룡 : 길(료)"
+    },
+    {
+        "rnum": 0,
+        "cd": "28cad",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 168,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "교"
+    },
+    {
+        "rnum": 0,
+        "cd": "28cae",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 168,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "로"
+    },
+    {
+        "rnum": 0,
+        "cd": "28caf",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 168,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "증"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0000",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 168,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "거,개,야"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05299",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 18,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "려,리 : 가를(리)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0529a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 18,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "촉 : 깍을(촉)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2082e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 18,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "잔"
+    }
+]

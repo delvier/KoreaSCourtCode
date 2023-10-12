@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "072a7",
+        "ex": 1,
+        "ineum": "희",
+        "in": "희 : 희생(희)",
+        "em": 0,
+        "rad_id": 93,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 1,
+        "dic": "희 : 희생(희)"
+    },
+    {
+        "rnum": 0,
+        "cd": "072a8",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 93,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "주 : 내밀(주)"
+    },
+    {
+        "rnum": 0,
+        "cd": "24703",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 93,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "순"
+    },
+    {
+        "rnum": 0,
+        "cd": "24704",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 93,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "회"
+    },
+    {
+        "rnum": 0,
+        "cd": "24705",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 93,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "옥"
+    }
+]

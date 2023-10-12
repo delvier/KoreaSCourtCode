@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "051fd",
+        "ex": 1,
+        "ineum": "함",
+        "in": "함 : 상자(함)",
+        "em": 0,
+        "rad_id": 17,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "함 : 상자(함)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2068b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 17,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "치"
+    },
+    {
+        "rnum": 0,
+        "cd": "f146c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 17,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 0,
+        "dic": "치"
+    }
+]

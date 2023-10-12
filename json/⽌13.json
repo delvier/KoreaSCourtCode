@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "239a1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 77,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "저"
+    },
+    {
+        "rnum": 0,
+        "cd": "239a2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 77,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "벽"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0314",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 77,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "이"
+    }
+]

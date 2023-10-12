@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08fb0",
+        "ex": 1,
+        "ineum": "신,진",
+        "in": "신,진 : 별이름(신) 다섯째지지(진)",
+        "em": 0,
+        "rad_id": 161,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "신,진 : 별이름(신)  다섯째지지(진)"
+    },
+    {
+        "rnum": 0,
+        "cd": "28443",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 161,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "진"
+    },
+    {
+        "rnum": 0,
+        "cd": "28444",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 161,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "진"
+    }
+]

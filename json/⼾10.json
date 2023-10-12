@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "22a58",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 63,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "갑"
+    },
+    {
+        "rnum": 0,
+        "cd": "22a59",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 63,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "령"
+    },
+    {
+        "rnum": 0,
+        "cd": "f10ce",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 63,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "전"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05972",
+        "ex": 1,
+        "ineum": "다,차",
+        "in": "다,차 : 관대할(차)",
+        "em": 0,
+        "rad_id": 37,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 1,
+        "dic": "타 : 휘늘어질(타)"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1c23",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 37,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "란"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2a0a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 37,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "차"
+    }
+]

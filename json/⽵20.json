@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04277",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 118,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "엄"
+    },
+    {
+        "rnum": 0,
+        "cd": "07c6f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 118,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "영 : 광주리(영)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07c70",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 118,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "확 : 얼레(확)"
+    },
+    {
+        "rnum": 0,
+        "cd": "25e09",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 118,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "롱,용"
+    }
+]

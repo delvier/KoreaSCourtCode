@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "097e4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 178,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "말 : 버선(말)"
+    },
+    {
+        "rnum": 0,
+        "cd": "097e5",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 178,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "독 : 전동(독)"
+    },
+    {
+        "rnum": 0,
+        "cd": "293f2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 178,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "수"
+    }
+]

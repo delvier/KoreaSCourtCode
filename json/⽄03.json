@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "f1a31",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 69,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "근"
+    },
+    {
+        "rnum": 0,
+        "cd": "f30bb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 69,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "흔"
+    }
+]

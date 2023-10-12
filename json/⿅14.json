@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09ea1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 198,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "제 : 뿔이앞으로굽은사 슴(제/재)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a2ee",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 198,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "여"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a2ef",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 198,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "유"
+    }
+]

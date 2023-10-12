@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "098cc",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 182,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "풍 : 바람(풍)"
+    },
+    {
+        "rnum": 0,
+        "cd": "098cd",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 182,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "휴 : 태풍(휴) 놀라 달아날(휴)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2965d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 182,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "섭"
+    },
+    {
+        "rnum": 0,
+        "cd": "2965e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 182,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "표"
+    }
+]

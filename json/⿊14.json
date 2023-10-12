@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09ef6",
+        "ex": 1,
+        "ineum": "염",
+        "in": "염 : 검은사마귀(염)",
+        "em": 0,
+        "rad_id": 203,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "04d75",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 203,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "촬"
+    },
+    {
+        "rnum": 0,
+        "cd": "2a4b4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 203,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "대"
+    }
+]

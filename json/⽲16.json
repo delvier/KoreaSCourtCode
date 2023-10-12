@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0418a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "기,미"
+    },
+    {
+        "rnum": 0,
+        "cd": "0418d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "롱"
+    },
+    {
+        "rnum": 0,
+        "cd": "25901",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "준"
+    },
+    {
+        "rnum": 0,
+        "cd": "25903",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "유"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0823",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 115,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "색"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "20ad3",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 28,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "돌"
+    },
+    {
+        "rnum": 0,
+        "cd": "20ad4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 28,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "굉"
+    },
+    {
+        "rnum": 0,
+        "cd": "20ad5",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 28,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "거"
+    }
+]

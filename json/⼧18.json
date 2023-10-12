@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03771",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 40,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "몽"
+    },
+    {
+        "rnum": 0,
+        "cd": "05bf7",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 40,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "풍 : 큰집(풍)"
+    },
+    {
+        "rnum": 0,
+        "cd": "21afd",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 40,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "어"
+    },
+    {
+        "rnum": 0,
+        "cd": "f073c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 40,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "보"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2b8b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 40,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 18,
+        "isin": 0,
+        "dic": "헌"
+    }
+]

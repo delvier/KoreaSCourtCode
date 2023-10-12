@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09581",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 169,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "말 : 흘겨볼(말)"
+    },
+    {
+        "rnum": 0,
+        "cd": "09582",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 169,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "산 : 문빗장(산)"
+    },
+    {
+        "rnum": 0,
+        "cd": "095e9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 169,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "산 : 문빗장(산)"
+    },
+    {
+        "rnum": 0,
+        "cd": "28cc9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 169,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "할"
+    }
+]

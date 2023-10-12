@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "065b0",
+        "ex": 1,
+        "ineum": "신",
+        "in": "신 : 새(신)",
+        "em": 0,
+        "rad_id": 69,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "신 : 새(신)"
+    },
+    {
+        "rnum": 0,
+        "cd": "065b1",
+        "ex": 1,
+        "ineum": "작",
+        "in": "작 : 쪼갤(작) 베어낼(작)",
+        "em": 0,
+        "rad_id": 69,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "근,기,도,돈,석,소,자"
+    },
+    {
+        "rnum": 0,
+        "cd": "230ae",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 69,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "두"
+    },
+    {
+        "rnum": 0,
+        "cd": "230b0",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 69,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "정"
+    }
+]

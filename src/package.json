@@ -1,0 +1,19 @@
+{
+  "name": "korea-scourt-code",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/better-sqlite3": "^7.6.5",
+    "better-sqlite3": "^9.0.0"
+  }
+}

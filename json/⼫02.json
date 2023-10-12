@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05c3b",
+        "ex": 1,
+        "ineum": "고",
+        "in": "고 : 꽁무니(고)",
+        "em": 0,
+        "rad_id": 44,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "고 : 꽁무니(고)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c3c",
+        "ex": 1,
+        "ineum": "니,이",
+        "in": "니,이 : 중(니/이) 가까울(니/이)",
+        "em": 0,
+        "rad_id": 44,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "노,이"
+    },
+    {
+        "rnum": 0,
+        "cd": "0378b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 44,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "년,연,적,직"
+    },
+    {
+        "rnum": 0,
+        "cd": "21c25",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 44,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "이,인"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0e7e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 44,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "울"
+    }
+]

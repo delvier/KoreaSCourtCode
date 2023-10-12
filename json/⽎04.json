@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03c7d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 79,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "금,침"
+    },
+    {
+        "rnum": 0,
+        "cd": "06bb4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 79,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "구 : 칠(구)"
+    },
+    {
+        "rnum": 0,
+        "cd": "23a82",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 79,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 0,
+        "dic": "반"
+    }
+]

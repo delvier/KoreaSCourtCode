@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05e7b",
+        "ex": 1,
+        "ineum": "환",
+        "in": "환 : 변할(환) 허깨비(환)",
+        "em": 0,
+        "rad_id": 52,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 1,
+        "dic": "환 : 변할(환) 허깨 비(환)"
+    },
+    {
+        "rnum": 0,
+        "cd": "221af",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 52,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "멱"
+    }
+]

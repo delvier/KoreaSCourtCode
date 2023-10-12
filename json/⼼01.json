@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05fc5",
+        "ex": 1,
+        "ineum": "필",
+        "in": "필 : 반드시(필)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 1,
+        "dic": "필 : 반드시(필)"
+    },
+    {
+        "rnum": 0,
+        "cd": "038fa",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "심"
+    },
+    {
+        "rnum": 0,
+        "cd": "05fc6",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "억"
+    }
+]

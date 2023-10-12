@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "065e6",
+        "ex": 1,
+        "ineum": "단",
+        "in": "단 : 아침(단)",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 1,
+        "dic": "소,조"
+    },
+    {
+        "rnum": 0,
+        "cd": "065e7",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "구 : 舊(옛(구))의  俗字"
+    },
+    {
+        "rnum": 0,
+        "cd": "2313b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 72,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 1,
+        "isin": 0,
+        "dic": "탁"
+    }
+]

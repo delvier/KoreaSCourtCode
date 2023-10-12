@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "06205",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "당 : 戇(어리석을(당))의 俗字"
+    },
+    {
+        "rnum": 0,
+        "cd": "06206",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "당 : 戇(어리석을(당))의 略字"
+    },
+    {
+        "rnum": 0,
+        "cd": "2297d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 61,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "톤"
+    },
+    {
+        "rnum": 0,
+        "cd": "22982",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 61,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "란"
+    },
+    {
+        "rnum": 0,
+        "cd": "f04b9",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 61,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 21,
+        "isin": 0,
+        "dic": "련"
+    }
+]

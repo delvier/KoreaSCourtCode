@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "03531",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "유"
+    },
+    {
+        "rnum": 0,
+        "cd": "0532c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "유 : 휘(유)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0532d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "궤 : 갑(궤) 묶을(궤)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0532e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "궤 : 갑(궤)의 略字"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2e6b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 22,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "거"
+    }
+]

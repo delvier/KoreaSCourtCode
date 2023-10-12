@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04d3e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 199,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "차"
+    },
+    {
+        "rnum": 0,
+        "cd": "04d3f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 199,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "몽"
+    },
+    {
+        "rnum": 0,
+        "cd": "04d40",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 199,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "솨,쇄"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0d8a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 199,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "온"
+    }
+]

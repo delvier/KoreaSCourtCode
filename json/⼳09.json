@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05e7e",
+        "ex": 1,
+        "ineum": "기",
+        "in": "기 : 얼마(기) 거의(기)",
+        "em": 0,
+        "rad_id": 52,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "기 : 얼마(기) 거의 (기)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0386b",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 52,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "에,예"
+    },
+    {
+        "rnum": 0,
+        "cd": "0386c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 52,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "기"
+    },
+    {
+        "rnum": 0,
+        "cd": "f334a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 52,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 0,
+        "dic": "수"
+    }
+]

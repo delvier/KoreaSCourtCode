@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "07f47",
+        "ex": 1,
+        "ineum": "준",
+        "in": "준 : 술그릇(준)",
+        "em": 0,
+        "rad_id": 121,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "07f48",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 121,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "담 : 술단지(담)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07f49",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 121,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "장"
+    },
+    {
+        "rnum": 0,
+        "cd": "26255",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 121,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "선"
+    }
+]

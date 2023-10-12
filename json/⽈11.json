@@ -1,0 +1,58 @@
+[
+    {
+        "rnum": 0,
+        "cd": "23346",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "녕,향"
+    },
+    {
+        "rnum": 0,
+        "cd": "23347",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "취"
+    },
+    {
+        "rnum": 0,
+        "cd": "23348",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "풍"
+    },
+    {
+        "rnum": 0,
+        "cd": "f3414",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 0,
+        "dic": "지"
+    }
+]

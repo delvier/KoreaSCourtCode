@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08fa2",
+        "ex": 1,
+        "ineum": "날,랄",
+        "in": "날,랄 : 매울(랄)",
+        "em": 0,
+        "rad_id": 160,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "08fa3",
+        "ex": 1,
+        "ineum": "날,랄",
+        "in": "날,랄 : 매울(날/랄)",
+        "em": 0,
+        "rad_id": 160,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": "랄 : 매울(랄)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08fa1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "면,변 : 죄인서로송할 (변)"
+    },
+    {
+        "rnum": 0,
+        "cd": "28419",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "벽,설,악"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2fac",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 160,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 0,
+        "dic": "예"
+    }
+]

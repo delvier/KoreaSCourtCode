@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "0883c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "곽,구 : 집게벌레(구) 큰원숭이(각)"
+    },
+    {
+        "rnum": 0,
+        "cd": "2757d",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "잠"
+    },
+    {
+        "rnum": 0,
+        "cd": "2757e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "절"
+    },
+    {
+        "rnum": 0,
+        "cd": "27580",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "절"
+    },
+    {
+        "rnum": 0,
+        "cd": "f1bf5",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 142,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 0,
+        "dic": "라"
+    }
+]

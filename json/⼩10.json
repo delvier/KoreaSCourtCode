@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05c1f",
+        "ex": 1,
+        "ineum": "선",
+        "in": "선 : 적을(선)",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "05c20",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 42,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 0,
+        "dic": "선 : 적을(선)"
+    }
+]

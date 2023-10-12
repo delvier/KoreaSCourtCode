@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05c36",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "감"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c37",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "감 : 걸끄러울(감)"
+    },
+    {
+        "rnum": 0,
+        "cd": "21c1c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 43,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 0,
+        "dic": "취"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "091c3",
+        "ex": 1,
+        "ineum": "시",
+        "in": "시 : 거를(시)",
+        "em": 0,
+        "rad_id": 164,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "091c4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 164,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 0,
+        "dic": "미"
+    }
+]

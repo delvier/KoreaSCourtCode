@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "081fa",
+        "ex": 1,
+        "ineum": "대",
+        "in": "대 : 대(대)",
+        "em": 0,
+        "rad_id": 133,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "태"
+    },
+    {
+        "rnum": 0,
+        "cd": "26942",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 133,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "치"
+    },
+    {
+        "rnum": 0,
+        "cd": "f29eb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 133,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "진"
+    }
+]

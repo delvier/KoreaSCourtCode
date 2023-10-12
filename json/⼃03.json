@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "04e4b",
+        "ex": 1,
+        "ineum": "지",
+        "in": "지 : 갈(지) 이를(지)",
+        "em": 0,
+        "rad_id": 4,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "백"
+    },
+    {
+        "rnum": 0,
+        "cd": "05c39",
+        "ex": 1,
+        "ineum": "윤",
+        "in": "윤 : 벼슬(윤) 다스릴(윤)",
+        "em": 0,
+        "rad_id": 4,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "윤 : 벼슬(윤) 다스 릴(윤)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04e4c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 4,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "오 : 烏(까마귀(오) 의 略字"
+    },
+    {
+        "rnum": 0,
+        "cd": "2008f",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 4,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "유"
+    },
+    {
+        "rnum": 0,
+        "cd": "20092",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 4,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "생"
+    }
+]

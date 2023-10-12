@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "07fbb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 123,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "앙,양 : 사람이름(앙)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07fbc",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 123,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "찬 : 섞을(찬)"
+    },
+    {
+        "rnum": 0,
+        "cd": "263e2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 123,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "매"
+    },
+    {
+        "rnum": 0,
+        "cd": "263e3",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 123,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "겸"
+    },
+    {
+        "rnum": 0,
+        "cd": "263e7",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 123,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 0,
+        "dic": "숙"
+    }
+]

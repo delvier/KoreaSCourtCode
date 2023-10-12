@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08031",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 127,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "마 : 넓게갈(마)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08032",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 127,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "회"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "066f4",
+        "ex": 1,
+        "ineum": "갱,경",
+        "in": "갱,경 : 고칠(경) 다시(갱)",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "갱,경 : 고칠(경)  다시(갱)"
+    },
+    {
+        "rnum": 0,
+        "cd": "066f5",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 73,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 0,
+        "dic": "예"
+    }
+]

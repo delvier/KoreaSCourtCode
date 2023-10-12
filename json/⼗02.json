@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "05345",
+        "ex": 1,
+        "ineum": "삽",
+        "in": "삽 : 서른(삽)",
+        "em": 0,
+        "rad_id": 24,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "주"
+    },
+    {
+        "rnum": 0,
+        "cd": "05347",
+        "ex": 1,
+        "ineum": "승",
+        "in": "승 : 되(승) 오를(승)",
+        "em": 0,
+        "rad_id": 24,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "승 : 되(승) 오를(승)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05348",
+        "ex": 1,
+        "ineum": "오",
+        "in": "오 : 일곱째지지(오) 낮(오)",
+        "em": 0,
+        "rad_id": 24,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "오 : 일곱째지지(오)  낮(오)"
+    },
+    {
+        "rnum": 0,
+        "cd": "03539",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 24,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "륵"
+    },
+    {
+        "rnum": 0,
+        "cd": "05346",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 24,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 0,
+        "dic": "졸 : 卒(군사(졸)) 의 俗字"
+    }
+]

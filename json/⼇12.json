@@ -1,0 +1,72 @@
+[
+    {
+        "rnum": 0,
+        "cd": "a00d2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 8,
+        "type": "A",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "라"
+    },
+    {
+        "rnum": 0,
+        "cd": "f018e",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 8,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "경"
+    },
+    {
+        "rnum": 0,
+        "cd": "f128a",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 8,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "준"
+    },
+    {
+        "rnum": 0,
+        "cd": "f192c",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 8,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "경"
+    },
+    {
+        "rnum": 0,
+        "cd": "f2db2",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 8,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "효"
+    }
+]

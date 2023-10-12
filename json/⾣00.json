@@ -1,0 +1,30 @@
+[
+    {
+        "rnum": 0,
+        "cd": "09149",
+        "ex": 1,
+        "ineum": "유",
+        "in": "유 : 열째지지(유)",
+        "em": 0,
+        "rad_id": 164,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 1,
+        "dic": "유 : 열째지지(유)"
+    },
+    {
+        "rnum": 0,
+        "cd": "a0045",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 164,
+        "type": "A",
+        "totstroke": 0,
+        "stroke": 0,
+        "isin": 0,
+        "dic": "정"
+    }
+]

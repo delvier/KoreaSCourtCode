@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "065b4",
+        "ex": 1,
+        "ineum": "린",
+        "in": "린 : 돌사이로흐르는 물소리(린)",
+        "em": 0,
+        "rad_id": 69,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "인 : 돌사이로흐르 는물소리(인)"
+    },
+    {
+        "rnum": 0,
+        "cd": "230c1",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 69,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "촉"
+    },
+    {
+        "rnum": 0,
+        "cd": "230c6",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 69,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 0,
+        "dic": "착"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "053e2",
+        "ex": 1,
+        "ineum": "총",
+        "in": "총 : 모일(총)",
+        "em": 0,
+        "rad_id": 29,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 1,
+        "dic": "총 : 모일(총)"
+    },
+    {
+        "rnum": 0,
+        "cd": "20b90",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 29,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "출"
+    },
+    {
+        "rnum": 0,
+        "cd": "f0acb",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 29,
+        "type": "F",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 0,
+        "dic": "쌍"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "rnum": 0,
+        "cd": "08987",
+        "ex": 1,
+        "ineum": "패",
+        "in": "패 : 두목(패)",
+        "em": 0,
+        "rad_id": 146,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": "폐 : 두목(패)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08988",
+        "ex": 1,
+        "ineum": "핵",
+        "in": "핵 : 핵실할(핵)",
+        "em": 0,
+        "rad_id": 146,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "27802",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 146,
+        "type": "2",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 0,
+        "dic": "곡"
+    }
+]
