@@ -1,5 +1,5 @@
+img/*/
 src/node_modules
 src/index.js
-data/webhanja.db-shm
-data/webhanja.db-wal
-img
+webhanja.db-shm
+webhanja.db-wal
