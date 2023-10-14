@@ -115,8 +115,8 @@ async function __main__() {
             i = 1;
         }
     }
-    if (!fs.existsSync(`../json)`)) fs.mkdirSync(`../json`);
-    if (!fs.existsSync(`../img)`)) fs.mkdirSync(`../img`);
+    if (!fs.existsSync(`../json`)) fs.mkdirSync(`../json`);
+    if (!fs.existsSync(`../img`)) fs.mkdirSync(`../img`);
     if (i === 215) console.log(`Fetch job has been done before.`);
     for (i; i <= 214; i++) {
         console.log(`Radical ${i}: ${String.fromCodePoint(KXRD + i)}`);
@@ -147,11 +147,12 @@ async function __main__() {
             stroke INTEGER,
             totstroke INTEGER,
             em INTEGER,
-            \`in\` TEXT,
+            inm TEXT,
             dic TEXT,
             isin INTEGER,
             ineum TEXT,
-            image BLOB
+            image BLOB,
+            PRIMARY KEY (cd, rad_id, stroke)
         );`).run();
     const jsons: Array<string> = fs.readdirSync(`../json`);
     for (const file of jsons) {
@@ -168,7 +169,7 @@ async function __main__() {
                     $stroke,
                     $totstroke,
                     $em,
-                    $in,
+                    $inm,
                     $dic,
                     $isin,
                     $ineum,
@@ -181,7 +182,7 @@ async function __main__() {
                     stroke: x.stroke,
                     totstroke: x.totstroke,
                     em: x.em,
-                    in: x.in,
+                    inm: x.in,
                     dic: x.dic,
                     isin: x.isin,
                     ineum: x.ineum,
