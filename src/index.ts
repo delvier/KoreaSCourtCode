@@ -1,6 +1,7 @@
 import * as fs from 'node:fs';
 import * as https from 'node:https';
 import * as Database from 'better-sqlite3';
+import * as readline from 'node:readline';
 
 var SCOURT_URL: string = "https://efamily.scourt.go.kr";
 var WHJSEARCH_URL: string = "/webhanja/whjsearch";
@@ -8,6 +9,11 @@ var WHJCSS_URL: string = "/webhanja/whjcss";
 var WHJCSSIMG_URL: string = "/webhanja/whjfontimg";
 var WEBIME_URL: string = "/webhanja/whjime";
 var KXRD: number = 0x2EFF;
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout,
+});
 
 interface HanjaData {
     cd: string, //unicode
@@ -97,27 +103,8 @@ const img_ListUnicodeByRadicalStroke = async (rad_id: number, stroke: number, id
 
 async function __main__() {
     var i: number = 1;
-    process.on('SIGINT', (signal) => {
-        console.log(`Received ${signal}. Suspended.`);
-        fs.writeFileSync(`status.log`, i.toString());
-        process.exit(2);
-    });
-    if (fs.existsSync(`status.log`)) {
-        const q = fs.readFileSync(`status.log`, 'utf-8');
-        if (typeof(q) === `string` && q.startsWith(`done`)) {
-            i = 215;
-        } else if (typeof(q) === `string`) {
-            i = parseInt(q);
-            if (isNaN(i)) {
-                i = 1;
-            }
-        } else {
-            i = 1;
-        }
-    }
     if (!fs.existsSync(`../json`)) fs.mkdirSync(`../json`);
     if (!fs.existsSync(`../img`)) fs.mkdirSync(`../img`);
-    if (i === 215) console.log(`Fetch job has been done before.`);
     for (i; i <= 214; i++) {
         console.log(`Radical ${i}: ${String.fromCodePoint(KXRD + i)}`);
         let LSBR = await listStrokeByRadical(i);
@@ -134,11 +121,20 @@ async function __main__() {
             }
         }
     };
-    fs.writeFileSync(`status.log`, `done`);
     console.log(`Creating database...`)
-    const db = Database('../webhanja.db');
-    db.pragma('journal_mode=WAL;');
-    db.prepare(`DROP TABLE IF EXISTS webhanja;`).run();
+    var db;
+    try {
+        db = Database('../webhanja.db');
+        db.pragma('journal_mode=WAL;');
+        db.prepare(`DROP TABLE IF EXISTS webhanja;`).run();
+    } catch (e) {
+        console.log(`Removing previously generated files...`);
+        fs.rmSync('../webhanja.db');
+        fs.rmSync('../webhanja.db-shm');
+        fs.rmSync('../webhanja.db-wal');
+        db = Database('../webhanja.db');
+        db.pragma('journal_mode=WAL;');
+    }
     db.prepare(`CREATE TABLE webhanja (
             cd TEXT,
             ex INTEGER,
@@ -191,7 +187,7 @@ async function __main__() {
             }
         }
     }
-    process.stdout.write(`\nDone!\n`);
+    process.stdout.write(`\nDone! Please wait little while completing...\n`);
     db.close();
 }
 
