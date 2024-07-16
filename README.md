@@ -30,4 +30,4 @@ Please do not run the script in `src` abusively.
 
 #### Known issues
 
-* There may exist some replacement characters(U+FFFC) in the downloaded JSON files. Those are corrected manually in this repository.
+* There may exist some replacement characters (U+FFFD) in the downloaded JSON files. Those are corrected manually in this repository.
