@@ -1,21 +1,21 @@
 [
     {
         "rnum": 0,
-        "cd": "05dec",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
+        "cd": "05ded",
+        "ex": 1,
+        "ineum": "부",
+        "in": "부",
         "em": 0,
         "rad_id": 48,
         "type": "0",
         "totstroke": 0,
         "stroke": 6,
-        "isin": 0,
-        "dic": "부"
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
-        "cd": "05ded",
+        "cd": "05dec",
         "ex": 0,
         "ineum": "",
         "in": "",

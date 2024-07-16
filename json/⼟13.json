@@ -85,6 +85,20 @@
     },
     {
         "rnum": 0,
+        "cd": "058c6",
+        "ex": 1,
+        "ineum": "학",
+        "in": "학 : 흙굳을(학)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "058c7",
         "ex": 1,
         "ineum": "단",
@@ -306,20 +320,6 @@
         "stroke": 13,
         "isin": 0,
         "dic": "야 : 野(들(야))의  古字"
-    },
-    {
-        "rnum": 0,
-        "cd": "058c6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "학 : 흙굳을(학)"
     },
     {
         "rnum": 0,

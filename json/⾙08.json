@@ -71,6 +71,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08cdd",
+        "ex": 1,
+        "ineum": "침",
+        "in": "침 : 보배(침)",
+        "em": 0,
+        "rad_id": 154,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08cde",
         "ex": 1,
         "ineum": "상",
@@ -362,20 +376,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "창"
-    },
-    {
-        "rnum": 0,
-        "cd": "08cdd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 154,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "침 : 보배(침)"
     },
     {
         "rnum": 0,

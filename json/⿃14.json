@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "09e0e",
+        "ex": 1,
+        "ineum": "앵",
+        "in": "앵 : 꾀꼬리(앵)",
+        "em": 0,
+        "rad_id": 196,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "영"
+    },
+    {
+        "rnum": 0,
         "cd": "09e0f",
         "ex": 1,
         "ineum": "몽",
@@ -82,20 +96,6 @@
         "stroke": 14,
         "isin": 0,
         "dic": "미,시 : 짐새(시/미)"
-    },
-    {
-        "rnum": 0,
-        "cd": "09e0e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 196,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "앵,영 : 꾀꼬리(앵)"
     },
     {
         "rnum": 0,

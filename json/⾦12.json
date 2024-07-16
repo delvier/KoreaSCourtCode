@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "093f5",
+        "ex": 1,
+        "ineum": "화",
+        "in": "화 : 가래(화)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "093f6",
         "ex": 1,
         "ineum": "집",
@@ -43,6 +57,20 @@
     },
     {
         "rnum": 0,
+        "cd": "09400",
+        "ex": 1,
+        "ineum": "궤",
+        "in": "궤 : 궤(궤)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "경,귀"
+    },
+    {
+        "rnum": 0,
         "cd": "09403",
         "ex": 1,
         "ineum": "뇨,요",
@@ -68,6 +96,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "광,호,홍,황 : 허(횡/황)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0940c",
+        "ex": 1,
+        "ineum": "상",
+        "in": "상 : 그릇꼭지(상)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -166,6 +208,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "0941b",
+        "ex": 1,
+        "ineum": "영",
+        "in": "영 : 물릴(영)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "경"
     },
     {
         "rnum": 0,
@@ -393,20 +449,6 @@
     },
     {
         "rnum": 0,
-        "cd": "093f5",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "화 : 가래(화)"
-    },
-    {
-        "rnum": 0,
         "cd": "093f7",
         "ex": 0,
         "ineum": "",
@@ -488,20 +530,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "쟁,청 : 종소리(쟁)"
-    },
-    {
-        "rnum": 0,
-        "cd": "09400",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "경,궤,귀 : 궤(궤)"
     },
     {
         "rnum": 0,
@@ -631,20 +659,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0940c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "상 : 그릇꼭지(상)"
-    },
-    {
-        "rnum": 0,
         "cd": "0940e",
         "ex": 0,
         "ineum": "",
@@ -740,20 +754,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "아 : 경개(아)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0941b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "경,영 : 물릴(영)"
     },
     {
         "rnum": 0,

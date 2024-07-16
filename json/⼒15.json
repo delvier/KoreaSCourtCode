@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "052f4",
+        "ex": 1,
+        "ineum": "려",
+        "in": "려 : 마음으로 도울(려)",
+        "em": 0,
+        "rad_id": 19,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "052f5",
         "ex": 1,
         "ineum": "려,여",
@@ -68,20 +82,6 @@
         "stroke": 15,
         "isin": 0,
         "dic": "양"
-    },
-    {
-        "rnum": 0,
-        "cd": "052f4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 19,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "려 : 마음으로도울(려)"
     },
     {
         "rnum": 0,

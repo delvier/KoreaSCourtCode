@@ -29,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06561",
+        "ex": 1,
+        "ineum": "이",
+        "in": "이 : 업신여길(이)",
+        "em": 0,
+        "rad_id": 66,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06562",
         "ex": 1,
         "ineum": "감",
@@ -54,6 +68,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "산 : 헤어질(산)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06564",
+        "ex": 1,
+        "ineum": "과",
+        "in": "과 : 다스릴(과)",
+        "em": 0,
+        "rad_id": 66,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -292,34 +320,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "철 : 드레질할(철)  무게짐작(할)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06561",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 66,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "이 : 업신여길(이)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06564",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 66,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "과 : 다스릴(과)"
     },
     {
         "rnum": 0,

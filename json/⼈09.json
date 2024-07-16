@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "05015",
+        "ex": 1,
+        "ineum": "수",
+        "in": "수 : 무거울(수) 이름(수)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0503b",
         "ex": 1,
         "ineum": "야",
@@ -12,6 +26,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "가,라"
+    },
+    {
+        "rnum": 0,
+        "cd": "05040",
+        "ex": 1,
+        "ineum": "영",
+        "in": "영 : 빼어날(영)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -169,6 +197,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05057",
+        "ex": 1,
+        "ineum": "성",
+        "in": "성 : 길(성) 곧을(성)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05058",
         "ex": 1,
         "ineum": "간",
@@ -222,6 +264,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "정 : 머무를(정)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0505e",
+        "ex": 1,
+        "ineum": "엽",
+        "in": "엽 : 가벼울(엽) 낮을(엽) 얼굴예쁠(엽)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -320,6 +376,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "사,쉬,식 : 아름다울(채)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05073",
+        "ex": 1,
+        "ineum": "단",
+        "in": "단 : 적을(단) 작을(단)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "서,유"
     },
     {
         "rnum": 0,
@@ -460,34 +530,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "남,비"
-    },
-    {
-        "rnum": 0,
-        "cd": "05015",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "수 : 무거울(수) 이 름(수)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05040",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "영 : 빼어날(영)"
     },
     {
         "rnum": 0,
@@ -645,20 +687,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05057",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "성 : 길(성) 곧을(성)"
-    },
-    {
-        "rnum": 0,
         "cd": "0505b",
         "ex": 0,
         "ineum": "",
@@ -684,20 +712,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "배,패 : 등(배) 해 무리(배)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0505e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "엽 : 가벼울(엽) 낮 을(엽) 얼굴예쁠(엽)"
     },
     {
         "rnum": 0,
@@ -880,20 +894,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "순"
-    },
-    {
-        "rnum": 0,
-        "cd": "05073",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "단,서,유 : 적을(단) 작을(단)"
     },
     {
         "rnum": 0,

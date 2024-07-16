@@ -85,6 +85,34 @@
     },
     {
         "rnum": 0,
+        "cd": "04eda",
+        "ex": 1,
+        "ineum": "현",
+        "in": "현",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "선,헌 : 사람산위에 있을(헌)"
+    },
+    {
+        "rnum": 0,
+        "cd": "04edc",
+        "ex": 1,
+        "ineum": "홍",
+        "in": "홍 : 배클(홍)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "공"
+    },
+    {
+        "rnum": 0,
         "cd": "04edd",
         "ex": 1,
         "ineum": "동",
@@ -295,20 +323,6 @@
     },
     {
         "rnum": 0,
-        "cd": "04eda",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 3,
-        "isin": 0,
-        "dic": "헌,현 : 사람산위에있 을(헌)"
-    },
-    {
-        "rnum": 0,
         "cd": "04edb",
         "ex": 0,
         "ineum": "",
@@ -320,20 +334,6 @@
         "stroke": 3,
         "isin": 0,
         "dic": "임,차,타,탁 : 젊은 계집(차) 부칠(탁)"
-    },
-    {
-        "rnum": 0,
-        "cd": "04edc",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 3,
-        "isin": 0,
-        "dic": "공,홍 : 배클(홍)"
     },
     {
         "rnum": 0,

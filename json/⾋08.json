@@ -57,6 +57,20 @@
     },
     {
         "rnum": 0,
+        "cd": "083c4",
+        "ex": 1,
+        "ineum": "동",
+        "in": "동 : 흰산국화(동)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "래"
+    },
+    {
+        "rnum": 0,
         "cd": "083c5",
         "ex": 1,
         "ineum": "관",
@@ -99,6 +113,20 @@
     },
     {
         "rnum": 0,
+        "cd": "083cb",
+        "ex": 1,
+        "ineum": "미",
+        "in": "미 : 오미자(미)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "083cc",
         "ex": 1,
         "ineum": "균",
@@ -110,6 +138,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "균 : 버섯(균)"
+    },
+    {
+        "rnum": 0,
+        "cd": "083cf",
+        "ex": 1,
+        "ineum": "가,하",
+        "in": "가,하 : 늪이름(가) 무우(하) ",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -340,7 +382,7 @@
         "cd": "083f6",
         "ex": 1,
         "ineum": "봉",
-        "in": "봉 : 우거��(봉)",
+        "in": "봉 : 우거질(봉)",
         "em": 0,
         "rad_id": 140,
         "type": "0",
@@ -390,6 +432,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "숙 : 콩(숙)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08401",
+        "ex": 1,
+        "ineum": "기",
+        "in": "기 : 콩대(기)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -1261,20 +1317,6 @@
     },
     {
         "rnum": 0,
-        "cd": "083c4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "동,래 : 흰산국화(동)"
-    },
-    {
-        "rnum": 0,
         "cd": "083c6",
         "ex": 0,
         "ineum": "",
@@ -1317,20 +1359,6 @@
     },
     {
         "rnum": 0,
-        "cd": "083cb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "미 : 오미자(미)"
-    },
-    {
-        "rnum": 0,
         "cd": "083cd",
         "ex": 0,
         "ineum": "",
@@ -1356,20 +1384,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "건,곤 : 향물(곤)"
-    },
-    {
-        "rnum": 0,
-        "cd": "083cf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "가,하 : 무우(하)  늪이름(가)"
     },
     {
         "rnum": 0,
@@ -1776,20 +1790,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "호"
-    },
-    {
-        "rnum": 0,
-        "cd": "08401",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "기 : 콩대(기)"
     },
     {
         "rnum": 0,

@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "055c2",
+        "ex": 1,
+        "ineum": "요",
+        "in": "요 : 기꺼울(요) 즐거울(요)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "055c3",
         "ex": 1,
         "ineum": "학",
@@ -82,6 +96,20 @@
         "stroke": 10,
         "isin": 1,
         "dic": "진 : 성낼(진)"
+    },
+    {
+        "rnum": 0,
+        "cd": "055d9",
+        "ex": 1,
+        "ineum": "방",
+        "in": "방 : 큰소리할(방)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -477,20 +505,6 @@
     },
     {
         "rnum": 0,
-        "cd": "055c2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "요 : 기꺼울(요) 즐 거울(요)"
-    },
-    {
-        "rnum": 0,
         "cd": "055c4",
         "ex": 0,
         "ineum": "",
@@ -712,20 +726,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "계 : 소리(계)"
-    },
-    {
-        "rnum": 0,
-        "cd": "055d9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "방 : 큰소리할(방)"
     },
     {
         "rnum": 0,
@@ -1621,7 +1621,7 @@
         "totstroke": 0,
         "stroke": 10,
         "isin": 0,
-        "dic": "���"
+        "dic": "수"
     },
     {
         "rnum": 0,

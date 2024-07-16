@@ -43,6 +43,34 @@
     },
     {
         "rnum": 0,
+        "cd": "0927a",
+        "ex": 1,
+        "ineum": "이",
+        "in": "이 : 갈고리(이)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "0927b",
+        "ex": 1,
+        "ineum": "락",
+        "in": "락 : 깍을(락)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "낙,명"
+    },
+    {
+        "rnum": 0,
         "cd": "0927c",
         "ex": 1,
         "ineum": "병",
@@ -57,6 +85,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0927d",
+        "ex": 1,
+        "ineum": "식",
+        "in": "식 : 솥(식)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "09280",
         "ex": 1,
         "ineum": "은",
@@ -68,6 +110,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "근"
+    },
+    {
+        "rnum": 0,
+        "cd": "09282",
+        "ex": 1,
+        "ineum": "주",
+        "in": "주 : 금칼(주)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -239,6 +295,20 @@
     },
     {
         "rnum": 0,
+        "cd": "092a7",
+        "ex": 1,
+        "ineum": "광",
+        "in": "광 : 라듐(광)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "04924",
         "ex": 0,
         "ineum": "",
@@ -379,48 +449,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0927a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "이 : 갈고리(이)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0927b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "낙,락,명 : 깍을(락)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0927d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "식 : 솥(식)"
-    },
-    {
-        "rnum": 0,
         "cd": "0927e",
         "ex": 0,
         "ineum": "",
@@ -460,20 +488,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "규,균,순"
-    },
-    {
-        "rnum": 0,
-        "cd": "09282",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "주 : 금칼(주)"
     },
     {
         "rnum": 0,
@@ -796,20 +810,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "고,인"
-    },
-    {
-        "rnum": 0,
-        "cd": "092a7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "광 : 라듐(광)"
     },
     {
         "rnum": 0,

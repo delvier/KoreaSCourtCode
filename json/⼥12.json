@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05af5",
+        "ex": 1,
+        "ineum": "무",
+        "in": "무 : 아리따울(무)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05af6",
         "ex": 1,
         "ineum": "초",
@@ -26,6 +40,34 @@
         "stroke": 12,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "05af8",
+        "ex": 1,
+        "ineum": "선",
+        "in": "선 : 남의말 어기기 좋아할(선)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "전"
+    },
+    {
+        "rnum": 0,
+        "cd": "05af9",
+        "ex": 1,
+        "ineum": "묘",
+        "in": "묘 : 아름다울(묘)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "묘 : 아름다울(묘)"
     },
     {
         "rnum": 0,
@@ -82,6 +124,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "교,기,위,조"
+    },
+    {
+        "rnum": 0,
+        "cd": "05b03",
+        "ex": 1,
+        "ineum": "수",
+        "in": "수 : 누나(수)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -267,20 +323,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05af5",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "무 : 아리따울(무)"
-    },
-    {
-        "rnum": 0,
         "cd": "05af7",
         "ex": 0,
         "ineum": "",
@@ -292,34 +334,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "타 : 떨어질(타) 상 투(타) 무너뜨릴(휴) 게으를(휴)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05af8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "선,전 : 남의말어기기 좋아할(선)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05af9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "묘 : 아름다울(묘)"
     },
     {
         "rnum": 0,
@@ -390,20 +404,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "직 : 여자이름(직)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05b03",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "수 : 누나(수)"
     },
     {
         "rnum": 0,

@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "06e8d",
+        "ex": 1,
+        "ineum": "진",
+        "in": "진 : 물이름(진)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "06e8e",
+        "ex": 1,
+        "ineum": "계,연",
+        "in": "계,연 : 물창일할(연) 물이름(계)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06e8f",
         "ex": 1,
         "ineum": "당",
@@ -141,6 +169,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06ea1",
+        "ex": 1,
+        "ineum": "시",
+        "in": "시 : 빗물(시)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06ea2",
         "ex": 1,
         "ineum": "일",
@@ -159,6 +201,20 @@
         "ex": 1,
         "ineum": "보,부",
         "in": "보,부 : 넓을(부)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "06ea6",
+        "ex": 1,
+        "ineum": "미",
+        "in": "미 : 가랑비(미)",
         "em": 0,
         "rad_id": 85,
         "type": "0",
@@ -267,6 +323,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06eb3",
+        "ex": 1,
+        "ineum": "운",
+        "in": "운 : 물이름(운)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": "연,원"
+    },
+    {
+        "rnum": 0,
         "cd": "06eb5",
         "ex": 1,
         "ineum": "은",
@@ -337,6 +407,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06ebf",
+        "ex": 1,
+        "ineum": "반",
+        "in": "반 : 물가(반)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06ec2",
         "ex": 1,
         "ineum": "방",
@@ -395,15 +479,15 @@
         "rnum": 0,
         "cd": "06ec7",
         "ex": 1,
-        "ineum": "진",
-        "in": "진",
+        "ineum": "신,진",
+        "in": "신,진",
         "em": 0,
         "rad_id": 85,
         "type": "0",
         "totstroke": 0,
         "stroke": 10,
         "isin": 1,
-        "dic": "신,전 : 못이름(전)"
+        "dic": "전"
     },
     {
         "rnum": 0,
@@ -869,34 +953,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06e8d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "진 : 물이름(진)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06e8e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "계,연 : 물창일할(연) 물이름(계)"
-    },
-    {
-        "rnum": 0,
         "cd": "06e91",
         "ex": 0,
         "ineum": "",
@@ -1009,20 +1065,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06ea1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "시 : 빗물(시)"
-    },
-    {
-        "rnum": 0,
         "cd": "06ea3",
         "ex": 0,
         "ineum": "",
@@ -1048,20 +1090,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "마,빙,천 : 물이름(마)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06ea6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "미 : 가랑비(미)"
     },
     {
         "rnum": 0,
@@ -1132,20 +1160,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "기,의 : 흰빛반짝일(기/의)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06eb3",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "연,운,원 : 물이름(운)"
     },
     {
         "rnum": 0,
@@ -1230,20 +1244,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "외 : 더러울(외)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06ebf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "반 : 물가(반)"
     },
     {
         "rnum": 0,

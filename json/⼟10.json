@@ -183,6 +183,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0585d",
+        "ex": 1,
+        "ineum": "방",
+        "in": "방 : 언덕위땅(방)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0585e",
         "ex": 1,
         "ineum": "새,색",
@@ -474,20 +488,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "봉 : 먼지날(봉)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0585d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "방 : 언덕위땅(방)"
     },
     {
         "rnum": 0,

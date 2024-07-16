@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03e3e",
+        "ex": 1,
+        "ineum": "인",
+        "in": "인",
+        "em": 0,
+        "rad_id": 93,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0727d",
         "ex": 1,
         "ineum": "견",
@@ -12,6 +26,20 @@
         "stroke": 7,
         "isin": 1,
         "dic": "견 : 끌(견)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0727e",
+        "ex": 1,
+        "ineum": "오",
+        "in": "오 : 거스를(오)",
+        "em": 0,
+        "rad_id": 93,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -99,20 +127,6 @@
     },
     {
         "rnum": 0,
-        "cd": "03e3e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 93,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "인"
-    },
-    {
-        "rnum": 0,
         "cd": "03e3f",
         "ex": 0,
         "ineum": "",
@@ -166,20 +180,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "경 : 소무릎밑뼈(경)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0727e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 93,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "오 : 거스를(오)"
     },
     {
         "rnum": 0,

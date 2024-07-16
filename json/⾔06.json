@@ -71,6 +71,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08a65",
+        "ex": 1,
+        "ineum": "합",
+        "in": "합 : 화할(합)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08a66",
         "ex": 1,
         "ineum": "시",
@@ -82,6 +96,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "식"
+    },
+    {
+        "rnum": 0,
+        "cd": "08a68",
+        "ex": 1,
+        "ineum": "효",
+        "in": "효 : 부르짖을(효)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -225,6 +253,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08a76",
+        "ex": 1,
+        "ineum": "수,주",
+        "in": "수,주 : 수작할(수) 대답할(수)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08a79",
         "ex": 1,
         "ineum": "첨",
@@ -236,6 +278,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "첨 : 이를(첨) 수다 스러울(첨)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08a7a",
+        "ex": 1,
+        "ineum": "명",
+        "in": "명 : 기록할(명)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -477,20 +533,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08a65",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "합 : 화할(합)"
-    },
-    {
-        "rnum": 0,
         "cd": "08a67",
         "ex": 0,
         "ineum": "",
@@ -502,20 +544,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "찰"
-    },
-    {
-        "rnum": 0,
-        "cd": "08a68",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "효 : 부르짖을(효)"
     },
     {
         "rnum": 0,
@@ -561,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08a76",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "수 : 수작할(수) 대 답할(수)"
-    },
-    {
-        "rnum": 0,
         "cd": "08a77",
         "ex": 0,
         "ineum": "",
@@ -600,20 +614,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "미 : 수수께께(미)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08a7a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "명 : 기록할(명)"
     },
     {
         "rnum": 0,

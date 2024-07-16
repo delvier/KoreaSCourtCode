@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03bd9",
+        "ex": 1,
+        "ineum": "철",
+        "in": "철",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "069e2",
         "ex": 1,
         "ineum": "습",
@@ -113,6 +127,34 @@
     },
     {
         "rnum": 0,
+        "cd": "069f0",
+        "ex": 1,
+        "ineum": "봉",
+        "in": "봉 : 초목무성할(봉)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "069f1",
+        "ex": 1,
+        "ineum": "유",
+        "in": "유 : 화톳불놓을(유)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "069f2",
         "ex": 1,
         "ineum": "곡",
@@ -152,6 +194,20 @@
         "stroke": 11,
         "isin": 1,
         "dic": "조 : 물통(조) 구유 (조) 홈(조)"
+    },
+    {
+        "rnum": 0,
+        "cd": "069fe",
+        "ex": 1,
+        "ineum": "만",
+        "in": "만 : 평고대(만) 흙손(만)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -362,6 +418,20 @@
         "stroke": 11,
         "isin": 1,
         "dic": "창"
+    },
+    {
+        "rnum": 0,
+        "cd": "06a20",
+        "ex": 1,
+        "ineum": "만",
+        "in": "만 : 나무진나올(만)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": "문,치 : 관솔(문)"
     },
     {
         "rnum": 0,
@@ -743,20 +813,6 @@
     },
     {
         "rnum": 0,
-        "cd": "03bd9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "철"
-    },
-    {
-        "rnum": 0,
         "cd": "03be0",
         "ex": 0,
         "ineum": "",
@@ -866,34 +922,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "최 : 나무쌓을(최)"
-    },
-    {
-        "rnum": 0,
-        "cd": "069f0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "봉 : 초목무성할(봉)"
-    },
-    {
-        "rnum": 0,
-        "cd": "069f1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "유 : 화톳불놓을(유)"
     },
     {
         "rnum": 0,
@@ -1020,20 +1048,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "규 : 그림쇠(규) 발 릴(규) 계교할(규)"
-    },
-    {
-        "rnum": 0,
-        "cd": "069fe",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "만 : 평고대(만) 흙 손(만)"
     },
     {
         "rnum": 0,
@@ -1286,20 +1300,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "사,자 : 풀명자나무(사)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06a20",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "만,문,치 : 관솔(문) 나무진나올(만)"
     },
     {
         "rnum": 0,

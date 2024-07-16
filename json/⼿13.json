@@ -169,6 +169,20 @@
     },
     {
         "rnum": 0,
+        "cd": "064cf",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경 : 받들(경) 떠받들(경)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "064d0",
         "ex": 1,
         "ineum": "환",
@@ -474,20 +488,6 @@
         "stroke": 13,
         "isin": 0,
         "dic": "색 : 새잡는덫(색)"
-    },
-    {
-        "rnum": 0,
-        "cd": "064cf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "경 : 받들(경) 떠받 들(경)"
     },
     {
         "rnum": 0,

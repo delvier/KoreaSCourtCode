@@ -1,6 +1,48 @@
 [
     {
         "rnum": 0,
+        "cd": "046f2",
+        "ex": 1,
+        "ineum": "면",
+        "in": "면",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "046f5",
+        "ex": 1,
+        "ineum": "수",
+        "in": "수",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "08aaf",
+        "ex": 1,
+        "ineum": "창",
+        "in": "창 : 唱(노래할(창)과 同字",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08ab0",
         "ex": 1,
         "ineum": "수",
@@ -57,6 +99,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08abd",
+        "ex": 1,
+        "ineum": "나,예",
+        "in": "나,예 : 떠볼(나) 탐색할(예)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "아"
+    },
+    {
+        "rnum": 0,
         "cd": "08abe",
         "ex": 1,
         "ineum": "은",
@@ -110,6 +166,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "준,형"
+    },
+    {
+        "rnum": 0,
+        "cd": "08ac6",
+        "ex": 1,
+        "ineum": "기",
+        "in": "기 : 상의할(기)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -208,6 +278,48 @@
         "stroke": 8,
         "isin": 1,
         "dic": "논,륜,윤 : 말할(논)   논할(논)   차례(륜)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08ad7",
+        "ex": 1,
+        "ineum": "심",
+        "in": "심 : 고할(심) 꾀할(심) 서로생각할(심)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "염"
+    },
+    {
+        "rnum": 0,
+        "cd": "08ad8",
+        "ex": 1,
+        "ineum": "표",
+        "in": "표 : 칭찬할(표)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "08ada",
+        "ex": 1,
+        "ineum": "정",
+        "in": "정 : 분부할(정)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "범"
     },
     {
         "rnum": 0,
@@ -365,20 +477,6 @@
     },
     {
         "rnum": 0,
-        "cd": "046f2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "면"
-    },
-    {
-        "rnum": 0,
         "cd": "046f3",
         "ex": 0,
         "ineum": "",
@@ -404,20 +502,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "기"
-    },
-    {
-        "rnum": 0,
-        "cd": "046f5",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "수"
     },
     {
         "rnum": 0,
@@ -488,20 +572,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "화"
-    },
-    {
-        "rnum": 0,
-        "cd": "08aaf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "창 : 唱(노래할(창) 과 同字"
     },
     {
         "rnum": 0,
@@ -631,20 +701,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08abd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "나,아,예 : 떠볼(나) 탐색할(예)"
-    },
-    {
-        "rnum": 0,
         "cd": "08ac0",
         "ex": 0,
         "ineum": "",
@@ -701,20 +757,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08ac6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "기 : 상의할(기)"
-    },
-    {
-        "rnum": 0,
         "cd": "08ac8",
         "ex": 0,
         "ineum": "",
@@ -753,7 +795,7 @@
         "totstroke": 0,
         "stroke": 8,
         "isin": 0,
-        "dic": "동 : 잔말��(동)"
+        "dic": "동 : 잔말할(동)"
     },
     {
         "rnum": 0,
@@ -841,34 +883,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08ad7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "심,염 : 고할(심)  꾀할(심) 서로생각 할(심)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08ad8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "표 : 칭찬할(표)"
-    },
-    {
-        "rnum": 0,
         "cd": "08ad9",
         "ex": 0,
         "ineum": "",
@@ -880,20 +894,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "화,회 : 그르칠(회)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08ada",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "범,정 : 분부할(정)"
     },
     {
         "rnum": 0,

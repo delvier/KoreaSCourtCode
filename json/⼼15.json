@@ -1,6 +1,48 @@
 [
     {
         "rnum": 0,
+        "cd": "061e9",
+        "ex": 1,
+        "ineum": "양",
+        "in": "양 : 맘가려울(양)  바랄(양)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "061ec",
+        "ex": 1,
+        "ineum": "광",
+        "in": "광 : 뜻못이룰(광)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "061f0",
+        "ex": 1,
+        "ineum": "류,유",
+        "in": "류,유 : 아름다울(류) 근심할(류)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "061f2",
         "ex": 1,
         "ineum": "징",
@@ -71,20 +113,6 @@
     },
     {
         "rnum": 0,
-        "cd": "061e9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "양 : 맘가려울(양)  바랄(양)"
-    },
-    {
-        "rnum": 0,
         "cd": "061ea",
         "ex": 0,
         "ineum": "",
@@ -110,20 +138,6 @@
         "stroke": 15,
         "isin": 0,
         "dic": "치 : 성낼(치)"
-    },
-    {
-        "rnum": 0,
-        "cd": "061ec",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "광 : 뜻못이룰(광)"
     },
     {
         "rnum": 0,
@@ -166,20 +180,6 @@
         "stroke": 15,
         "isin": 0,
         "dic": "부 : 급속할(부)"
-    },
-    {
-        "rnum": 0,
-        "cd": "061f0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "류,유 : 아름다울(류) 근심할(류)"
     },
     {
         "rnum": 0,

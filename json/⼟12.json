@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "0366b",
+        "ex": 1,
+        "ineum": "집",
+        "in": "집",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0366f",
         "ex": 1,
         "ineum": "예",
@@ -82,6 +96,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "허 : 터(허)"
+    },
+    {
+        "rnum": 0,
+        "cd": "058a0",
+        "ex": 1,
+        "ineum": "선",
+        "in": "선 : 제사터(선)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "단"
     },
     {
         "rnum": 0,
@@ -267,20 +295,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0366b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "집"
-    },
-    {
-        "rnum": 0,
         "cd": "0366c",
         "ex": 0,
         "ineum": "",
@@ -320,20 +334,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "답,탑"
-    },
-    {
-        "rnum": 0,
-        "cd": "058a0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "단,선 : 제사터(선)"
     },
     {
         "rnum": 0,

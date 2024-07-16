@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "07fc9",
+        "ex": 1,
+        "ineum": "분",
+        "in": "분 : 날아오를(분)",
+        "em": 0,
+        "rad_id": 124,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "본"
+    },
+    {
+        "rnum": 0,
         "cd": "07fca",
         "ex": 1,
         "ineum": "익",
@@ -180,20 +194,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "갑,압,합 : 쭉지위의 짧은깃(압)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07fc9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 124,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "본,분 : 날아오를(분)"
     },
     {
         "rnum": 0,

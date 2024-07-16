@@ -15,6 +15,34 @@
     },
     {
         "rnum": 0,
+        "cd": "07491",
+        "ex": 1,
+        "ineum": "무",
+        "in": "무",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "07492",
+        "ex": 1,
+        "ineum": "등",
+        "in": "등 : 옥돌(등)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "증"
+    },
+    {
+        "rnum": 0,
         "cd": "07498",
         "ex": 1,
         "ineum": "린,인",
@@ -26,6 +54,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "인,진 : 옥빛(린/인)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0749a",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경 : 옥(경)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "결"
     },
     {
         "rnum": 0,
@@ -82,6 +124,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "영"
+    },
+    {
+        "rnum": 0,
+        "cd": "074a0",
+        "ex": 1,
+        "ineum": "번",
+        "in": "번 : 옥(번)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "반,옥"
     },
     {
         "rnum": 0,
@@ -253,34 +309,6 @@
     },
     {
         "rnum": 0,
-        "cd": "07491",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "무"
-    },
-    {
-        "rnum": 0,
-        "cd": "07492",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "등,증 : 옥돌(등)"
-    },
-    {
-        "rnum": 0,
         "cd": "07494",
         "ex": 0,
         "ineum": "",
@@ -351,20 +379,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0749a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "결,경 : 옥(경)"
-    },
-    {
-        "rnum": 0,
         "cd": "0749b",
         "ex": 0,
         "ineum": "",
@@ -376,20 +390,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "숙 : 옥장인(숙)"
-    },
-    {
-        "rnum": 0,
-        "cd": "074a0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "반,번,옥 : 옥(번)"
     },
     {
         "rnum": 0,

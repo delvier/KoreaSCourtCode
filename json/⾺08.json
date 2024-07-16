@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "09a04",
+        "ex": 1,
+        "ineum": "록",
+        "in": "록 : 말이름(록)",
+        "em": 0,
+        "rad_id": 187,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "롱"
+    },
+    {
+        "rnum": 0,
         "cd": "09a05",
         "ex": 1,
         "ineum": "추",
@@ -236,20 +250,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "단 : 끄는말(단)"
-    },
-    {
-        "rnum": 0,
-        "cd": "09a04",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 187,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "록, 롱 : 말이름(록)"
     },
     {
         "rnum": 0,

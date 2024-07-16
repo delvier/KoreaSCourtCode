@@ -85,6 +85,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05d13",
+        "ex": 1,
+        "ineum": "고",
+        "in": "고 : 섬(고)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05d14",
         "ex": 1,
         "ineum": "최",
@@ -194,6 +208,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "부,형"
+    },
+    {
+        "rnum": 0,
+        "cd": "05d20",
+        "ex": 1,
+        "ineum": "동",
+        "in": "동 : 땅이름(동)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -589,20 +617,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05d13",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "고 : 섬(고)"
-    },
-    {
-        "rnum": 0,
         "cd": "05d1a",
         "ex": 0,
         "ineum": "",
@@ -656,20 +670,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "곽 : 땅이름(곽)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05d20",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "동 : 땅이름(동)"
     },
     {
         "rnum": 0,

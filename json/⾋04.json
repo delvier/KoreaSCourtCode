@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "044a4",
+        "ex": 1,
+        "ineum": "일",
+        "in": "일",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08298",
         "ex": 1,
         "ineum": "비",
@@ -68,6 +82,20 @@
         "stroke": 4,
         "isin": 1,
         "dic": "삼 : 벨(삼) 낫(삼)"
+    },
+    {
+        "rnum": 0,
+        "cd": "082a0",
+        "ex": 1,
+        "ineum": "문",
+        "in": "문 : 풀(문) 분명치않을(문)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "영,지"
     },
     {
         "rnum": 0,
@@ -827,20 +855,6 @@
     },
     {
         "rnum": 0,
-        "cd": "044a4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "일"
-    },
-    {
-        "rnum": 0,
         "cd": "044a5",
         "ex": 0,
         "ineum": "",
@@ -894,20 +908,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "걸 : 향풀(걸)"
-    },
-    {
-        "rnum": 0,
-        "cd": "082a0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "문,영,지 : 풀(문)  분명치않을(문)"
     },
     {
         "rnum": 0,

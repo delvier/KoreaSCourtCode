@@ -29,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "090bf",
+        "ex": 1,
+        "ineum": "시",
+        "in": "시 : 나라이름(시)",
+        "em": 0,
+        "rad_id": 163,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "090c1",
         "ex": 1,
         "ineum": "욱",
@@ -85,6 +99,34 @@
     },
     {
         "rnum": 0,
+        "cd": "090c7",
+        "ex": 1,
+        "ineum": "순",
+        "in": "순 : 땅이름(순)",
+        "em": 0,
+        "rad_id": 163,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "090c8",
+        "ex": 1,
+        "ineum": "후",
+        "in": "후 : 성(후)",
+        "em": 0,
+        "rad_id": 163,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "우"
+    },
+    {
+        "rnum": 0,
         "cd": "090ca",
         "ex": 1,
         "ineum": "교",
@@ -96,6 +138,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "교 : 성밖(교)"
+    },
+    {
+        "rnum": 0,
+        "cd": "090cb",
+        "ex": 1,
+        "ineum": "해",
+        "in": "해 : 마을이름(해)",
+        "em": 0,
+        "rad_id": 163,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "혜 : 마을이름(혜)"
     },
     {
         "rnum": 0,
@@ -239,20 +295,6 @@
     },
     {
         "rnum": 0,
-        "cd": "090bf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 163,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "시 : 나라이름(시)"
-    },
-    {
-        "rnum": 0,
         "cd": "090c0",
         "ex": 0,
         "ineum": "",
@@ -295,34 +337,6 @@
     },
     {
         "rnum": 0,
-        "cd": "090c7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 163,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "순 : 땅이름(순)"
-    },
-    {
-        "rnum": 0,
-        "cd": "090c8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 163,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "우,후 : 성(후)"
-    },
-    {
-        "rnum": 0,
         "cd": "090c9",
         "ex": 0,
         "ineum": "",
@@ -334,20 +348,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "형 : 邢(나라이름(형)의 本字"
-    },
-    {
-        "rnum": 0,
-        "cd": "090cb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 163,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "해,혜 : 마을이름(혜 /해)"
     },
     {
         "rnum": 0,

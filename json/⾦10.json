@@ -15,6 +15,34 @@
     },
     {
         "rnum": 0,
+        "cd": "09380",
+        "ex": 1,
+        "ineum": "수",
+        "in": "수 : 쇳덩이(수)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "09388",
+        "ex": 1,
+        "ineum": "차",
+        "in": "차 : 돈(차) 금빛(차)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0938a",
         "ex": 1,
         "ineum": "방",
@@ -40,6 +68,20 @@
         "stroke": 10,
         "isin": 1,
         "dic": "겸 : 낫(겸/렴)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0938f",
+        "ex": 1,
+        "ineum": "류,유",
+        "in": "류,유 : 금(류)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": "환"
     },
     {
         "rnum": 0,
@@ -407,34 +449,6 @@
     },
     {
         "rnum": 0,
-        "cd": "09380",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "수 : 쇳덩이(수)"
-    },
-    {
-        "rnum": 0,
-        "cd": "09388",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "차 : 돈(차) 금빛(차)"
-    },
-    {
-        "rnum": 0,
         "cd": "09389",
         "ex": 0,
         "ineum": "",
@@ -488,20 +502,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "개,희 : 성내싸울(개) 노전(개)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0938f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "류,유,환 : 금(류)"
     },
     {
         "rnum": 0,

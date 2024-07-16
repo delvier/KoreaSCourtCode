@@ -85,6 +85,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05129",
+        "ex": 1,
+        "ineum": "사",
+        "in": "사 : 다할(사)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0512a",
         "ex": 1,
         "ineum": "우",
@@ -180,20 +194,6 @@
         "stroke": 15,
         "isin": 0,
         "dic": "질 : 바를(질) 머무 을(질)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05129",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "사 : 다할(사)"
     },
     {
         "rnum": 0,

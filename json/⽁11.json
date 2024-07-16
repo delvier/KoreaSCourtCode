@@ -43,6 +43,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06576",
+        "ex": 1,
+        "ineum": "진",
+        "in": "진",
+        "em": 0,
+        "rad_id": 66,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06577",
         "ex": 1,
         "ineum": "부",
@@ -96,20 +110,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "인"
-    },
-    {
-        "rnum": 0,
-        "cd": "06576",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 66,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "진 : 자료 조사 중)"
     },
     {
         "rnum": 0,

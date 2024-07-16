@@ -225,6 +225,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0667e",
+        "ex": 1,
+        "ineum": "량,양",
+        "in": "량,양 : 쪼일(량)",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "경"
+    },
+    {
+        "rnum": 0,
         "cd": "0667f",
         "ex": 1,
         "ineum": "창",
@@ -236,6 +250,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "정: 맑을(정)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06680",
+        "ex": 1,
+        "ineum": "왕",
+        "in": "왕 : 빛고울(왕) 덕(왕) 옳을(왕)",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -502,34 +530,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "완,원 : 해넘어갈(원)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0667e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 72,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "경,량,양 : 쪼일(량)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06680",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 72,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "왕 : 빛고울(왕) 덕 (왕) 옳을(왕)"
     },
     {
         "rnum": 0,

@@ -15,6 +15,48 @@
     },
     {
         "rnum": 0,
+        "cd": "05a7b",
+        "ex": 1,
+        "ineum": "남",
+        "in": "남 : 몸퉁퉁할(남)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "05a7d",
+        "ex": 1,
+        "ineum": "가",
+        "in": "가 : 고울(가)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "단"
+    },
+    {
+        "rnum": 0,
+        "cd": "05a7e",
+        "ex": 1,
+        "ineum": "유",
+        "in": "유",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "투"
+    },
+    {
+        "rnum": 0,
         "cd": "05a7f",
         "ex": 1,
         "ineum": "서",
@@ -40,6 +82,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "미 : 빛고을(미)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05a8b",
+        "ex": 1,
+        "ineum": "춘",
+        "in": "춘 : 여자이름(춘) 아리따울(춘)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -208,6 +264,34 @@
         "stroke": 9,
         "isin": 1,
         "dic": "오 : 할미(오)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05acf",
+        "ex": 1,
+        "ineum": "랑",
+        "in": "랑",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "경"
+    },
+    {
+        "rnum": 0,
+        "cd": "a02e1",
+        "ex": 1,
+        "ineum": "유",
+        "in": "유",
+        "em": 0,
+        "rad_id": 38,
+        "type": "A",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -543,7 +627,7 @@
         "totstroke": 0,
         "stroke": 9,
         "isin": 0,
-        "dic": "수,추 : 일��로부탁할 (수) 사람이름(수)"
+        "dic": "수,추 : 일서로부탁할 (수) 사람이름(수)"
     },
     {
         "rnum": 0,
@@ -589,20 +673,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05a7b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "남 : 몸퉁퉁할(남)"
-    },
-    {
-        "rnum": 0,
         "cd": "05a7c",
         "ex": 0,
         "ineum": "",
@@ -614,34 +684,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "야,이,착 : 땅이름(약) 거칠(작/야)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05a7d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "가,단 : 고울(가)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05a7e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "유,투"
     },
     {
         "rnum": 0,
@@ -782,20 +824,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "리,전 : 별이름(전)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05a8b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "춘 : 여자이름(춘)  아리따울(춘)"
     },
     {
         "rnum": 0,
@@ -1118,20 +1146,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "규"
-    },
-    {
-        "rnum": 0,
-        "cd": "05acf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "경,랑 : 서고(랑)"
     },
     {
         "rnum": 0,

@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "07ff2",
+        "ex": 1,
+        "ineum": "표",
+        "in": "표 : 높이날(표)",
+        "em": 0,
+        "rad_id": 124,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07ff3",
         "ex": 1,
         "ineum": "예",
@@ -26,20 +40,6 @@
         "stroke": 11,
         "isin": 1,
         "dic": "익 : 날개(익) 도울 (익)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07ff2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 124,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "표 : 높이날(표)"
     },
     {
         "rnum": 0,

@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "03bd6",
+        "ex": 1,
+        "ineum": "덕,적",
+        "in": "덕,적",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "득"
+    },
+    {
+        "rnum": 0,
+        "cd": "03bd9",
+        "ex": 1,
+        "ineum": "철",
+        "in": "철",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "03bdd",
         "ex": 1,
         "ineum": "로",
@@ -141,6 +169,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06a46",
+        "ex": 1,
+        "ineum": "무",
+        "in": "무 : 없을(무) 번성할(무)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06a47",
         "ex": 1,
         "ineum": "취",
@@ -236,6 +278,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "윤: 나무이름(윤)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06a4f",
+        "ex": 1,
+        "ineum": "전",
+        "in": "전 : 나무혹(전) 나무밋밋할(건)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "건,선 : 나무밋밋할(건)"
     },
     {
         "rnum": 0,
@@ -421,6 +477,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06a6a",
+        "ex": 1,
+        "ineum": "연",
+        "in": "연 : 산대추(연) 향내나는풀(연)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06a6b",
         "ex": 1,
         "ineum": "횡",
@@ -432,6 +502,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "광,황"
+    },
+    {
+        "rnum": 0,
+        "cd": "06a6d",
+        "ex": 1,
+        "ineum": "고",
+        "in": "고 : 무고나무(고) 나무사방으로퍼질(고)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -519,20 +603,6 @@
     },
     {
         "rnum": 0,
-        "cd": "03bd6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "덕,득"
-    },
-    {
-        "rnum": 0,
         "cd": "03bd7",
         "ex": 0,
         "ineum": "",
@@ -558,20 +628,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "관"
-    },
-    {
-        "rnum": 0,
-        "cd": "03bd9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "철"
     },
     {
         "rnum": 0,
@@ -939,20 +995,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06a46",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "무 : 없을(무) 번성 할(무)"
-    },
-    {
-        "rnum": 0,
         "cd": "06a4e",
         "ex": 0,
         "ineum": "",
@@ -964,20 +1006,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "번 : 단단한나무(번)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06a4f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "건,선,전 : 나무혹(전) 나무밋밋할(건)"
     },
     {
         "rnum": 0,
@@ -1163,20 +1191,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06a6a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "연 : 산대추(연) 향 내나는풀(연)"
-    },
-    {
-        "rnum": 0,
         "cd": "06a6c",
         "ex": 0,
         "ineum": "",
@@ -1188,20 +1202,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "심,잠 : 물고기섶줄(잠)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06a6d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "고 : 무고나무(고)  나무사방으로퍼질(고)"
     },
     {
         "rnum": 0,

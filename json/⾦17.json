@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "0946d",
+        "ex": 1,
+        "ineum": "란",
+        "in": "란 : 금채색(란)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 1,
+        "dic": "난"
+    },
+    {
+        "rnum": 0,
+        "cd": "0946e",
+        "ex": 1,
+        "ineum": "박",
+        "in": "박 : 큰쇠북(박) 호미(박)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "09470",
         "ex": 1,
         "ineum": "약",
@@ -54,34 +82,6 @@
         "stroke": 17,
         "isin": 0,
         "dic": "미,민"
-    },
-    {
-        "rnum": 0,
-        "cd": "0946d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 17,
-        "isin": 0,
-        "dic": "난,란 : 금채색(란)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0946e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 17,
-        "isin": 0,
-        "dic": "박 : 큰쇠북(박) 호 미(박)"
     },
     {
         "rnum": 0,

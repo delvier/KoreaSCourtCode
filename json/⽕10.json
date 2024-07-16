@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "03de1",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "07179",
+        "ex": 1,
+        "ineum": "구",
+        "in": "구 : 봉화(구) 불켤(구)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0717d",
         "ex": 1,
         "ineum": "선",
@@ -26,6 +54,20 @@
         "stroke": 10,
         "isin": 1,
         "dic": "광,넙,녑,연,염,호"
+    },
+    {
+        "rnum": 0,
+        "cd": "07182",
+        "ex": 1,
+        "ineum": "희",
+        "in": "희 : 풀베어태울(희)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": "기"
     },
     {
         "rnum": 0,
@@ -127,6 +169,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07190",
+        "ex": 1,
+        "ineum": "명",
+        "in": "명 : 흉노부락이름(명)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": "멱"
+    },
+    {
+        "rnum": 0,
         "cd": "07192",
         "ex": 1,
         "ineum": "형",
@@ -194,20 +250,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "린,인"
-    },
-    {
-        "rnum": 0,
-        "cd": "03de1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "경"
     },
     {
         "rnum": 0,
@@ -337,20 +379,6 @@
     },
     {
         "rnum": 0,
-        "cd": "07179",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "구 : 봉화(구) 불켤 (구)"
-    },
-    {
-        "rnum": 0,
         "cd": "0717a",
         "ex": 0,
         "ineum": "",
@@ -389,7 +417,7 @@
         "totstroke": 0,
         "stroke": 10,
         "isin": 0,
-        "dic": "초,��� : 볶을(초)"
+        "dic": "초,추 : 볶을(초)"
     },
     {
         "rnum": 0,
@@ -432,20 +460,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "협 : 불로지질(협)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07182",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "기,희 : 풀베어태울(희)"
     },
     {
         "rnum": 0,
@@ -530,20 +544,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "요"
-    },
-    {
-        "rnum": 0,
-        "cd": "07190",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "멱,명 : 흉노부락이름 (명)"
     },
     {
         "rnum": 0,

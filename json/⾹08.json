@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "04b70",
+        "ex": 1,
+        "ineum": "봉",
+        "in": "봉",
+        "em": 0,
+        "rad_id": 186,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "04b71",
         "ex": 1,
         "ineum": "별",
@@ -40,20 +54,6 @@
         "stroke": 8,
         "isin": 1,
         "dic": "엄,음"
-    },
-    {
-        "rnum": 0,
-        "cd": "04b70",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 186,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "봉"
     },
     {
         "rnum": 0,

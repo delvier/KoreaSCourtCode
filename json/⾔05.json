@@ -1,6 +1,48 @@
 [
     {
         "rnum": 0,
+        "cd": "046c6",
+        "ex": 1,
+        "ineum": "주",
+        "in": "주",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "046c8",
+        "ex": 1,
+        "ineum": "시",
+        "in": "시",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "지"
+    },
+    {
+        "rnum": 0,
+        "cd": "046cb",
+        "ex": 1,
+        "ineum": "자",
+        "in": "자",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "기"
+    },
+    {
+        "rnum": 0,
         "cd": "08a34",
         "ex": 1,
         "ineum": "소",
@@ -26,6 +68,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "하"
+    },
+    {
+        "rnum": 0,
+        "cd": "08a38",
+        "ex": 1,
+        "ineum": "화",
+        "in": "화 : 화평할(화)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "나"
     },
     {
         "rnum": 0,
@@ -99,6 +155,34 @@
     },
     {
         "rnum": 0,
+        "cd": "08a43",
+        "ex": 1,
+        "ineum": "견",
+        "in": "견 : 꾀일(견)  속일(견)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "현"
+    },
+    {
+        "rnum": 0,
+        "cd": "08a45",
+        "ex": 1,
+        "ineum": "령,영",
+        "in": "령,영 : 팔(령) 자랑할(령)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08a46",
         "ex": 1,
         "ineum": "저",
@@ -113,10 +197,38 @@
     },
     {
         "rnum": 0,
+        "cd": "08a47",
+        "ex": 1,
+        "ineum": "앙",
+        "in": "앙 : 슬기로울(앙) 미리알(앙)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "영"
+    },
+    {
+        "rnum": 0,
         "cd": "08a4b",
         "ex": 1,
         "ineum": "주",
         "in": "주 : 방자할(주) 저주할(주)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "08a4d",
+        "ex": 1,
+        "ineum": "예",
+        "in": "예 : 잔말할(예) 말꾸며서말할(예)",
         "em": 0,
         "rad_id": 149,
         "type": "0",
@@ -152,6 +264,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "이 : 자랑할(이)  "
+    },
+    {
+        "rnum": 0,
+        "cd": "08a52",
+        "ex": 1,
+        "ineum": "이,태",
+        "in": "이,태 : 속일(태) 줄(이)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -239,6 +365,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08a5d",
+        "ex": 1,
+        "ineum": "저",
+        "in": "저 : 슬기로울(저)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08a5e",
         "ex": 1,
         "ineum": "사",
@@ -295,20 +435,6 @@
     },
     {
         "rnum": 0,
-        "cd": "046c6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "주"
-    },
-    {
-        "rnum": 0,
         "cd": "046c7",
         "ex": 0,
         "ineum": "",
@@ -320,20 +446,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "연"
-    },
-    {
-        "rnum": 0,
-        "cd": "046c8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "시,지"
     },
     {
         "rnum": 0,
@@ -362,20 +474,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "지,혜"
-    },
-    {
-        "rnum": 0,
-        "cd": "046cb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "기,자"
     },
     {
         "rnum": 0,
@@ -519,20 +617,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08a38",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "나,화 : 화평할(화)"
-    },
-    {
-        "rnum": 0,
         "cd": "08a39",
         "ex": 0,
         "ineum": "",
@@ -603,20 +687,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08a43",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "견,현 : 꾀일(견)  속일(견)"
-    },
-    {
-        "rnum": 0,
         "cd": "08a44",
         "ex": 0,
         "ineum": "",
@@ -628,34 +698,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "질,철 : 잊을(질)  그르칠(질)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08a45",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "령,영 : 팔(령) 자 랑할(령)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08a47",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "앙,영 : 슬기로울(앙) 미리알(앙)"
     },
     {
         "rnum": 0,
@@ -715,20 +757,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08a4d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "예 : 잔말할(예) 말 꾸며서말할(예)"
-    },
-    {
-        "rnum": 0,
         "cd": "08a4e",
         "ex": 0,
         "ineum": "",
@@ -754,20 +782,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "요 : 거스릴(요)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08a52",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "이,태 : 속일(태)  줄(이)"
     },
     {
         "rnum": 0,
@@ -824,20 +838,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "도,면 : 말절차없을(도)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08a5d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "저 : 슬기로울(저)"
     },
     {
         "rnum": 0,

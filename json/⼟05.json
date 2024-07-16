@@ -99,6 +99,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0576b",
+        "ex": 1,
+        "ineum": "점",
+        "in": "점 : 잔대(점)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0576e",
         "ex": 1,
         "ineum": "대",
@@ -169,6 +183,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05776",
+        "ex": 1,
+        "ineum": "목",
+        "in": "목 : 양토(목)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "모,무 : 양토(모)"
+    },
+    {
+        "rnum": 0,
         "cd": "05777",
         "ex": 1,
         "ineum": "가",
@@ -222,6 +250,34 @@
         "stroke": 5,
         "isin": 1,
         "dic": "탁 : 터질(탁) (탁)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0577d",
+        "ex": 1,
+        "ineum": "령,영",
+        "in": "령,영 : 험한 언덕(령)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "옥,을"
+    },
+    {
+        "rnum": 0,
+        "cd": "05780",
+        "ex": 1,
+        "ineum": "호",
+        "in": "호 : 낮은담(호) 번거러울(호)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -407,20 +463,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0576b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "점 : 잔대(점)"
-    },
-    {
-        "rnum": 0,
         "cd": "0576c",
         "ex": 0,
         "ineum": "",
@@ -491,20 +533,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05776",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "모,목,무 : 양토(모 /목)"
-    },
-    {
-        "rnum": 0,
         "cd": "05779",
         "ex": 0,
         "ineum": "",
@@ -533,20 +561,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0577d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "령,영,옥,을 : 험한 언덕(령)"
-    },
-    {
-        "rnum": 0,
         "cd": "0577e",
         "ex": 0,
         "ineum": "",
@@ -572,20 +586,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "부,흔"
-    },
-    {
-        "rnum": 0,
-        "cd": "05780",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "호 : 낮은담(호) 번 거러울(호)"
     },
     {
         "rnum": 0,

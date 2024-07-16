@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "052b5",
+        "ex": 1,
+        "ineum": "권",
+        "in": "권 : 게으를(권)",
+        "em": 0,
+        "rad_id": 19,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "승"
+    },
+    {
+        "rnum": 0,
         "cd": "052b9",
         "ex": 1,
         "ineum": "효",
@@ -82,20 +96,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "로"
-    },
-    {
-        "rnum": 0,
-        "cd": "052b5",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 19,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "권,승 : 게으를(권)"
     },
     {
         "rnum": 0,

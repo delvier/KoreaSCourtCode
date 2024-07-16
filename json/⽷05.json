@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "042cd",
+        "ex": 1,
+        "ineum": "아",
+        "in": "아",
+        "em": 0,
+        "rad_id": 120,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "하"
+    },
+    {
+        "rnum": 0,
         "cd": "07d2b",
         "ex": 1,
         "ineum": "자",
@@ -169,6 +183,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07d3e",
+        "ex": 1,
+        "ineum": "진",
+        "in": "진 : 비틀(진) 돌릴(진)",
+        "em": 0,
+        "rad_id": 120,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07d41",
         "ex": 1,
         "ineum": "시",
@@ -334,20 +362,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "강,거"
-    },
-    {
-        "rnum": 0,
-        "cd": "042cd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 120,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "아,하"
     },
     {
         "rnum": 0,
@@ -614,20 +628,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "타 : 실마리(타) 꿰 맬(타)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07d3e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 120,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "진 : 비틀(진) 돌릴 (진)"
     },
     {
         "rnum": 0,

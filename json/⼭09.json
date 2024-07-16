@@ -15,6 +15,48 @@
     },
     {
         "rnum": 0,
+        "cd": "05d36",
+        "ex": 1,
+        "ineum": "봉",
+        "in": "봉 : 봉주산이름(봉)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "05d39",
+        "ex": 1,
+        "ineum": "체",
+        "in": "체 : 산우뚝할(체)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "제,채"
+    },
+    {
+        "rnum": 0,
+        "cd": "05d3c",
+        "ex": 1,
+        "ineum": "시",
+        "in": "시 : 가까운산(시)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "질"
+    },
+    {
+        "rnum": 0,
         "cd": "05d3d",
         "ex": 1,
         "ineum": "재",
@@ -57,6 +99,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05d43",
+        "ex": 1,
+        "ineum": "언",
+        "in": "언 : 산가파를(언)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05d44",
         "ex": 1,
         "ineum": "미",
@@ -68,6 +124,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "미 : 깊은산(미)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05d49",
+        "ex": 1,
+        "ineum": "정",
+        "in": "정 : 높은산(정)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -113,6 +183,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05d4f",
+        "ex": 1,
+        "ineum": "종",
+        "in": "종 : 산이름(종)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05d50",
         "ex": 1,
         "ineum": "남,람",
@@ -124,6 +208,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "남 : 남기(람/남)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05d52",
+        "ex": 1,
+        "ineum": "암",
+        "in": "암 : 바위(암)(岩의 이체자) 산우뚝할(암)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -365,20 +463,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05d36",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "봉 : 봉주산이름(봉)"
-    },
-    {
-        "rnum": 0,
         "cd": "05d37",
         "ex": 0,
         "ineum": "",
@@ -407,20 +491,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05d39",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "제,채,체 : 산우뚝할 (체)"
-    },
-    {
-        "rnum": 0,
         "cd": "05d3a",
         "ex": 0,
         "ineum": "",
@@ -446,20 +516,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "치 : 산우뚝솟을(치)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05d3c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "시,질 : 가까운산(시)"
     },
     {
         "rnum": 0,
@@ -502,20 +558,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "주 : 큰산(주)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05d43",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "언 : 산가파를(언)"
     },
     {
         "rnum": 0,
@@ -575,20 +617,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05d49",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "정 : 높은산(정)"
-    },
-    {
-        "rnum": 0,
         "cd": "05d4d",
         "ex": 0,
         "ineum": "",
@@ -603,20 +631,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05d4f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "종 : 산이름(종)"
-    },
-    {
-        "rnum": 0,
         "cd": "05d51",
         "ex": 0,
         "ineum": "",
@@ -628,20 +642,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "갈 : 산우뚝할(갈)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05d52",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "암 : 바위(암)(岩의  이체자) 산우뚝할 (암)"
     },
     {
         "rnum": 0,

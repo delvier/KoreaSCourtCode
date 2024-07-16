@@ -183,6 +183,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07429",
+        "ex": 1,
+        "ineum": "창",
+        "in": "창 : 귀막이옥(창) 귀고리(창)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0742a",
         "ex": 1,
         "ineum": "기",
@@ -222,6 +236,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "원"
+    },
+    {
+        "rnum": 0,
+        "cd": "0742d",
+        "ex": 1,
+        "ineum": "록",
+        "in": "록 : 옥(록)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "녹"
     },
     {
         "rnum": 0,
@@ -698,34 +726,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "악 : 흰옥(악)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07429",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "창 : 귀막이옥(창)  귀고리(창)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0742d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "녹,록 : 옥(록)"
     },
     {
         "rnum": 0,

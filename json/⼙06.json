@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "05376",
+        "ex": 1,
+        "ineum": "치",
+        "in": "치",
+        "em": 0,
+        "rad_id": 26,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "시 : 기뻐할(시)"
+    },
+    {
+        "rnum": 0,
         "cd": "05377",
         "ex": 1,
         "ineum": "권",
@@ -54,20 +68,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "각"
-    },
-    {
-        "rnum": 0,
-        "cd": "05376",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 26,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "시,치 : 기뻐할(시)"
     },
     {
         "rnum": 0,

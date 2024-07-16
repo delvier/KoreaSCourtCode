@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "052d3",
+        "ex": 1,
+        "ineum": "개",
+        "in": "개 : 힘쓸(개)",
+        "em": 0,
+        "rad_id": 19,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "052d5",
         "ex": 1,
         "ineum": "동",
@@ -82,20 +96,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "할"
-    },
-    {
-        "rnum": 0,
-        "cd": "052d3",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 19,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "개 : 힘쓸(개)"
     },
     {
         "rnum": 0,

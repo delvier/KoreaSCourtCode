@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "070c6",
+        "ex": 1,
+        "ineum": "행",
+        "in": "행 : 횃불(행)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "형"
+    },
+    {
+        "rnum": 0,
         "cd": "070c8",
         "ex": 1,
         "ineum": "렬,열",
@@ -68,6 +82,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "오 : 까마귀(오)"
+    },
+    {
+        "rnum": 0,
+        "cd": "070d1",
+        "ex": 1,
+        "ineum": "요",
+        "in": "요 : 빛날(요)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "도,조,호"
     },
     {
         "rnum": 0,
@@ -281,20 +309,6 @@
     },
     {
         "rnum": 0,
-        "cd": "070c6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "행,형 : 횃불(행)"
-    },
-    {
-        "rnum": 0,
         "cd": "070c7",
         "ex": 0,
         "ineum": "",
@@ -362,20 +376,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "주"
-    },
-    {
-        "rnum": 0,
-        "cd": "070d1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "도,요,조,호 : 빛날 (요)"
     },
     {
         "rnum": 0,

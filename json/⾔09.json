@@ -141,6 +141,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08ae8",
+        "ex": 1,
+        "ineum": "복",
+        "in": "복 : 갖출(복)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08aea",
         "ex": 1,
         "ineum": "정",
@@ -267,6 +281,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08af5",
+        "ex": 1,
+        "ineum": "남",
+        "in": "남 : 수다스러울(남)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08af6",
         "ex": 1,
         "ineum": "심",
@@ -306,6 +334,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "저 : 김치(저)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08af9",
+        "ex": 1,
+        "ineum": "양",
+        "in": "양 : 칭찬할(양)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -547,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08ae8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "복 : 갖출(복)"
-    },
-    {
-        "rnum": 0,
         "cd": "08aec",
         "ex": 0,
         "ineum": "",
@@ -586,34 +614,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "단,서,전 : 서로사양 할(전)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08af5",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "남 : 수다스러울(남)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08af9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "양 : 칭찬할(양)"
     },
     {
         "rnum": 0,

@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "06aad",
+        "ex": 1,
+        "ineum": "은",
+        "in": "은 : 은행나무(은)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06aae",
         "ex": 1,
         "ineum": "도",
@@ -12,6 +26,20 @@
         "stroke": 14,
         "isin": 1,
         "dic": "수"
+    },
+    {
+        "rnum": 0,
+        "cd": "06aaf",
+        "ex": 1,
+        "ineum": "대",
+        "in": "대 : 상(대)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -68,6 +96,20 @@
         "stroke": 14,
         "isin": 1,
         "dic": "나,유 : 버섯(유)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06abe",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경 : 어저귀(경)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "영"
     },
     {
         "rnum": 0,
@@ -253,34 +295,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06aad",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "은 : 은행나무(은)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06aaf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "대 : 상(대)"
-    },
-    {
-        "rnum": 0,
         "cd": "06ab0",
         "ex": 0,
         "ineum": "",
@@ -418,20 +432,6 @@
         "stroke": 14,
         "isin": 0,
         "dic": "고 : 나무이름(고)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06abe",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "경,영 : 어저귀(경)"
     },
     {
         "rnum": 0,

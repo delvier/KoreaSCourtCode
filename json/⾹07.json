@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "0999e",
+        "ex": 1,
+        "ineum": "발",
+        "in": "발 : 향내물큰날(발)",
+        "em": 0,
+        "rad_id": 186,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0999f",
         "ex": 1,
         "ineum": "도",
@@ -12,20 +26,6 @@
         "stroke": 7,
         "isin": 1,
         "dic": "도 : 향기날(도)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0999e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 186,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "발 : 향내물큰날(발)"
     },
     {
         "rnum": 0,

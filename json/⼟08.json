@@ -113,6 +113,20 @@
     },
     {
         "rnum": 0,
+        "cd": "057f1",
+        "ex": 1,
+        "ineum": "숙",
+        "in": "숙 : 땅에서기솟을 (숙) 시작할(숙)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "축"
+    },
+    {
+        "rnum": 0,
         "cd": "057f3",
         "ex": 1,
         "ineum": "감",
@@ -236,6 +250,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "057fe",
+        "ex": 1,
+        "ineum": "추",
+        "in": "추 : 쌓을(추)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "주"
     },
     {
         "rnum": 0,
@@ -687,20 +715,6 @@
     },
     {
         "rnum": 0,
-        "cd": "057f1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "숙,축 : 땅에서기솟을 (숙) 시작할(숙)"
-    },
-    {
-        "rnum": 0,
         "cd": "057f2",
         "ex": 0,
         "ineum": "",
@@ -740,20 +754,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "양,역,장 : 밭두둑(역)"
-    },
-    {
-        "rnum": 0,
-        "cd": "057fe",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "주,추 : 쌓을(추)"
     },
     {
         "rnum": 0,

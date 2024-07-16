@@ -17,15 +17,29 @@
         "rnum": 0,
         "cd": "06b25",
         "ex": 1,
-        "ineum": "일",
-        "in": "일 : 기뻐할(일)",
+        "ineum": "율,일",
+        "in": "율,일",
         "em": 0,
         "rad_id": 76,
         "type": "0",
         "totstroke": 0,
         "stroke": 4,
         "isin": 1,
-        "dic": "율,이,차,흔"
+        "dic": "이,차,흔"
+    },
+    {
+        "rnum": 0,
+        "cd": "06b26",
+        "ex": 1,
+        "ineum": "함",
+        "in": "함 : 웃음먹을(함)",
+        "em": 0,
+        "rad_id": 76,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "령"
     },
     {
         "rnum": 0,
@@ -96,20 +110,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "여 : 歟(어조사(여))의 略字"
-    },
-    {
-        "rnum": 0,
-        "cd": "06b26",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 76,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "령,함 : 웃음먹을(함)"
     },
     {
         "rnum": 0,

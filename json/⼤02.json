@@ -29,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05930",
+        "ex": 1,
+        "ineum": "고,호",
+        "in": "고,호 : 높을(호)",
+        "em": 0,
+        "rad_id": 37,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "혜"
+    },
+    {
+        "rnum": 0,
         "cd": "05931",
         "ex": 1,
         "ineum": "실",
@@ -68,20 +82,6 @@
         "stroke": 2,
         "isin": 0,
         "dic": "감"
-    },
-    {
-        "rnum": 0,
-        "cd": "05930",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 37,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 2,
-        "isin": 0,
-        "dic": "고,혜,호 : 높을(호)"
     },
     {
         "rnum": 0,

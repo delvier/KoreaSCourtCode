@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03d7f",
+        "ex": 1,
+        "ineum": "효",
+        "in": "효",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": "호"
+    },
+    {
+        "rnum": 0,
         "cd": "06ffa",
         "ex": 1,
         "ineum": "천",
@@ -15,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06ffc",
+        "ex": 1,
+        "ineum": "락,록",
+        "in": "락,록 : 물이름(락)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": "낙,박 : 물이름(낙)"
+    },
+    {
+        "rnum": 0,
         "cd": "06ffe",
         "ex": 1,
         "ineum": "려,여",
@@ -26,6 +54,20 @@
         "stroke": 15,
         "isin": 1,
         "dic": "여 : 거를   려(여)   씻을(려/여)   맑을(려/여)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07000",
+        "ex": 1,
+        "ineum": "우",
+        "in": "우 : 융기많을(우) 너그러울(우) 기름질(우)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -99,6 +141,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0700a",
+        "ex": 1,
+        "ineum": "반",
+        "in": "반 : 물돌(반)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0700b",
         "ex": 1,
         "ineum": "심",
@@ -110,6 +166,20 @@
         "stroke": 15,
         "isin": 1,
         "dic": "심 : 즙(심) 물이름 (심)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0700d",
+        "ex": 1,
+        "ineum": "전",
+        "in": "전 : 물이름(전)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 15,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -208,20 +278,6 @@
         "stroke": 15,
         "isin": 0,
         "dic": "관,정,청"
-    },
-    {
-        "rnum": 0,
-        "cd": "03d7f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "호,효"
     },
     {
         "rnum": 0,
@@ -351,20 +407,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06ffc",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "낙,락,록,박 : 물이 름(락/낙)"
-    },
-    {
-        "rnum": 0,
         "cd": "06ffd",
         "ex": 0,
         "ineum": "",
@@ -390,20 +432,6 @@
         "stroke": 15,
         "isin": 0,
         "dic": "려,례 : 징검다리건너 갈(례)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07000",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "우 : 융기많을(우)  너그러울(우) 기름 질(우)"
     },
     {
         "rnum": 0,
@@ -463,20 +491,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0700a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "반 : 물돌(반)"
-    },
-    {
-        "rnum": 0,
         "cd": "0700c",
         "ex": 0,
         "ineum": "",
@@ -488,20 +502,6 @@
         "stroke": 15,
         "isin": 0,
         "dic": "록,표 : 비눈퍼부을(표)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0700d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 15,
-        "isin": 0,
-        "dic": "전 : 물이름(전)"
     },
     {
         "rnum": 0,

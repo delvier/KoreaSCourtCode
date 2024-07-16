@@ -43,6 +43,20 @@
     },
     {
         "rnum": 0,
+        "cd": "036c6",
+        "ex": 1,
+        "ineum": "타",
+        "in": "타",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0598d",
         "ex": 1,
         "ineum": "연",
@@ -82,6 +96,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "도,조"
+    },
+    {
+        "rnum": 0,
+        "cd": "059db",
+        "ex": 1,
+        "ineum": "동",
+        "in": "동 : 계집성품 곧을(동) 목이바를 (동)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "선,형 "
     },
     {
         "rnum": 0,
@@ -267,6 +295,20 @@
     },
     {
         "rnum": 0,
+        "cd": "059ef",
+        "ex": 1,
+        "ineum": "광",
+        "in": "광 : 환할(광)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "미,형"
+    },
+    {
+        "rnum": 0,
         "cd": "059f0",
         "ex": 1,
         "ineum": "순",
@@ -281,10 +323,38 @@
     },
     {
         "rnum": 0,
+        "cd": "059f1",
+        "ex": 1,
+        "ineum": "과",
+        "in": "과 : 아름다울(과)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "059f2",
         "ex": 1,
         "ineum": "안",
         "in": "안 : 종용할(안)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "059f4",
+        "ex": 1,
+        "ineum": "렬,열",
+        "in": "렬,열 : 아름다울(렬)",
         "em": 0,
         "rad_id": 38,
         "type": "0",
@@ -379,6 +449,20 @@
     },
     {
         "rnum": 0,
+        "cd": "059fe",
+        "ex": 1,
+        "ineum": "전",
+        "in": "전 : 계집단정할(전)  여자이름(전)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "059ff",
         "ex": 1,
         "ineum": "자",
@@ -446,20 +530,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "와"
-    },
-    {
-        "rnum": 0,
-        "cd": "036c6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "타"
     },
     {
         "rnum": 0,
@@ -561,20 +631,6 @@
     },
     {
         "rnum": 0,
-        "cd": "059db",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "동,선,형 : 계집성품 곧을(동) 목이바를 (동)"
-    },
-    {
-        "rnum": 0,
         "cd": "059e0",
         "ex": 0,
         "ineum": "",
@@ -645,34 +701,6 @@
     },
     {
         "rnum": 0,
-        "cd": "059ef",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "광,미,형 : 환할(광)"
-    },
-    {
-        "rnum": 0,
-        "cd": "059f1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "과 : 아름다울(과)"
-    },
-    {
-        "rnum": 0,
         "cd": "059f3",
         "ex": 0,
         "ineum": "",
@@ -684,20 +712,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "명 : 좋을(명)"
-    },
-    {
-        "rnum": 0,
-        "cd": "059f4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "렬,열 : 아름다울(렬)"
     },
     {
         "rnum": 0,
@@ -740,20 +754,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "궤 : 고울(궤) 좋을 (궤)"
-    },
-    {
-        "rnum": 0,
-        "cd": "059fe",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "전 : 계집단정할(전)  여자이름(전)"
     },
     {
         "rnum": 0,

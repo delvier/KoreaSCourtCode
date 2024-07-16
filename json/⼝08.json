@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "0552a",
+        "ex": 1,
+        "ineum": "봉",
+        "in": "봉 : 읊을(봉)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0552b",
         "ex": 1,
         "ineum": "금",
@@ -12,6 +26,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "0552c",
+        "ex": 1,
+        "ineum": "호",
+        "in": "호 : 으를(호)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "언,효"
     },
     {
         "rnum": 0,
@@ -155,6 +183,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05541",
+        "ex": 1,
+        "ineum": "조,주",
+        "in": "조,주 : 울(조) 새소리(주)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05542",
         "ex": 1,
         "ineum": "누",
@@ -197,6 +239,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05547",
+        "ex": 1,
+        "ineum": "적",
+        "in": "적 : 나무뿌리(적)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "상"
+    },
+    {
+        "rnum": 0,
         "cd": "0554a",
         "ex": 1,
         "ineum": "아",
@@ -208,6 +264,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "가"
+    },
+    {
+        "rnum": 0,
+        "cd": "0554e",
+        "ex": 1,
+        "ineum": "오",
+        "in": "오 : 거스를(오)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -701,34 +771,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0552a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "봉 : 읊을(봉)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0552c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "언,호,효 : 으를(호) 놀랠(하)"
-    },
-    {
-        "rnum": 0,
         "cd": "0552d",
         "ex": 0,
         "ineum": "",
@@ -869,20 +911,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05541",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "조,주 : 울(조) 새 소리(주)"
-    },
-    {
-        "rnum": 0,
         "cd": "05543",
         "ex": 0,
         "ineum": "",
@@ -908,20 +936,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "탁 : 쪼을(탁) 문두 드릴(탁)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05547",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "적 : 나무뿌리(적)"
     },
     {
         "rnum": 0,
@@ -992,20 +1006,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "돈,톤 : 느럭느럭할(톤) 입김(톤)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0554e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "오 : 거스를(오)"
     },
     {
         "rnum": 0,
@@ -1313,7 +1313,7 @@
         "totstroke": 0,
         "stroke": 8,
         "isin": 0,
-        "dic": "전 : 새���저길(전)의  略字"
+        "dic": "전 : 새지저길(전)의  略字"
     },
     {
         "rnum": 0,
@@ -1551,7 +1551,7 @@
         "totstroke": 0,
         "stroke": 8,
         "isin": 0,
-        "dic": "석,���,적"
+        "dic": "석,숙,적"
     },
     {
         "rnum": 0,

@@ -57,6 +57,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07c99",
+        "ex": 1,
+        "ineum": "주",
+        "in": "주 : 벼알들(주)",
+        "em": 0,
+        "rad_id": 119,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "유"
+    },
+    {
+        "rnum": 0,
         "cd": "25e44",
         "ex": 1,
         "ineum": "미",
@@ -180,20 +194,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "말,미 : 미음(말)  죽(말)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07c99",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 119,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "유,주 : 벼알들(주)"
     },
     {
         "rnum": 0,

@@ -43,6 +43,20 @@
     },
     {
         "rnum": 0,
+        "cd": "074a6",
+        "ex": 1,
+        "ineum": "애",
+        "in": "애 : 옥이름(애)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": "경,란,수,원"
+    },
+    {
+        "rnum": 0,
         "cd": "074a7",
         "ex": 1,
         "ineum": "벽",
@@ -96,6 +110,20 @@
         "stroke": 13,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "074ad",
+        "ex": 1,
+        "ineum": "곤",
+        "in": "곤 : 금옥을광낼(곤)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": "관"
     },
     {
         "rnum": 0,
@@ -239,20 +267,6 @@
     },
     {
         "rnum": 0,
-        "cd": "074a6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "란,수,애,원 : 옥이 름(애)"
-    },
-    {
-        "rnum": 0,
         "cd": "074a9",
         "ex": 0,
         "ineum": "",
@@ -278,20 +292,6 @@
         "stroke": 13,
         "isin": 0,
         "dic": "교"
-    },
-    {
-        "rnum": 0,
-        "cd": "074ad",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "곤,관 : 금옥을광낼(곤/관)"
     },
     {
         "rnum": 0,

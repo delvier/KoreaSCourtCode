@@ -2,16 +2,16 @@
     {
         "rnum": 0,
         "cd": "09b37",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
+        "ex": 1,
+        "ineum": "종",
+        "in": "종 : 가마(종) 많을(종)",
         "em": 0,
         "rad_id": 193,
         "type": "0",
         "totstroke": 0,
         "stroke": 9,
-        "isin": 0,
-        "dic": "종 : 가마(종) 많을 (종)"
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,

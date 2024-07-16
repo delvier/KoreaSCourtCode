@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "046c3",
+        "ex": 1,
+        "ineum": "완",
+        "in": "완",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "원"
+    },
+    {
+        "rnum": 0,
         "cd": "08a1b",
         "ex": 1,
         "ineum": "와",
@@ -124,6 +138,34 @@
         "stroke": 4,
         "isin": 1,
         "dic": "방 : 물을(방) 찾을 (방)"
+    },
+    {
+        "rnum": 0,
+        "cd": "08a2b",
+        "ex": 1,
+        "ineum": "신",
+        "in": "신 : 信(믿을(신)과 同字",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "심"
+    },
+    {
+        "rnum": 0,
+        "cd": "08a2c",
+        "ex": 1,
+        "ineum": "묘,초",
+        "in": "묘,초 : 가벼울(초) 빠를(초)",
+        "em": 0,
+        "rad_id": 149,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -379,20 +421,6 @@
     },
     {
         "rnum": 0,
-        "cd": "046c3",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "완,원"
-    },
-    {
-        "rnum": 0,
         "cd": "04723",
         "ex": 0,
         "ineum": "",
@@ -516,34 +544,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "흉 : 송사할(흉) 어 지러울(흉)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08a2b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "신,심 : 信(믿을(신)과 同字"
-    },
-    {
-        "rnum": 0,
-        "cd": "08a2c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 149,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "초 : 가벼울(초) 빠 를(초)"
     },
     {
         "rnum": 0,

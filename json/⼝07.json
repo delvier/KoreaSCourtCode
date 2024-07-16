@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "054e0",
+        "ex": 1,
+        "ineum": "호",
+        "in": "호 : 말많을(호)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "054e1",
         "ex": 1,
         "ineum": "운,원",
@@ -68,6 +82,34 @@
         "stroke": 7,
         "isin": 1,
         "dic": "열"
+    },
+    {
+        "rnum": 0,
+        "cd": "054ea",
+        "ex": 1,
+        "ineum": "나",
+        "in": "나 : 어찌(나) 어느(나)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "054ec",
+        "ex": 1,
+        "ineum": "하",
+        "in": "하 : 소리(하)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": "가,아"
     },
     {
         "rnum": 0,
@@ -215,6 +257,20 @@
         "ex": 1,
         "ineum": "애",
         "in": "애 : 한탄할(애) 물 을(애)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "0550d",
+        "ex": 1,
+        "ineum": "완",
+        "in": "완 : 방긋웃을(완)",
         "em": 0,
         "rad_id": 30,
         "type": "0",
@@ -533,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "054e0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "호 : 말많을(호)"
-    },
-    {
-        "rnum": 0,
         "cd": "054e2",
         "ex": 0,
         "ineum": "",
@@ -603,20 +645,6 @@
     },
     {
         "rnum": 0,
-        "cd": "054ea",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "나 : 어찌(나) 어느 (나)"
-    },
-    {
-        "rnum": 0,
         "cd": "054eb",
         "ex": 0,
         "ineum": "",
@@ -628,20 +656,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "족 : 아첨할(족)"
-    },
-    {
-        "rnum": 0,
-        "cd": "054ec",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "가,아,하 : 소리(하)"
     },
     {
         "rnum": 0,
@@ -936,20 +950,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "단,연 : 참소할(연/ 단)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0550d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "완 : 방긋웃을(완)"
     },
     {
         "rnum": 0,

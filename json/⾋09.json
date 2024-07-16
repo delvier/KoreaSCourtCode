@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0842b",
+        "ex": 1,
+        "ineum": "향",
+        "in": "향 : 나물국(향)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0842c",
         "ex": 1,
         "ineum": "만",
@@ -26,6 +40,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "만 : 일만(만) 춤이 름(만)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0842d",
+        "ex": 1,
+        "ineum": "우",
+        "in": "우 : 성(우)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -113,6 +141,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08442",
+        "ex": 1,
+        "ineum": "면",
+        "in": "면 : 사람이름(면) 성할(면)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08446",
         "ex": 1,
         "ineum": "보",
@@ -155,6 +197,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08450",
+        "ex": 1,
+        "ineum": "분",
+        "in": "분 : 성할(분) 향기(분) 딸기(분)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08457",
         "ex": 1,
         "ineum": "저",
@@ -166,6 +222,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "제,착"
+    },
+    {
+        "rnum": 0,
+        "cd": "08459",
+        "ex": 1,
+        "ineum": "상",
+        "in": "상 : 개맨드라미(상)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -194,6 +264,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "갈 : 칡(갈)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0845f",
+        "ex": 1,
+        "ineum": "황",
+        "in": "황 : 무성할(황)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "혼"
     },
     {
         "rnum": 0,
@@ -362,6 +446,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "계"
+    },
+    {
+        "rnum": 0,
+        "cd": "08476",
+        "ex": 1,
+        "ineum": "정",
+        "in": "정 : 꽃다지(정)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -995,34 +1093,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0842b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "향 : 나물국(향)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0842d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "우 : 성(우)"
-    },
-    {
-        "rnum": 0,
         "cd": "0842e",
         "ex": 0,
         "ineum": "",
@@ -1219,20 +1289,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08442",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "면 : 사람이름 면)  성할(면)"
-    },
-    {
-        "rnum": 0,
         "cd": "08443",
         "ex": 0,
         "ineum": "",
@@ -1373,20 +1429,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08450",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "분 : 성할 분) 향기  분) 딸기(분)"
-    },
-    {
-        "rnum": 0,
         "cd": "08451",
         "ex": 0,
         "ineum": "",
@@ -1485,20 +1527,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08459",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "상 : 개맨드라미(상)"
-    },
-    {
-        "rnum": 0,
         "cd": "0845c",
         "ex": 0,
         "ineum": "",
@@ -1538,20 +1566,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "미 : 봄풀(미) 봄보 리(미)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0845f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "혼,황 : 무성할(황)"
     },
     {
         "rnum": 0,
@@ -1692,20 +1706,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "침,함 : 꽈리(침)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08476",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "정 : 꽃다지(정)"
     },
     {
         "rnum": 0,

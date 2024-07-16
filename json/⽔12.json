@@ -1,6 +1,48 @@
 [
     {
         "rnum": 0,
+        "cd": "03d52",
+        "ex": 1,
+        "ineum": "비",
+        "in": "비",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "빈,패"
+    },
+    {
+        "rnum": 0,
+        "cd": "03d5b",
+        "ex": 1,
+        "ineum": "선",
+        "in": "선",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "06f4e",
+        "ex": 1,
+        "ineum": "별",
+        "in": "별 : 물결서로부딪칠(별)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "폐"
+    },
+    {
+        "rnum": 0,
         "cd": "06f4f",
         "ex": 1,
         "ineum": "율",
@@ -264,6 +306,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "호"
+    },
+    {
+        "rnum": 0,
+        "cd": "06f68",
+        "ex": 1,
+        "ineum": "종,총",
+        "in": "종,총 : 물모일(총) 물모일(종)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -617,6 +673,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06f93",
+        "ex": 1,
+        "ineum": "복",
+        "in": "복 : 은혈로흐를(복) 물스며흐를(복)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06f94",
         "ex": 1,
         "ineum": "호",
@@ -704,7 +774,7 @@
         "cd": "a022d",
         "ex": 1,
         "ineum": "집",
-        "in": "집 : 샘솟���(집)",
+        "in": "집 : 샘솟을(집)",
         "em": 0,
         "rad_id": 85,
         "type": "A",
@@ -841,20 +911,6 @@
     },
     {
         "rnum": 0,
-        "cd": "03d52",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "비,빈,패"
-    },
-    {
-        "rnum": 0,
         "cd": "03d53",
         "ex": 0,
         "ineum": "",
@@ -967,20 +1023,6 @@
     },
     {
         "rnum": 0,
-        "cd": "03d5b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "선"
-    },
-    {
-        "rnum": 0,
         "cd": "03d5c",
         "ex": 0,
         "ineum": "",
@@ -1048,20 +1090,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "소"
-    },
-    {
-        "rnum": 0,
-        "cd": "06f4e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "별,폐 : 물결서로부딪 칠(별)"
     },
     {
         "rnum": 0,
@@ -1146,20 +1174,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "증,진 : 물이름(증)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06f68",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "종,총 : 물모일(총)  물모일(종)"
     },
     {
         "rnum": 0,
@@ -1398,20 +1412,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "류 : 떨어질(류/유)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06f93",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "복 : 은혈로흐를(복)  물스며흐를(복)"
     },
     {
         "rnum": 0,

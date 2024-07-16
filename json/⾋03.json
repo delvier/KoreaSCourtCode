@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08284",
+        "ex": 1,
+        "ineum": "환",
+        "in": "환 : 박주가리(환)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "완"
+    },
+    {
+        "rnum": 0,
         "cd": "0828a",
         "ex": 1,
         "ineum": "천",
@@ -250,20 +264,6 @@
         "stroke": 3,
         "isin": 0,
         "dic": "장"
-    },
-    {
-        "rnum": 0,
-        "cd": "08284",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 3,
-        "isin": 0,
-        "dic": "완,환 : 박주가리(환)"
     },
     {
         "rnum": 0,

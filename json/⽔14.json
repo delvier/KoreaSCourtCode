@@ -85,6 +85,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06fdc",
+        "ex": 1,
+        "ineum": "신,진",
+        "in": "신,진 : 물이름(진)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06fde",
         "ex": 1,
         "ineum": "비",
@@ -250,6 +264,20 @@
         "stroke": 14,
         "isin": 1,
         "dic": "택"
+    },
+    {
+        "rnum": 0,
+        "cd": "06ff0",
+        "ex": 1,
+        "ineum": "유",
+        "in": "유 : 물이름(유)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -561,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06fdc",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "진 : 물이름(진)"
-    },
-    {
-        "rnum": 0,
         "cd": "06fdd",
         "ex": 0,
         "ineum": "",
@@ -670,20 +684,6 @@
         "stroke": 14,
         "isin": 0,
         "dic": "개,애 : 그늘질(애)  구름낄(애) 배가 모래에걸릴(갑)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06ff0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "유 : 물이름(유)"
     },
     {
         "rnum": 0,

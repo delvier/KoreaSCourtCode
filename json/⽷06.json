@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "042db",
+        "ex": 1,
+        "ineum": "미",
+        "in": "미",
+        "em": 0,
+        "rad_id": 120,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07d4d",
         "ex": 1,
         "ineum": "임",
@@ -33,6 +47,20 @@
         "ex": 1,
         "ineum": "주",
         "in": "주 : 붉은비단(주)",
+        "em": 0,
+        "rad_id": 120,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "07d53",
+        "ex": 1,
+        "ineum": "괘",
+        "in": "괘 : 걸릴(괘)",
         "em": 0,
         "rad_id": 120,
         "type": "0",
@@ -166,6 +194,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "급 : 줄(급)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07d67",
+        "ex": 1,
+        "ineum": "동",
+        "in": "동 : 동베(동) 이을(동) 곧게달릴 (동)",
+        "em": 0,
+        "rad_id": 120,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "경"
     },
     {
         "rnum": 0,
@@ -407,20 +449,6 @@
     },
     {
         "rnum": 0,
-        "cd": "042db",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 120,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "미"
-    },
-    {
-        "rnum": 0,
         "cd": "042dc",
         "ex": 0,
         "ineum": "",
@@ -530,20 +558,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "수 : 흰비단(수)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07d53",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 120,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "괘 : 풀솜실(과) 걸 릴(괘)"
     },
     {
         "rnum": 0,
@@ -670,20 +684,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "복"
-    },
-    {
-        "rnum": 0,
-        "cd": "07d67",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 120,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "경,동 : 동베(동)  이을(동) 곧게달릴 (동)"
     },
     {
         "rnum": 0,

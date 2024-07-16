@@ -43,6 +43,34 @@
     },
     {
         "rnum": 0,
+        "cd": "085b3",
+        "ex": 1,
+        "ineum": "원,위",
+        "in": "원,위 : 애기풀(원)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "085b7",
+        "ex": 1,
+        "ineum": "유",
+        "in": "유 : 향유(유)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "085ba",
         "ex": 1,
         "ineum": "제",
@@ -68,6 +96,20 @@
         "stroke": 14,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "085bf",
+        "ex": 1,
+        "ineum": "의",
+        "in": "의 : 우거질(의)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "억 : 우거질(억)"
     },
     {
         "rnum": 0,
@@ -166,6 +208,20 @@
         "stroke": 14,
         "isin": 1,
         "dic": "막 : 작을(막)"
+    },
+    {
+        "rnum": 0,
+        "cd": "085d1",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경 : 풀이름(경)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -533,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "085b3",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "원,위 : 애기풀(원)"
-    },
-    {
-        "rnum": 0,
         "cd": "085b4",
         "ex": 0,
         "ineum": "",
@@ -586,20 +628,6 @@
         "stroke": 14,
         "isin": 0,
         "dic": "매 : 묻을(매)"
-    },
-    {
-        "rnum": 0,
-        "cd": "085b7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "유 : 향유(유)"
     },
     {
         "rnum": 0,
@@ -670,20 +698,6 @@
         "stroke": 14,
         "isin": 0,
         "dic": "진 : 여우오줌물(진)"
-    },
-    {
-        "rnum": 0,
-        "cd": "085bf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "억,의 : 우거질(의/ 억)"
     },
     {
         "rnum": 0,
@@ -824,20 +838,6 @@
         "stroke": 14,
         "isin": 0,
         "dic": "밀 : 연근(밀)"
-    },
-    {
-        "rnum": 0,
-        "cd": "085d1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "경 : 풀이름(경)"
     },
     {
         "rnum": 0,

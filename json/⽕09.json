@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "03dcf",
+        "ex": 1,
+        "ineum": "옹",
+        "in": "옹",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "용,웅,응"
+    },
+    {
+        "rnum": 0,
+        "cd": "07142",
+        "ex": 1,
+        "ineum": "혁",
+        "in": "혁 : 불태울(혁)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "엽"
+    },
+    {
+        "rnum": 0,
         "cd": "07143",
         "ex": 1,
         "ineum": "규",
@@ -12,6 +40,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "규: 불꽃(규)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07144",
+        "ex": 1,
+        "ineum": "종",
+        "in": "종 : 탈(종)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "중,훈"
     },
     {
         "rnum": 0,
@@ -68,6 +110,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "선,원"
+    },
+    {
+        "rnum": 0,
+        "cd": "0714b",
+        "ex": 1,
+        "ineum": "성",
+        "in": "성 : 더울(성) 불활활탈(성)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "욱,정"
     },
     {
         "rnum": 0,
@@ -138,6 +194,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "단 : 불꽃성할(단)  빛날(단)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07154",
+        "ex": 1,
+        "ineum": "섬,첨",
+        "in": "섬,첨 : 불빛(첨)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "점 : 태울(점)"
     },
     {
         "rnum": 0,
@@ -225,6 +295,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0715f",
+        "ex": 1,
+        "ineum": "위",
+        "in": "위 : 불빛(위)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07162",
         "ex": 1,
         "ineum": "경",
@@ -236,6 +320,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "07163",
+        "ex": 1,
+        "ineum": "유",
+        "in": "유 : 불에구워구부릴(유)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "율"
     },
     {
         "rnum": 0,
@@ -404,20 +502,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "갈,알"
-    },
-    {
-        "rnum": 0,
-        "cd": "03dcf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "옹,용,웅,응"
     },
     {
         "rnum": 0,
@@ -645,34 +729,6 @@
     },
     {
         "rnum": 0,
-        "cd": "07142",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "엽,혁 : 불태울(혁)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07144",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "종,중,훈 : 탈(종)"
-    },
-    {
-        "rnum": 0,
         "cd": "07145",
         "ex": 0,
         "ineum": "",
@@ -698,20 +754,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "풍 : 불사를(풍)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0714b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "성,욱,정 : 더울(성) 불활활탈(성)"
     },
     {
         "rnum": 0,
@@ -754,20 +796,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "자,환 : 삶을(자)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07154",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "섬,점 : 빛이성할(삽) 불빛(첨) 태울 (점)"
     },
     {
         "rnum": 0,
@@ -827,20 +855,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0715f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "위 : 불빛(위)"
-    },
-    {
-        "rnum": 0,
         "cd": "07160",
         "ex": 0,
         "ineum": "",
@@ -866,20 +880,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "건,신,흔 : 남은불꽃 (흔)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07163",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "유,율 : 불에구어구부 릴(유)"
     },
     {
         "rnum": 0,

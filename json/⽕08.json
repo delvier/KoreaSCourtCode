@@ -141,6 +141,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0712e",
+        "ex": 1,
+        "ineum": "흔",
+        "in": "흔 : 태울(흔)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0712f",
         "ex": 1,
         "ineum": "작",
@@ -180,6 +194,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "석,염 : 불꽃(혁/염)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07135",
+        "ex": 1,
+        "ineum": "강",
+        "in": "강 : 칼날벼슬(강)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -561,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0712e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "흔 : 태울(흔)"
-    },
-    {
-        "rnum": 0,
         "cd": "07132",
         "ex": 0,
         "ineum": "",
@@ -614,20 +628,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "욱,유,육,윤 : 빛날 (육)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07135",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "강 : 칼날벼슬(강)"
     },
     {
         "rnum": 0,

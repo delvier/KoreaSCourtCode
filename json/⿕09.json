@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "09fa4",
+        "ex": 1,
+        "ineum": "해",
+        "in": "해 : 노래의가락이조화될(해)",
+        "em": 0,
+        "rad_id": 214,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "09fa5",
         "ex": 1,
         "ineum": "유",
@@ -12,20 +26,6 @@
         "stroke": 9,
         "isin": 1,
         "dic": ""
-    },
-    {
-        "rnum": 0,
-        "cd": "09fa4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 214,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "해 : 노래의가락이조화 될(해)"
     },
     {
         "rnum": 0,

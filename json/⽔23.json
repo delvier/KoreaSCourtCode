@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "07064",
+        "ex": 1,
+        "ineum": "란",
+        "in": "란 : 물이름(란)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 23,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "07065",
+        "ex": 1,
+        "ineum": "천",
+        "in": "천 : 많은물줄기(천)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 23,
+        "isin": 1,
+        "dic": "순 : 셋샘(순)"
+    },
+    {
+        "rnum": 0,
         "cd": "07066",
         "ex": 1,
         "ineum": "현",
@@ -40,34 +68,6 @@
         "stroke": 23,
         "isin": 0,
         "dic": "염 : 출렁거릴(염)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07064",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 23,
-        "isin": 0,
-        "dic": "란 : 물이름(란)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07065",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 23,
-        "isin": 0,
-        "dic": "순,천 : 셋샘(순)  많은물줄기(천/전)"
     },
     {
         "rnum": 0,

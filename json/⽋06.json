@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "03c29",
+        "ex": 1,
+        "ineum": "해",
+        "in": "해",
+        "em": 0,
+        "rad_id": 76,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "03c2b",
+        "ex": 1,
+        "ineum": "참",
+        "in": "참",
+        "em": 0,
+        "rad_id": 76,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "03c2d",
         "ex": 1,
         "ineum": "후",
@@ -29,17 +57,17 @@
     },
     {
         "rnum": 0,
-        "cd": "03c29",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
+        "cd": "06b2f",
+        "ex": 1,
+        "ineum": "힐",
+        "in": "힐 : 기쁠(힐) 웃을(힐)",
         "em": 0,
         "rad_id": 76,
         "type": "0",
         "totstroke": 0,
         "stroke": 6,
-        "isin": 0,
-        "dic": "해"
+        "isin": 1,
+        "dic": "일,현"
     },
     {
         "rnum": 0,
@@ -54,20 +82,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "규,애"
-    },
-    {
-        "rnum": 0,
-        "cd": "03c2b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 76,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "참"
     },
     {
         "rnum": 0,
@@ -124,20 +138,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "궐 : 숨찰(궐)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06b2f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 76,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "일,현,힐 : 기쁠(힐) 웃을(힐)"
     },
     {
         "rnum": 0,

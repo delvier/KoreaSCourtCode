@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07052",
+        "ex": 1,
+        "ineum": "찬",
+        "in": "찬 : 물튈(찬)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07053",
         "ex": 1,
         "ineum": "난,란",
@@ -31,15 +45,15 @@
         "rnum": 0,
         "cd": "07055",
         "ex": 1,
-        "ineum": "리",
-        "in": "리 : 스며들어 갈(리) 물이름(리)",
+        "ineum": "라,리",
+        "in": "라,리",
         "em": 0,
         "rad_id": 85,
         "type": "0",
         "totstroke": 0,
         "stroke": 19,
         "isin": 1,
-        "dic": "라,이"
+        "dic": "이"
     },
     {
         "rnum": 0,
@@ -96,20 +110,6 @@
         "stroke": 19,
         "isin": 0,
         "dic": "파"
-    },
-    {
-        "rnum": 0,
-        "cd": "07052",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 19,
-        "isin": 0,
-        "dic": "찬 : 물튈(찬)"
     },
     {
         "rnum": 0,

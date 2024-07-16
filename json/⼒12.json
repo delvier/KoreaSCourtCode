@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "052e9",
+        "ex": 1,
+        "ineum": "예",
+        "in": "예 : 수고로울(예)",
+        "em": 0,
+        "rad_id": 19,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "이 : 수고로울(이)"
+    },
+    {
+        "rnum": 0,
+        "cd": "052eb",
+        "ex": 1,
+        "ineum": "번",
+        "in": "번 : 건장할(번)",
+        "em": 0,
+        "rad_id": 19,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "052ed",
         "ex": 1,
         "ineum": "동",
@@ -43,20 +71,6 @@
     },
     {
         "rnum": 0,
-        "cd": "052e9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 19,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "예,이 : 수고로울(예 /이)"
-    },
-    {
-        "rnum": 0,
         "cd": "052ea",
         "ex": 0,
         "ineum": "",
@@ -68,20 +82,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "교"
-    },
-    {
-        "rnum": 0,
-        "cd": "052eb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 19,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "번 : 건장할(번)"
     },
     {
         "rnum": 0,

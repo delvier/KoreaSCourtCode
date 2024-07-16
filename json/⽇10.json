@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03b0e",
+        "ex": 1,
+        "ineum": "현",
+        "in": "현",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": "압"
+    },
+    {
+        "rnum": 0,
         "cd": "0669a",
         "ex": 1,
         "ineum": "요",
@@ -33,6 +47,20 @@
         "ex": 1,
         "ineum": "교",
         "in": "교 : 밝을(교)",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "0669f",
+        "ex": 1,
+        "ineum": "개",
+        "in": "개 : 아름다울(개) 비칠(개)",
         "em": 0,
         "rad_id": 72,
         "type": "0",
@@ -85,6 +113,20 @@
     },
     {
         "rnum": 0,
+        "cd": "066a4",
+        "ex": 1,
+        "ineum": "호",
+        "in": "호 : 밝을(호)",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "03b0d",
         "ex": 0,
         "ineum": "",
@@ -96,20 +138,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "박"
-    },
-    {
-        "rnum": 0,
-        "cd": "03b0e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 72,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "압,현"
     },
     {
         "rnum": 0,
@@ -169,20 +197,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0669f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 72,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "개 : 아름다울(개)  비칠(개)"
-    },
-    {
-        "rnum": 0,
         "cd": "066a1",
         "ex": 0,
         "ineum": "",
@@ -194,20 +208,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "옹 : 날씨가어두울(옹)"
-    },
-    {
-        "rnum": 0,
-        "cd": "066a4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 72,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "호 : 밝을(호)"
     },
     {
         "rnum": 0,

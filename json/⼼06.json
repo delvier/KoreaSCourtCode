@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "0391e",
+        "ex": 1,
+        "ineum": "탁",
+        "in": "탁",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "차"
+    },
+    {
+        "rnum": 0,
+        "cd": "06040",
+        "ex": 1,
+        "ineum": "치",
+        "in": "치 : 믿을(치)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "다,지 : 믿을(지)"
+    },
+    {
+        "rnum": 0,
         "cd": "06041",
         "ex": 1,
         "ineum": "임",
@@ -143,15 +171,15 @@
         "rnum": 0,
         "cd": "06054",
         "ex": 1,
-        "ineum": "효",
-        "in": "효",
+        "ineum": "교,효",
+        "in": "교,효 : 쾌할(교) 시원할(교)",
         "em": 0,
         "rad_id": 61,
         "type": "0",
         "totstroke": 0,
         "stroke": 6,
         "isin": 1,
-        "dic": "교 : 쾌할(교)  시원할(교)"
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -208,6 +236,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "개,계 : 근심없을(개/괄/갈)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0605e",
+        "ex": 1,
+        "ineum": "이",
+        "in": "이 : 기꺼울(이)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -278,6 +320,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "경,심"
+    },
+    {
+        "rnum": 0,
+        "cd": "06066",
+        "ex": 1,
+        "ineum": "상",
+        "in": "상 : 생각할(상)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "향 : 생각할(향)"
     },
     {
         "rnum": 0,
@@ -460,20 +516,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "충"
-    },
-    {
-        "rnum": 0,
-        "cd": "0391e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "차,탁"
     },
     {
         "rnum": 0,
@@ -701,20 +743,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06040",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "다,지,치 : 믿을(지 /치)"
-    },
-    {
-        "rnum": 0,
         "cd": "06044",
         "ex": 0,
         "ineum": "",
@@ -911,20 +939,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0605e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "이 : 기꺼울(이)"
-    },
-    {
-        "rnum": 0,
         "cd": "06060",
         "ex": 0,
         "ineum": "",
@@ -950,20 +964,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "린"
-    },
-    {
-        "rnum": 0,
-        "cd": "06066",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "상,향 : 생각할(향/ 상)"
     },
     {
         "rnum": 0,

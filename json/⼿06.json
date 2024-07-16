@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "039e2",
+        "ex": 1,
+        "ineum": "인",
+        "in": "인",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "유"
+    },
+    {
+        "rnum": 0,
+        "cd": "062eb",
+        "ex": 1,
+        "ineum": "흔",
+        "in": "흔 : 끌어당길(흔) 물리칠(흔)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "근,은"
+    },
+    {
+        "rnum": 0,
         "cd": "062ec",
         "ex": 1,
         "ineum": "괄",
@@ -113,6 +141,20 @@
     },
     {
         "rnum": 0,
+        "cd": "062f9",
+        "ex": 1,
+        "ineum": "협",
+        "in": "협 : 꺽을(협)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "랍 : 부러질(랍)"
+    },
+    {
+        "rnum": 0,
         "cd": "062fd",
         "ex": 1,
         "ineum": "예",
@@ -197,6 +239,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06308",
+        "ex": 1,
+        "ineum": "계,설",
+        "in": "계,설 : 끌(설) 끊을(계)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "결,혈"
+    },
+    {
+        "rnum": 0,
         "cd": "06309",
         "ex": 1,
         "ineum": "안",
@@ -222,6 +278,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "철"
+    },
+    {
+        "rnum": 0,
+        "cd": "0630f",
+        "ex": 1,
+        "ineum": "동",
+        "in": "동 : 당겼다밀었다할(동) 짓찧을(동)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "모"
     },
     {
         "rnum": 0,
@@ -267,6 +337,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06313",
+        "ex": 1,
+        "ineum": "차",
+        "in": "차 : 벌릴(차)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "타,탁,택"
+    },
+    {
+        "rnum": 0,
         "cd": "039e1",
         "ex": 0,
         "ineum": "",
@@ -278,20 +362,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "위,해"
-    },
-    {
-        "rnum": 0,
-        "cd": "039e2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "유,인"
     },
     {
         "rnum": 0,
@@ -519,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "062eb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "근,은,흔 : 끌어당길 (흔) 물리칠(흔)"
-    },
-    {
-        "rnum": 0,
         "cd": "062f0",
         "ex": 0,
         "ineum": "",
@@ -600,20 +656,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "치 : 버릴(치) 꼴(치) 칠(치)"
-    },
-    {
-        "rnum": 0,
-        "cd": "062f9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "랍,협 : 부러질(랍)  꺽을(협)"
     },
     {
         "rnum": 0,
@@ -729,20 +771,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06308",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "결,계,설,혈 : 끌(설) 끊을(계)"
-    },
-    {
-        "rnum": 0,
         "cd": "0630a",
         "ex": 0,
         "ineum": "",
@@ -796,34 +824,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "고 : 팔에걸(과) 찰 (과/고)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0630f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "동,모 : 당겼다밀었다 할(동) 짓찧을(동)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06313",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "차,타,탁,택 : 벌릴 (찰/차)"
     },
     {
         "rnum": 0,

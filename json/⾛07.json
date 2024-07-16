@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "047ad",
+        "ex": 1,
+        "ineum": "준",
+        "in": "준",
+        "em": 0,
+        "rad_id": 156,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08d99",
         "ex": 1,
         "ineum": "조",
@@ -40,20 +54,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "투"
-    },
-    {
-        "rnum": 0,
-        "cd": "047ad",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 156,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "준"
     },
     {
         "rnum": 0,

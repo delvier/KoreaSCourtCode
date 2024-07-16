@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "08d8c",
+        "ex": 1,
+        "ineum": "길",
+        "in": "길 : 성내고달아날(길)",
+        "em": 0,
+        "rad_id": 156,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08d8e",
         "ex": 1,
         "ineum": "주",
@@ -110,20 +124,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "장"
-    },
-    {
-        "rnum": 0,
-        "cd": "08d8c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 156,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "길 : 성내고달아날(길)"
     },
     {
         "rnum": 0,

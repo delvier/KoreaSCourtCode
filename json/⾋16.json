@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "04566",
+        "ex": 1,
+        "ineum": "영",
+        "in": "영",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "085f7",
         "ex": 1,
         "ineum": "저",
@@ -113,6 +127,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08605",
+        "ex": 1,
+        "ineum": "형",
+        "in": "형 : 두형초(형)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08606",
         "ex": 1,
         "ineum": "노,로",
@@ -166,6 +194,20 @@
         "stroke": 16,
         "isin": 1,
         "dic": "평 : 사과(평)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0860d",
+        "ex": 1,
+        "ineum": "훈",
+        "in": "훈 : 향풀(훈)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 16,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -334,20 +376,6 @@
         "stroke": 16,
         "isin": 0,
         "dic": "흥"
-    },
-    {
-        "rnum": 0,
-        "cd": "04566",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 16,
-        "isin": 0,
-        "dic": "영"
     },
     {
         "rnum": 0,
@@ -631,20 +659,6 @@
     },
     {
         "rnum": 0,
-        "cd": "08605",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 16,
-        "isin": 0,
-        "dic": "형 : 두형초(형)"
-    },
-    {
-        "rnum": 0,
         "cd": "08608",
         "ex": 0,
         "ineum": "",
@@ -684,20 +698,6 @@
         "stroke": 16,
         "isin": 0,
         "dic": "어 : 가릴 어) 땅이 름(어)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0860d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 16,
-        "isin": 0,
-        "dic": "훈 : 향풀(훈)"
     },
     {
         "rnum": 0,

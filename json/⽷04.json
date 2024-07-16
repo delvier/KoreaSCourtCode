@@ -43,6 +43,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07d0f",
+        "ex": 1,
+        "ineum": "두",
+        "in": "두 : 고할(두) 누런실(두)",
+        "em": 0,
+        "rad_id": 120,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "규,이"
+    },
+    {
+        "rnum": 0,
         "cd": "07d10",
         "ex": 1,
         "ineum": "뉴,유",
@@ -173,6 +187,20 @@
         "ex": 1,
         "ineum": "운",
         "in": "운 : 어지러울(운)  성할(운)",
+        "em": 0,
+        "rad_id": 120,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "07d1d",
+        "ex": 1,
+        "ineum": "임",
+        "in": "임 : 짤(임)",
         "em": 0,
         "rad_id": 120,
         "type": "0",
@@ -463,20 +491,6 @@
     },
     {
         "rnum": 0,
-        "cd": "07d0f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 120,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "규,두,이 : 고할(두) 누런실(두)"
-    },
-    {
-        "rnum": 0,
         "cd": "07d11",
         "ex": 0,
         "ineum": "",
@@ -516,20 +530,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "인,진 : 고삐(진/인)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07d1d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 120,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "임 : 짤(임)"
     },
     {
         "rnum": 0,

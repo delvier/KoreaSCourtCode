@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "0388b",
+        "ex": 1,
+        "ineum": "치",
+        "in": "치",
+        "em": 0,
+        "rad_id": 53,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "05eb2",
+        "ex": 1,
+        "ineum": "래",
+        "in": "래 : 집(래)",
+        "em": 0,
+        "rad_id": 53,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05eb3",
         "ex": 1,
         "ineum": "비",
@@ -113,20 +141,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0388b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 53,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "치"
-    },
-    {
-        "rnum": 0,
         "cd": "0388c",
         "ex": 0,
         "ineum": "",
@@ -166,20 +180,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "능,릉,층 : 정자이름 (릉)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05eb2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 53,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "래 : 집(래)"
     },
     {
         "rnum": 0,
@@ -516,6 +516,20 @@
         "stroke": 8,
         "isin": 0,
         "dic": "뉴"
+    },
+    {
+        "rnum": 0,
+        "cd": "a02e4",
+        "ex": 0,
+        "ineum": "",
+        "in": "",
+        "em": 0,
+        "rad_id": 53,
+        "type": "A",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 0,
+        "dic": "유 : 곳집(유)"
     },
     {
         "rnum": 0,

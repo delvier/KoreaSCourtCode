@@ -29,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06cad",
+        "ex": 1,
+        "ineum": "술",
+        "in": "술 : 물이름(술)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06cae",
         "ex": 1,
         "ineum": "저",
@@ -85,6 +99,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06cb4",
+        "ex": 1,
+        "ineum": "려,전",
+        "in": "려,전 : 요기(려) 어지러울(전)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "여,진"
+    },
+    {
+        "rnum": 0,
         "cd": "06cb6",
         "ex": 1,
         "ineum": "시",
@@ -124,6 +152,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "유 : 기름(유)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06cba",
+        "ex": 1,
+        "ineum": "전",
+        "in": "전 : 물가없을(전) 물결퍼질(전)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -323,6 +365,34 @@
     },
     {
         "rnum": 0,
+        "cd": "06ccd",
+        "ex": 1,
+        "ineum": "분",
+        "in": "분 : 샘솟을(분)  물이빨리흐를(분)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "본"
+    },
+    {
+        "rnum": 0,
+        "cd": "06ccf",
+        "ex": 1,
+        "ineum": "굴,출",
+        "in": "굴,출 : 물솟을(출)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06cd0",
         "ex": 1,
         "ineum": "늑,륵",
@@ -477,6 +547,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06cdf",
+        "ex": 1,
+        "ineum": "정",
+        "in": "정 : 붉은(청) 대추즙(청)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "면,청 : 붉은(청) 대추즙(청)"
+    },
+    {
+        "rnum": 0,
         "cd": "06ce0",
         "ex": 1,
         "ineum": "령,영",
@@ -547,6 +631,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06ce7",
+        "ex": 1,
+        "ineum": "월",
+        "in": "월 : 큰물(월) 넘칠(월)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "살"
+    },
+    {
+        "rnum": 0,
         "cd": "06ce8",
         "ex": 1,
         "ineum": "주",
@@ -558,6 +656,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "주 : 부을(주) 모일 (주) 주(주)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06ce9",
+        "ex": 1,
+        "ineum": "생",
+        "in": "생 : 물넘칠(생) 물깊고넓을(생)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -799,20 +911,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06cad",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "술 : 물이름(술)"
-    },
-    {
-        "rnum": 0,
         "cd": "06caf",
         "ex": 0,
         "ineum": "",
@@ -841,20 +939,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06cb4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "려,여,진 : 요기(려) 어지러울(전)"
-    },
-    {
-        "rnum": 0,
         "cd": "06cb5",
         "ex": 0,
         "ineum": "",
@@ -880,20 +964,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "발 : 물댈(발) 찰(발) 물꼬(발)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06cba",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "전 : 물가없을(전)  물결퍼질(전)"
     },
     {
         "rnum": 0,
@@ -953,20 +1023,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06ccd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "본,분 : 샘솟을(분)  물이빨리흐를(분)"
-    },
-    {
-        "rnum": 0,
         "cd": "06cce",
         "ex": 0,
         "ineum": "",
@@ -978,20 +1034,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "색,석,착 : 물떨어지 는소리(색)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06ccf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "출 : 물솟을(출)"
     },
     {
         "rnum": 0,
@@ -1051,20 +1093,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06cdf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "면,정,청 : 붉은(청) 대추즙(청)"
-    },
-    {
-        "rnum": 0,
         "cd": "06ce4",
         "ex": 0,
         "ineum": "",
@@ -1090,34 +1118,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "국 : 물무늬(국) 물 바가지(국)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06ce7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "살,월 : 큰물(월)  넘칠(월)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06ce9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "생 : 물넘칠(생) 물 깊고넓을(생)"
     },
     {
         "rnum": 0,

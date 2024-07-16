@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08f02",
+        "ex": 1,
+        "ineum": "국",
+        "in": "국 : 마차(국) 들것(국)",
+        "em": 0,
+        "rad_id": 159,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08f03",
         "ex": 1,
         "ineum": "교",
@@ -208,20 +222,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "공 : 판괴임(공)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08f02",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 159,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "국 : 마차(국) 들것 (국)"
     },
     {
         "rnum": 0,

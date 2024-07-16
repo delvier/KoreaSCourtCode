@@ -1,6 +1,34 @@
 [
     {
         "rnum": 0,
+        "cd": "0397c",
+        "ex": 1,
+        "ineum": "언,은",
+        "in": "언,은",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "03980",
+        "ex": 1,
+        "ineum": "봉",
+        "in": "봉",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "03983",
         "ex": 1,
         "ineum": "산",
@@ -267,6 +295,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0616c",
+        "ex": 1,
+        "ineum": "근",
+        "in": "근 : 근심할(근)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0616e",
         "ex": 1,
         "ineum": "려,여",
@@ -505,20 +547,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0397c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "언,은"
-    },
-    {
-        "rnum": 0,
         "cd": "0397d",
         "ex": 0,
         "ineum": "",
@@ -558,20 +586,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "오"
-    },
-    {
-        "rnum": 0,
-        "cd": "03980",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "봉"
     },
     {
         "rnum": 0,
@@ -768,20 +782,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "련 : 눈물흘릴(련)와  同字"
-    },
-    {
-        "rnum": 0,
-        "cd": "0616c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "근 : 근심할(근)"
     },
     {
         "rnum": 0,

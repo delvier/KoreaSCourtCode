@@ -99,6 +99,20 @@
     },
     {
         "rnum": 0,
+        "cd": "092ff",
+        "ex": 1,
+        "ineum": "상",
+        "in": "상 : 수레바퀴쇠(상)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "09300",
         "ex": 1,
         "ineum": "륜,윤",
@@ -124,6 +138,34 @@
         "stroke": 8,
         "isin": 1,
         "dic": "녹"
+    },
+    {
+        "rnum": 0,
+        "cd": "09308",
+        "ex": 1,
+        "ineum": "권",
+        "in": "권 : 쇠말릴(권)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "09309",
+        "ex": 1,
+        "ineum": "민",
+        "in": "민 : 업(민) 장사밑천(민) 부세(민)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "은,혼"
     },
     {
         "rnum": 0,
@@ -222,6 +264,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "정"
+    },
+    {
+        "rnum": 0,
+        "cd": "0931d",
+        "ex": 1,
+        "ineum": "종",
+        "in": "종 : 쇠털(종)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -348,6 +404,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "관 : 바퀴통쇠(관)"
+    },
+    {
+        "rnum": 0,
+        "cd": "09329",
+        "ex": 1,
+        "ineum": "창",
+        "in": "창 : 그릇(창)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -533,20 +603,6 @@
     },
     {
         "rnum": 0,
-        "cd": "092ff",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "상 : 비퀴테(상/창)"
-    },
-    {
-        "rnum": 0,
         "cd": "09301",
         "ex": 0,
         "ineum": "",
@@ -628,34 +684,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "부 : 장구(부)"
-    },
-    {
-        "rnum": 0,
-        "cd": "09308",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "권 : 쇠말릴(권)"
-    },
-    {
-        "rnum": 0,
-        "cd": "09309",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "민,은,혼 : 업(민)  장사밑천(민) 부 세(민)"
     },
     {
         "rnum": 0,
@@ -827,20 +855,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0931d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "종 : 쇠털(종)"
-    },
-    {
-        "rnum": 0,
         "cd": "09325",
         "ex": 0,
         "ineum": "",
@@ -852,20 +866,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "유,육 : 옹솥(육)"
-    },
-    {
-        "rnum": 0,
-        "cd": "09329",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "창 : 그릇(창)"
     },
     {
         "rnum": 0,

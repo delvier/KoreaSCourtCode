@@ -29,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "09445",
+        "ex": 1,
+        "ineum": "횡",
+        "in": "횡 : 종소리(횡)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 14,
+        "isin": 1,
+        "dic": "영,형"
+    },
+    {
+        "rnum": 0,
         "cd": "0944a",
         "ex": 1,
         "ineum": "확",
@@ -208,20 +222,6 @@
         "stroke": 14,
         "isin": 0,
         "dic": "조"
-    },
-    {
-        "rnum": 0,
-        "cd": "09445",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 14,
-        "isin": 0,
-        "dic": "영,형,횡 : 종소리(횡)"
     },
     {
         "rnum": 0,

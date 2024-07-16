@@ -85,6 +85,20 @@
     },
     {
         "rnum": 0,
+        "cd": "08e3e",
+        "ex": 1,
+        "ineum": "복",
+        "in": "복 : 모을(복)",
+        "em": 0,
+        "rad_id": 157,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "08e40",
         "ex": 1,
         "ineum": "접",
@@ -404,20 +418,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "탕 : 미끄러질(탕)"
-    },
-    {
-        "rnum": 0,
-        "cd": "08e3e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 157,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "복 : 모을(복)"
     },
     {
         "rnum": 0,

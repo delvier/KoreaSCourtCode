@@ -57,6 +57,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0625d",
+        "ex": 1,
+        "ineum": "우",
+        "in": "우",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": "오,호"
+    },
+    {
+        "rnum": 0,
         "cd": "0625e",
         "ex": 1,
         "ineum": "한",
@@ -71,6 +85,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06260",
+        "ex": 1,
+        "ineum": "차",
+        "in": "차 : 집을(차) 찌를(차)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06263",
         "ex": 1,
         "ineum": "구",
@@ -82,6 +110,20 @@
         "stroke": 3,
         "isin": 1,
         "dic": "고"
+    },
+    {
+        "rnum": 0,
+        "cd": "06268",
+        "ex": 1,
+        "ineum": "인",
+        "in": "인 : 그러하다(인) 그런데(인)(일본 한자)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 3,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -169,20 +211,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0625d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 3,
-        "isin": 0,
-        "dic": "오,우,호"
-    },
-    {
-        "rnum": 0,
         "cd": "0625f",
         "ex": 0,
         "ineum": "",
@@ -194,20 +222,6 @@
         "stroke": 3,
         "isin": 0,
         "dic": "신 : 떨칠(신)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06260",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 3,
-        "isin": 0,
-        "dic": "차 : 집을(차) 찌를 (차)"
     },
     {
         "rnum": 0,
@@ -292,20 +306,6 @@
         "stroke": 3,
         "isin": 0,
         "dic": "집 : 잡을(집)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06268",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 3,
-        "isin": 0,
-        "dic": "인 : 그러하다(인)  그런대(인)(일본 한자)"
     },
     {
         "rnum": 0,

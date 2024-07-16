@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03941",
+        "ex": 1,
+        "ineum": "덕",
+        "in": "덕",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "060b0",
         "ex": 1,
         "ineum": "종",
@@ -267,6 +281,20 @@
     },
     {
         "rnum": 0,
+        "cd": "060cd",
+        "ex": 1,
+        "ineum": "금",
+        "in": "금 : 이할(금)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "060cf",
         "ex": 1,
         "ineum": "남,람",
@@ -477,6 +505,20 @@
     },
     {
         "rnum": 0,
+        "cd": "060e2",
+        "ex": 1,
+        "ineum": "쇄,예",
+        "in": "쇄,예 : 의심할(쇄/예)",
+        "em": 0,
+        "rad_id": 61,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "나,솨,지"
+    },
+    {
+        "rnum": 0,
         "cd": "0393e",
         "ex": 0,
         "ineum": "",
@@ -516,20 +558,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "식"
-    },
-    {
-        "rnum": 0,
-        "cd": "03941",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "덕"
     },
     {
         "rnum": 0,
@@ -1009,20 +1037,6 @@
     },
     {
         "rnum": 0,
-        "cd": "060cd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "금 : 이할(금)"
-    },
-    {
-        "rnum": 0,
         "cd": "060ce",
         "ex": 0,
         "ineum": "",
@@ -1090,20 +1104,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "민,혼 : 흐릴(혼)  혼미할(혼)"
-    },
-    {
-        "rnum": 0,
-        "cd": "060e2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 61,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "나,솨,예,지 : 의심 할(쇄/예)"
     },
     {
         "rnum": 0,

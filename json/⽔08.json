@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03cf9",
+        "ex": 1,
+        "ineum": "왕",
+        "in": "왕",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "03cfc",
         "ex": 1,
         "ineum": "필",
@@ -68,6 +82,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "행 : 기운(행) 담길 (행)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06dad",
+        "ex": 1,
+        "ineum": "수",
+        "in": "수 : 물모양(수)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -295,6 +323,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06dcd",
+        "ex": 1,
+        "ineum": "주",
+        "in": "주 : 물돌릴(주)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "윤,조"
+    },
+    {
+        "rnum": 0,
         "cd": "06dcf",
         "ex": 1,
         "ineum": "호",
@@ -365,6 +407,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06dd7",
+        "ex": 1,
+        "ineum": "국",
+        "in": "국 : 물결얼룩거릴(국)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "도"
+    },
+    {
+        "rnum": 0,
         "cd": "06dd8",
         "ex": 1,
         "ineum": "도",
@@ -404,6 +460,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "누 : 눈물(루/누)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06ddb",
+        "ex": 1,
+        "ineum": "제",
+        "in": "제 : 강이름(제)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "재,절 : 강이름(절)"
     },
     {
         "rnum": 0,
@@ -600,6 +670,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "준,진,추,희"
+    },
+    {
+        "rnum": 0,
+        "cd": "06def",
+        "ex": 1,
+        "ineum": "육",
+        "in": "육 : 물이름(육)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "순,욱,철"
     },
     {
         "rnum": 0,
@@ -866,20 +950,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "화"
-    },
-    {
-        "rnum": 0,
-        "cd": "03cf9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "왕"
     },
     {
         "rnum": 0,
@@ -1177,20 +1247,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06dad",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "수 : 물모양(수)"
-    },
-    {
-        "rnum": 0,
         "cd": "06dae",
         "ex": 0,
         "ineum": "",
@@ -1401,20 +1457,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06dcd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "윤,조,주 : 물돌릴(주)"
-    },
-    {
-        "rnum": 0,
         "cd": "06dce",
         "ex": 0,
         "ineum": "",
@@ -1468,34 +1510,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "륙,륜 : 엉긴못(류/ 륙)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06dd7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "국,도 : 물결얼룩거릴 (국)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06ddb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "재,절,제 : 강이름(제) 강이름(절)"
     },
     {
         "rnum": 0,
@@ -1566,20 +1580,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "거 : 도랑(거)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06def",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "순,욱,육,철 : 물이 름(육)"
     },
     {
         "rnum": 0,

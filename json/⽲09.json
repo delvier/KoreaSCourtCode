@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "04168",
+        "ex": 1,
+        "ineum": "향",
+        "in": "향",
+        "em": 0,
+        "rad_id": 115,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "형"
+    },
+    {
+        "rnum": 0,
         "cd": "07a27",
         "ex": 1,
         "ineum": "설",
@@ -12,6 +26,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "계 : 볏짚(계)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07a2c",
+        "ex": 1,
+        "ineum": "나",
+        "in": "나 : 찰벼(나)",
+        "em": 0,
+        "rad_id": 115,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -197,20 +225,6 @@
     },
     {
         "rnum": 0,
-        "cd": "04168",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 115,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "향,형"
-    },
-    {
-        "rnum": 0,
         "cd": "04169",
         "ex": 0,
         "ineum": "",
@@ -292,20 +306,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "벽 : 보일(벽) 벼빽 빽할(벽)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07a2c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 115,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "나 : 찰벼(나)"
     },
     {
         "rnum": 0,

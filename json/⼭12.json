@@ -29,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05d93",
+        "ex": 1,
+        "ineum": "파",
+        "in": "파 : 산이름(파)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05d94",
         "ex": 1,
         "ineum": "금",
@@ -82,6 +96,20 @@
         "stroke": 12,
         "isin": 1,
         "dic": "등 : 고개(등)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05d9f",
+        "ex": 1,
+        "ineum": "준",
+        "in": "준 : 산우뚝솟을(준)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -309,20 +337,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05d93",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "파 : 산이름(파)"
-    },
-    {
-        "rnum": 0,
         "cd": "05d96",
         "ex": 0,
         "ineum": "",
@@ -418,20 +432,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "타 : 산작고예리할(타)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05d9f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "준 : 산우뚝솟을(준)"
     },
     {
         "rnum": 0,

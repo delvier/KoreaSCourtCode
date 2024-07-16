@@ -15,10 +15,38 @@
     },
     {
         "rnum": 0,
+        "cd": "03d6a",
+        "ex": 1,
+        "ineum": "선,연",
+        "in": "선,연",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06f5e",
         "ex": 1,
         "ineum": "노,로",
         "in": "노,로 : 땅이름(노/로) 강이름(노/로) 물이름(노/로)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "06f9e",
+        "ex": 1,
+        "ineum": "우",
+        "in": "우 : 언덕사이물(우)",
         "em": 0,
         "rad_id": 85,
         "type": "0",
@@ -197,6 +225,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06fb4",
+        "ex": 1,
+        "ineum": "환",
+        "in": "환 : 물결꿈틀거려 흐를(환)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": "현"
+    },
+    {
+        "rnum": 0,
         "cd": "06fb6",
         "ex": 1,
         "ineum": "전",
@@ -323,6 +365,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06fc8",
+        "ex": 1,
+        "ineum": "즙,집",
+        "in": "즙,집 : 화할(즙) 빨리흐를(즙)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06fc9",
         "ex": 1,
         "ineum": "수",
@@ -348,6 +404,20 @@
         "stroke": 13,
         "isin": 1,
         "dic": "세,회  : 물출렁거릴(회)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06fcb",
+        "ex": 1,
+        "ineum": "초",
+        "in": "초 : 물이름(초)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": "람"
     },
     {
         "rnum": 0,
@@ -519,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "03d6a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "선,연"
-    },
-    {
-        "rnum": 0,
         "cd": "03d6b",
         "ex": 0,
         "ineum": "",
@@ -600,20 +656,6 @@
         "stroke": 13,
         "isin": 0,
         "dic": "석"
-    },
-    {
-        "rnum": 0,
-        "cd": "06f9e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "우 : 언덕사이물(우)"
     },
     {
         "rnum": 0,
@@ -740,20 +782,6 @@
         "stroke": 13,
         "isin": 0,
         "dic": "업 : 물막는나무(업)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06fb4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "현,환 : 물결꿈틀거려 흐를(환)"
     },
     {
         "rnum": 0,
@@ -894,34 +922,6 @@
         "stroke": 13,
         "isin": 0,
         "dic": "침 : 점점(침) 큰못 (침)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06fc8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "즙,집 : 화할(즙)  빨리흐를(즙)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06fcb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "람,초 : 물이름(초)"
     },
     {
         "rnum": 0,
@@ -1313,7 +1313,7 @@
         "totstroke": 0,
         "stroke": 13,
         "isin": 0,
-        "dic": "��"
+        "dic": "의"
     },
     {
         "rnum": 0,

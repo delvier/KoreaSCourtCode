@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "05418",
+        "ex": 1,
+        "ineum": "우",
+        "in": "우 : 부를(우) 화할(우)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "오"
+    },
+    {
+        "rnum": 0,
         "cd": "0541b",
         "ex": 1,
         "ineum": "군",
@@ -82,6 +96,20 @@
         "stroke": 4,
         "isin": 1,
         "dic": "분 : 분부할(분)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0542a",
+        "ex": 1,
+        "ineum": "와",
+        "in": "와 : 움직일(와) 잘못(와)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "화"
     },
     {
         "rnum": 0,
@@ -295,6 +323,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05447",
+        "ex": 1,
+        "ineum": "계",
+        "in": "계 : 새벽별(계)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "개"
+    },
+    {
+        "rnum": 0,
         "cd": "05448",
         "ex": 1,
         "ineum": "정",
@@ -320,6 +362,20 @@
         "stroke": 4,
         "isin": 1,
         "dic": "호"
+    },
+    {
+        "rnum": 0,
+        "cd": "0544f",
+        "ex": 1,
+        "ineum": "승",
+        "in": "승 : 가론(승)",
+        "em": 0,
+        "rad_id": 30,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -533,20 +589,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05418",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "오,우 : 부를(우)  화할(우)"
-    },
-    {
-        "rnum": 0,
         "cd": "05419",
         "ex": 0,
         "ineum": "",
@@ -701,20 +743,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0542a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "와,화 : 움직일(와)  잘못(와)"
-    },
-    {
-        "rnum": 0,
         "cd": "0542d",
         "ex": 0,
         "ineum": "",
@@ -753,7 +781,7 @@
         "totstroke": 0,
         "stroke": 4,
         "isin": 0,
-        "dic": "굉,횡 : 북소리(굉/ ��)"
+        "dic": "굉,횡 : 북소리(굉/ 횡)"
     },
     {
         "rnum": 0,
@@ -897,20 +925,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05447",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "개,계 : 새벽별(계)"
-    },
-    {
-        "rnum": 0,
         "cd": "05449",
         "ex": 0,
         "ineum": "",
@@ -978,20 +992,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "척 : 피트(척)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0544f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 30,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "승 : 가론(승)"
     },
     {
         "rnum": 0,

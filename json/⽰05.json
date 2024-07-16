@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "0794f",
+        "ex": 1,
+        "ineum": "석",
+        "in": "석 : 돌감실(석)",
+        "em": 0,
+        "rad_id": 113,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07950",
         "ex": 1,
         "ineum": "우",
@@ -12,6 +26,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "우 : 도울(우)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07952",
+        "ex": 1,
+        "ineum": "초",
+        "in": "초 : 사람이름(초)",
+        "em": 0,
+        "rad_id": 113,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -379,20 +407,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0794f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 113,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "석 : 돌감실(석)"
-    },
-    {
-        "rnum": 0,
         "cd": "07951",
         "ex": 0,
         "ineum": "",
@@ -404,20 +418,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "질 : 제사차례(질)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07952",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 113,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "초 : 사람이름(초)"
     },
     {
         "rnum": 0,

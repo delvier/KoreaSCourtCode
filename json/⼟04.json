@@ -99,6 +99,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0574b",
+        "ex": 1,
+        "ineum": "분",
+        "in": "분 : 먼지(분) 칠할(분)",
+        "em": 0,
+        "rad_id": 32,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0574c",
         "ex": 1,
         "ineum": "분",
@@ -446,20 +460,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "둔 : 농막(둔) 밭고 랑(둔)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0574b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 32,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "분 : 먼지(분) 칠할 (분)"
     },
     {
         "rnum": 0,

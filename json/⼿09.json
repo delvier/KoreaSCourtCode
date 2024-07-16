@@ -43,6 +43,34 @@
     },
     {
         "rnum": 0,
+        "cd": "063c1",
+        "ex": 1,
+        "ineum": "정",
+        "in": "정",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "063c2",
+        "ex": 1,
+        "ineum": "추",
+        "in": "추 : 모을(추)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "유"
+    },
+    {
+        "rnum": 0,
         "cd": "063c3",
         "ex": 1,
         "ineum": "전",
@@ -82,6 +110,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "계"
+    },
+    {
+        "rnum": 0,
+        "cd": "063c7",
+        "ex": 1,
+        "ineum": "남",
+        "in": "남 : 잡을(남)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -152,6 +194,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "섭,즙,집"
+    },
+    {
+        "rnum": 0,
+        "cd": "063d7",
+        "ex": 1,
+        "ineum": "순",
+        "in": "순 : 만질(순) 쓰다듬을(순)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -250,6 +306,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "계,해"
+    },
+    {
+        "rnum": 0,
+        "cd": "063ea",
+        "ex": 1,
+        "ineum": "추",
+        "in": "추 : 모을(추)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -362,6 +432,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "삽 : 꽂을(삽) 창(삽)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06461",
+        "ex": 1,
+        "ineum": "개",
+        "in": "개 : 거둘(개)",
+        "em": 0,
+        "rad_id": 64,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "희"
     },
     {
         "rnum": 0,
@@ -645,34 +729,6 @@
     },
     {
         "rnum": 0,
-        "cd": "063c1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "정"
-    },
-    {
-        "rnum": 0,
-        "cd": "063c2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "유,추 : 모을(추)"
-    },
-    {
-        "rnum": 0,
         "cd": "063c5",
         "ex": 0,
         "ineum": "",
@@ -684,20 +740,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "연 : 갈(연)"
-    },
-    {
-        "rnum": 0,
-        "cd": "063c7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "남 : 잡을(남)"
     },
     {
         "rnum": 0,
@@ -767,7 +809,7 @@
         "totstroke": 0,
         "stroke": 9,
         "isin": 0,
-        "dic": "���,진 : 때릴(주)  해칠(주)"
+        "dic": "주,진 : 때릴(주)  해칠(주)"
     },
     {
         "rnum": 0,
@@ -838,20 +880,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "침 : 찌를(침)"
-    },
-    {
-        "rnum": 0,
-        "cd": "063d7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "순 : 만질(순) 쓰다 듬을(순)"
     },
     {
         "rnum": 0,
@@ -1006,20 +1034,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "정 : 부딪힐(정)"
-    },
-    {
-        "rnum": 0,
-        "cd": "063ea",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "추 : 모을(추)"
     },
     {
         "rnum": 0,
@@ -1286,20 +1300,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "교 : 攪(어지러울(교))의 略字"
-    },
-    {
-        "rnum": 0,
-        "cd": "06461",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 64,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "개,희 : 거둘(개)"
     },
     {
         "rnum": 0,

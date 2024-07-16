@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03ebf",
+        "ex": 1,
+        "ineum": "이",
+        "in": "이",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "03ec4",
         "ex": 1,
         "ineum": "보",
@@ -26,6 +40,34 @@
         "stroke": 6,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "073d3",
+        "ex": 1,
+        "ineum": "교",
+        "in": "교 : 옥산통(교)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "민,진"
+    },
+    {
+        "rnum": 0,
+        "cd": "073d5",
+        "ex": 1,
+        "ineum": "려",
+        "in": "려 : 자개로 칼장식할(려)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "여,예,협"
     },
     {
         "rnum": 0,
@@ -82,6 +124,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "홍: 구슬(홍) 옥이름(홍)"
+    },
+    {
+        "rnum": 0,
+        "cd": "073da",
+        "ex": 1,
+        "ineum": "연",
+        "in": "연 : 옥이름(연)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "옥,인"
     },
     {
         "rnum": 0,
@@ -197,6 +253,20 @@
     },
     {
         "rnum": 0,
+        "cd": "073e7",
+        "ex": 1,
+        "ineum": "요",
+        "in": "요 : 대합조개(요)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "배"
+    },
+    {
+        "rnum": 0,
         "cd": "073e9",
         "ex": 1,
         "ineum": "형",
@@ -239,6 +309,20 @@
     },
     {
         "rnum": 0,
+        "cd": "073ec",
+        "ex": 1,
+        "ineum": "술",
+        "in": "술 : 옥이름(술)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "073ed",
         "ex": 1,
         "ineum": "반",
@@ -278,20 +362,6 @@
         "stroke": 6,
         "isin": 1,
         "dic": "유,윤 : 유리돌(류/유)"
-    },
-    {
-        "rnum": 0,
-        "cd": "03ebf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "이"
     },
     {
         "rnum": 0,
@@ -407,20 +477,6 @@
     },
     {
         "rnum": 0,
-        "cd": "073d3",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "교,민,진 : 옥산통(교)"
-    },
-    {
-        "rnum": 0,
         "cd": "073d4",
         "ex": 0,
         "ineum": "",
@@ -432,34 +488,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "전,천 : 옥이름(천)"
-    },
-    {
-        "rnum": 0,
-        "cd": "073d5",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "려,여,예,협 : 자개 로칼장식할(려)"
-    },
-    {
-        "rnum": 0,
-        "cd": "073da",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "연,옥,인 : 옥이름(연)"
     },
     {
         "rnum": 0,
@@ -519,20 +547,6 @@
     },
     {
         "rnum": 0,
-        "cd": "073e7",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "배,요 : 대합조개(요)"
-    },
-    {
-        "rnum": 0,
         "cd": "073e8",
         "ex": 0,
         "ineum": "",
@@ -544,20 +558,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "리,이,합,협,흡 : 대합(합)"
-    },
-    {
-        "rnum": 0,
-        "cd": "073ec",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "술 : 옥이름(술)"
     },
     {
         "rnum": 0,

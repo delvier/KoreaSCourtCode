@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "07c63",
+        "ex": 1,
+        "ineum": "란",
+        "in": "란 : 전통(란)",
+        "em": 0,
+        "rad_id": 118,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 17,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07c64",
         "ex": 1,
         "ineum": "첨",
@@ -96,20 +110,6 @@
         "stroke": 17,
         "isin": 0,
         "dic": "렴 : 경대(렵)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07c63",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 118,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 17,
-        "isin": 0,
-        "dic": "란 : 전통(란)"
     },
     {
         "rnum": 0,

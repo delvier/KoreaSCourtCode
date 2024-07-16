@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "04117",
+        "ex": 1,
+        "ineum": "연",
+        "in": "연",
+        "em": 0,
+        "rad_id": 113,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0798a",
         "ex": 1,
         "ineum": "계",
@@ -96,6 +110,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "지: 복(지)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07995",
+        "ex": 1,
+        "ineum": "의",
+        "in": "의 : 아름다울(의)",
+        "em": 0,
+        "rad_id": 113,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "이"
     },
     {
         "rnum": 0,
@@ -320,20 +348,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "상,석,양 : 길제사(양) 귀신쫓을(상)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07995",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 113,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "의,이 : 아름다울(의)"
     },
     {
         "rnum": 0,

@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05dd8",
+        "ex": 1,
+        "ineum": "헌",
+        "in": "헌 : 봉우리(헌)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 20,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05dda",
         "ex": 1,
         "ineum": "헌",
@@ -40,20 +54,6 @@
         "stroke": 20,
         "isin": 0,
         "dic": "암"
-    },
-    {
-        "rnum": 0,
-        "cd": "05dd8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 20,
-        "isin": 0,
-        "dic": "헌 : 봉우리(헌)"
     },
     {
         "rnum": 0,

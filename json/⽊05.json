@@ -99,6 +99,20 @@
     },
     {
         "rnum": 0,
+        "cd": "067b9",
+        "ex": 1,
+        "ineum": "포",
+        "in": "포 : 졸참나무(포)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "부"
+    },
+    {
+        "rnum": 0,
         "cd": "067bb",
         "ex": 1,
         "ineum": "설,예",
@@ -208,6 +222,48 @@
         "stroke": 5,
         "isin": 1,
         "dic": "동"
+    },
+    {
+        "rnum": 0,
+        "cd": "067cb",
+        "ex": 1,
+        "ineum": "대",
+        "in": "대 : 누에시렁(대)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "067cd",
+        "ex": 1,
+        "ineum": "앙,영",
+        "in": "앙,영 : 추녀끝(앙)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "067ce",
+        "ex": 1,
+        "ineum": "부",
+        "in": "부 : 꽃받침(부)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -351,6 +407,20 @@
     },
     {
         "rnum": 0,
+        "cd": "067dc",
+        "ex": 1,
+        "ineum": "거",
+        "in": "거 : 고리버들(거) 낙수물통(거)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "궤"
+    },
+    {
+        "rnum": 0,
         "cd": "067dd",
         "ex": 1,
         "ineum": "탁",
@@ -460,6 +530,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "수"
+    },
+    {
+        "rnum": 0,
+        "cd": "067f2",
+        "ex": 1,
+        "ineum": "비,필",
+        "in": "비,필 : 창자루(비) 도지개(비)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -586,6 +670,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "창"
+    },
+    {
+        "rnum": 0,
+        "cd": "0680d",
+        "ex": 1,
+        "ineum": "생",
+        "in": "생 : 사슬(생)  정승(생)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "성"
     },
     {
         "rnum": 0,
@@ -785,20 +883,6 @@
     },
     {
         "rnum": 0,
-        "cd": "067b9",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "부,포 : 졸참나무(포)"
-    },
-    {
-        "rnum": 0,
         "cd": "067ba",
         "ex": 0,
         "ineum": "",
@@ -925,20 +1009,6 @@
     },
     {
         "rnum": 0,
-        "cd": "067cb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "대 : 누에시렁(대)"
-    },
-    {
-        "rnum": 0,
         "cd": "067cc",
         "ex": 0,
         "ineum": "",
@@ -950,34 +1020,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "사 : 낫자루(사)"
-    },
-    {
-        "rnum": 0,
-        "cd": "067cd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "앙,영 : 매화나무(영) 추녀끝(앙)"
-    },
-    {
-        "rnum": 0,
-        "cd": "067ce",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "부 : 꽃받침(부)"
     },
     {
         "rnum": 0,
@@ -1020,20 +1062,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "신 : 나무절로죽을(신) 자고목(신)"
-    },
-    {
-        "rnum": 0,
-        "cd": "067dc",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "거,궤 : 고리버들(거) 낙수물통(거)"
     },
     {
         "rnum": 0,
@@ -1202,20 +1230,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "돌,둘,올,출 : 마들 가리(돌)"
-    },
-    {
-        "rnum": 0,
-        "cd": "067f2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "비,필 : 창자루(비)  도지개(비/밀)"
     },
     {
         "rnum": 0,
@@ -1454,20 +1468,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "로 : 거망옻나무(로) 의 略字"
-    },
-    {
-        "rnum": 0,
-        "cd": "0680d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "생,성 : 사슬(생)  정승(생)"
     },
     {
         "rnum": 0,

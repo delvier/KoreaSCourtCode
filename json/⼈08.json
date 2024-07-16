@@ -141,6 +141,20 @@
     },
     {
         "rnum": 0,
+        "cd": "04ffd",
+        "ex": 1,
+        "ineum": "흔",
+        "in": "흔",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "04ffe",
         "ex": 1,
         "ineum": "비",
@@ -225,6 +239,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05008",
+        "ex": 1,
+        "ineum": "래",
+        "in": "래",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "내"
+    },
+    {
+        "rnum": 0,
         "cd": "05009",
         "ex": 1,
         "ineum": "창",
@@ -250,6 +278,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "개 : 낱(개)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0500c",
+        "ex": 1,
+        "ineum": "관",
+        "in": "관 : 낮은벼슬아치(관)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -337,6 +379,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05015",
+        "ex": 1,
+        "ineum": "수",
+        "in": "수 : 무거울(수) 이름(수)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05016",
         "ex": 1,
         "ineum": "행",
@@ -390,6 +446,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "기"
+    },
+    {
+        "rnum": 0,
+        "cd": "0501b",
+        "ex": 1,
+        "ineum": "기",
+        "in": "기 : 방상탈(기) 귀신쫓는탈(기)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -645,6 +715,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05032",
+        "ex": 1,
+        "ineum": "동",
+        "in": "동 : 어리석을(동) 뒤떨어질(동)",
+        "em": 0,
+        "rad_id": 9,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0503b",
         "ex": 1,
         "ineum": "야",
@@ -897,20 +981,6 @@
     },
     {
         "rnum": 0,
-        "cd": "04ffd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "흔"
-    },
-    {
-        "rnum": 0,
         "cd": "04fff",
         "ex": 0,
         "ineum": "",
@@ -967,20 +1037,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05008",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "내,래"
-    },
-    {
-        "rnum": 0,
         "cd": "0500a",
         "ex": 0,
         "ineum": "",
@@ -992,20 +1048,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "종 : 곤중할(종)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0500c",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "관 : 낮은벼슬아치(관)"
     },
     {
         "rnum": 0,
@@ -1037,20 +1079,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05015",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "수 : 무거울(수) 이 름(수)"
-    },
-    {
-        "rnum": 0,
         "cd": "05017",
         "ex": 0,
         "ineum": "",
@@ -1062,20 +1090,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "붕 : 부탁할(붕)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0501b",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "기 : 방상탈(기) 귀 신쫓는탈(기)"
     },
     {
         "rnum": 0,
@@ -1132,20 +1146,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "혼 : 통하지않을(혼)  어리석을(혼)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05032",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 9,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "동 : 어리석을(동)  뒤떨어질(동)"
     },
     {
         "rnum": 0,

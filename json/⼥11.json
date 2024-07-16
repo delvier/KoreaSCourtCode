@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03716",
+        "ex": 1,
+        "ineum": "조",
+        "in": "조",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": "아"
+    },
+    {
+        "rnum": 0,
         "cd": "05ad5",
         "ex": 1,
         "ineum": "예",
@@ -185,15 +199,15 @@
         "rnum": 0,
         "cd": "05ae6",
         "ex": 1,
-        "ineum": "항",
-        "in": "항 : 항아(항)",
+        "ineum": "상,항",
+        "in": "상,항",
         "em": 0,
         "rad_id": 38,
         "type": "0",
         "totstroke": 0,
         "stroke": 11,
         "isin": 1,
-        "dic": "상,아"
+        "dic": "아"
     },
     {
         "rnum": 0,
@@ -306,20 +320,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "련,연"
-    },
-    {
-        "rnum": 0,
-        "cd": "03716",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "아,조"
     },
     {
         "rnum": 0,

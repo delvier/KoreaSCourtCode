@@ -43,6 +43,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0598f",
+        "ex": 1,
+        "ineum": "문",
+        "in": "문 : 낳을(문) 여자이름(문)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "민"
+    },
+    {
+        "rnum": 0,
         "cd": "05991",
         "ex": 1,
         "ineum": "파",
@@ -155,6 +169,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0599e",
+        "ex": 1,
+        "ineum": "뉴",
+        "in": "뉴 : 계집아이(뉴)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0599f",
         "ex": 1,
         "ineum": "안",
@@ -166,6 +194,34 @@
         "stroke": 4,
         "isin": 1,
         "dic": "민,연,추"
+    },
+    {
+        "rnum": 0,
+        "cd": "059a1",
+        "ex": 1,
+        "ineum": "흔",
+        "in": "흔 : 아름다울(흔) 여자이름(흔)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "건,근,대,소,아,연,은"
+    },
+    {
+        "rnum": 0,
+        "cd": "059a2",
+        "ex": 1,
+        "ineum": "분",
+        "in": "분 : 분나라(분)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -208,6 +264,20 @@
         "stroke": 4,
         "isin": 1,
         "dic": "타 : 온당할(타)"
+    },
+    {
+        "rnum": 0,
+        "cd": "059a6",
+        "ex": 1,
+        "ineum": "봉",
+        "in": "봉 : 아름다울(봉)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -393,20 +463,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0598f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "문,민 : 낳을(문)  여자이름(문)"
-    },
-    {
-        "rnum": 0,
         "cd": "05990",
         "ex": 0,
         "ineum": "",
@@ -491,20 +547,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0599e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "뉴 : 계집아이(뉴)"
-    },
-    {
-        "rnum": 0,
         "cd": "059a0",
         "ex": 0,
         "ineum": "",
@@ -516,48 +558,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "납,내,놜 : 어린아이 살찐모양(놜/납)  장가들(납) 쌓을(납)"
-    },
-    {
-        "rnum": 0,
-        "cd": "059a1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "건,근,대,소,아,연,은,흔 : 아름다울 (흔) 여자이름(흔)"
-    },
-    {
-        "rnum": 0,
-        "cd": "059a2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "분 : 분나라(분)"
-    },
-    {
-        "rnum": 0,
-        "cd": "059a6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "봉 : 아름다울(봉)"
     },
     {
         "rnum": 0,

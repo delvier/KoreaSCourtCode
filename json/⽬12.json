@@ -85,6 +85,20 @@
     },
     {
         "rnum": 0,
+        "cd": "077b1",
+        "ex": 1,
+        "ineum": "엽",
+        "in": "엽 : 빛날(엽)",
+        "em": 0,
+        "rad_id": 109,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": "화"
+    },
+    {
+        "rnum": 0,
         "cd": "077b3",
         "ex": 1,
         "ineum": "동",
@@ -334,20 +348,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "간,한 : 엿볼(한)  엿볼(간)"
-    },
-    {
-        "rnum": 0,
-        "cd": "077b1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 109,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "엽,화 : 빛날(엽)"
     },
     {
         "rnum": 0,

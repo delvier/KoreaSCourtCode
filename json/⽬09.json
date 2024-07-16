@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "04050",
+        "ex": 1,
+        "ineum": "영",
+        "in": "영",
+        "em": 0,
+        "rad_id": 109,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07761",
         "ex": 1,
         "ineum": "수",
@@ -12,6 +26,20 @@
         "stroke": 9,
         "isin": 1,
         "dic": "수 : 잘(수)"
+    },
+    {
+        "rnum": 0,
+        "cd": "07772",
+        "ex": 1,
+        "ineum": "성",
+        "in": "성 : 눈에광채날(성)",
+        "em": 0,
+        "rad_id": 109,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 9,
+        "isin": 1,
+        "dic": "혼"
     },
     {
         "rnum": 0,
@@ -155,20 +183,6 @@
     },
     {
         "rnum": 0,
-        "cd": "04050",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 109,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "영"
-    },
-    {
-        "rnum": 0,
         "cd": "04051",
         "ex": 0,
         "ineum": "",
@@ -306,20 +320,6 @@
         "stroke": 9,
         "isin": 0,
         "dic": "하 : 천천히볼(하)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07772",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 109,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 9,
-        "isin": 0,
-        "dic": "성,혼 : 눈에광채날(성)"
     },
     {
         "rnum": 0,

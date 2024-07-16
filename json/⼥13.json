@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "05b13",
+        "ex": 1,
+        "ineum": "교",
+        "in": "교 : 사람이름(교)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": "미"
+    },
+    {
+        "rnum": 0,
         "cd": "05b16",
         "ex": 1,
         "ineum": "폐",
@@ -12,6 +26,20 @@
         "stroke": 13,
         "isin": 1,
         "dic": "폐 : 사랑할(폐)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05b17",
+        "ex": 1,
+        "ineum": "선",
+        "in": "선 : 바뀔(선)",
+        "em": 0,
+        "rad_id": 38,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": "단"
     },
     {
         "rnum": 0,
@@ -54,6 +82,20 @@
         "stroke": 13,
         "isin": 1,
         "dic": "영 : 가득할(영)"
+    },
+    {
+        "rnum": 0,
+        "cd": "a02de",
+        "ex": 1,
+        "ineum": "렴",
+        "in": "렴",
+        "em": 0,
+        "rad_id": 38,
+        "type": "A",
+        "totstroke": 0,
+        "stroke": 13,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -169,20 +211,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05b13",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "교,미 : 사람이름(교)"
-    },
-    {
-        "rnum": 0,
         "cd": "05b14",
         "ex": 0,
         "ineum": "",
@@ -208,20 +236,6 @@
         "stroke": 13,
         "isin": 0,
         "dic": "석"
-    },
-    {
-        "rnum": 0,
-        "cd": "05b17",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 38,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 13,
-        "isin": 0,
-        "dic": "단,선 : 바뀔(선)"
     },
     {
         "rnum": 0,

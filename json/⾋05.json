@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "082d0",
+        "ex": 1,
+        "ineum": "제",
+        "in": "제",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "082d1",
         "ex": 1,
         "ineum": "원",
@@ -96,6 +110,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "모"
+    },
+    {
+        "rnum": 0,
+        "cd": "082d8",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경 : 어저귀(경)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -250,6 +278,20 @@
         "stroke": 5,
         "isin": 1,
         "dic": "백,파 : 꽃(파) 성(백)"
+    },
+    {
+        "rnum": 0,
+        "cd": "082ea",
+        "ex": 1,
+        "ineum": "병",
+        "in": "병 : 나타날(병)",
+        "em": 0,
+        "rad_id": 140,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 5,
+        "isin": 1,
+        "dic": "루,예"
     },
     {
         "rnum": 0,
@@ -1009,20 +1051,6 @@
     },
     {
         "rnum": 0,
-        "cd": "082d0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "제"
-    },
-    {
-        "rnum": 0,
         "cd": "082d6",
         "ex": 0,
         "ineum": "",
@@ -1034,20 +1062,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "묘,적 : 소루쟁이(적)"
-    },
-    {
-        "rnum": 0,
-        "cd": "082d8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "경 : 어저귀(경)"
     },
     {
         "rnum": 0,
@@ -1132,20 +1146,6 @@
         "stroke": 5,
         "isin": 0,
         "dic": "니 : 우거질(니)"
-    },
-    {
-        "rnum": 0,
-        "cd": "082ea",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 140,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 5,
-        "isin": 0,
-        "dic": "루,병,예 : 나타날(병)"
     },
     {
         "rnum": 0,

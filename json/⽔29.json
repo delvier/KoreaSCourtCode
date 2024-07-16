@@ -2,15 +2,15 @@
     {
         "rnum": 0,
         "cd": "0706a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
+        "ex": 1,
+        "ineum": "울",
+        "in": "울 : 번창할(울)",
         "em": 0,
         "rad_id": 85,
         "type": "0",
         "totstroke": 0,
         "stroke": 29,
-        "isin": 0,
-        "dic": "울 : 번창할(울)"
+        "isin": 1,
+        "dic": ""
     }
 ]

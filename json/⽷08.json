@@ -337,6 +337,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07dc6",
+        "ex": 1,
+        "ineum": "석",
+        "in": "석 : 가는베(석)",
+        "em": 0,
+        "rad_id": 120,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07dc7",
         "ex": 1,
         "ineum": "치",
@@ -880,20 +894,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "추 : 보랏빛(추)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07dc6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 120,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "석 : 가는베(석)"
     },
     {
         "rnum": 0,

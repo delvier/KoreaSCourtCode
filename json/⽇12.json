@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03b1a",
+        "ex": 1,
+        "ineum": "철",
+        "in": "철",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "066b8",
         "ex": 1,
         "ineum": "료,요",
@@ -211,6 +225,20 @@
     },
     {
         "rnum": 0,
+        "cd": "066cf",
+        "ex": 1,
+        "ineum": "향",
+        "in": "향 : 지난번(향)",
+        "em": 0,
+        "rad_id": 72,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "03b17",
         "ex": 0,
         "ineum": "",
@@ -250,20 +278,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "위"
-    },
-    {
-        "rnum": 0,
-        "cd": "03b1a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 72,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "철"
     },
     {
         "rnum": 0,
@@ -432,20 +446,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "호"
-    },
-    {
-        "rnum": 0,
-        "cd": "066cf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 72,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "향 : 지난번(향)"
     },
     {
         "rnum": 0,

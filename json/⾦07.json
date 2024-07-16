@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "092b2",
+        "ex": 1,
+        "ineum": "한",
+        "in": "한 : 땜질할(한)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": "우"
+    },
+    {
+        "rnum": 0,
         "cd": "092b3",
         "ex": 1,
         "ineum": "예",
@@ -71,6 +85,34 @@
     },
     {
         "rnum": 0,
+        "cd": "092be",
+        "ex": 1,
+        "ineum": "홍",
+        "in": "홍",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "092c0",
+        "ex": 1,
+        "ineum": "두",
+        "in": "두 : 놋쇠(두) 술그릇(두)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "092c6",
         "ex": 1,
         "ineum": "윤",
@@ -85,6 +127,34 @@
     },
     {
         "rnum": 0,
+        "cd": "092c8",
+        "ex": 1,
+        "ineum": "옥",
+        "in": "옥 : 도금(옥)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "092cb",
+        "ex": 1,
+        "ineum": "연",
+        "in": "연 : 창(연)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": "탄"
+    },
+    {
+        "rnum": 0,
         "cd": "092cc",
         "ex": 1,
         "ineum": "정",
@@ -96,6 +166,20 @@
         "stroke": 7,
         "isin": 1,
         "dic": "정 : 광석(정) 달릴 (정) 동철(정)  없어질(정)"
+    },
+    {
+        "rnum": 0,
+        "cd": "092ce",
+        "ex": 1,
+        "ineum": "환",
+        "in": "환 : 칼(환)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": "완,원"
     },
     {
         "rnum": 0,
@@ -183,6 +267,20 @@
     },
     {
         "rnum": 0,
+        "cd": "092e0",
+        "ex": 1,
+        "ineum": "신",
+        "in": "신 : 둥근무쇠(신)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": "진"
+    },
+    {
+        "rnum": 0,
         "cd": "092e4",
         "ex": 1,
         "ineum": "서",
@@ -208,6 +306,20 @@
         "stroke": 7,
         "isin": 1,
         "dic": "정 : 칼날세울(정)"
+    },
+    {
+        "rnum": 0,
+        "cd": "092e6",
+        "ex": 1,
+        "ineum": "국",
+        "in": "국 : 철로동일(국)",
+        "em": 0,
+        "rad_id": 167,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -365,20 +477,6 @@
     },
     {
         "rnum": 0,
-        "cd": "092b2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "우,한 : 땜질할(한)"
-    },
-    {
-        "rnum": 0,
         "cd": "092b5",
         "ex": 0,
         "ineum": "",
@@ -463,20 +561,6 @@
     },
     {
         "rnum": 0,
-        "cd": "092be",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "홍"
-    },
-    {
-        "rnum": 0,
         "cd": "092bf",
         "ex": 0,
         "ineum": "",
@@ -488,20 +572,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "용,종 : 鏞(큰쇠북(용)과 同字 鐘(쇠 북(종)과 同字"
-    },
-    {
-        "rnum": 0,
-        "cd": "092c0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "두 : 놋쇠(투) 술그 릇(두)"
     },
     {
         "rnum": 0,
@@ -589,20 +659,6 @@
     },
     {
         "rnum": 0,
-        "cd": "092c8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "옥 : 도금(옥)"
-    },
-    {
-        "rnum": 0,
         "cd": "092c9",
         "ex": 0,
         "ineum": "",
@@ -631,20 +687,6 @@
     },
     {
         "rnum": 0,
-        "cd": "092cb",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "연,탄 : 창(연)"
-    },
-    {
-        "rnum": 0,
         "cd": "092cd",
         "ex": 0,
         "ineum": "",
@@ -656,20 +698,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "발 : 베릴륨(발)"
-    },
-    {
-        "rnum": 0,
-        "cd": "092ce",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "완,원,환 : 칼(환)"
     },
     {
         "rnum": 0,
@@ -827,20 +855,6 @@
     },
     {
         "rnum": 0,
-        "cd": "092e0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "신,진 : 둥근무쇠(신)"
-    },
-    {
-        "rnum": 0,
         "cd": "092e1",
         "ex": 0,
         "ineum": "",
@@ -880,20 +894,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "야 : 칼이름(야)"
-    },
-    {
-        "rnum": 0,
-        "cd": "092e6",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 167,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "국 : 철로동일(국)"
     },
     {
         "rnum": 0,

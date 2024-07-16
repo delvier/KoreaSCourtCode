@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06b56",
+        "ex": 1,
+        "ineum": "희",
+        "in": "희 : 갑자기기뻐할(희)",
+        "em": 0,
+        "rad_id": 76,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 12,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06b59",
         "ex": 1,
         "ineum": "흡",
@@ -82,20 +96,6 @@
         "stroke": 12,
         "isin": 0,
         "dic": "분 : 기운불(분) 뿜 을(분)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06b56",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 76,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 12,
-        "isin": 0,
-        "dic": "희 : 갑자기기뻐할(희)"
     },
     {
         "rnum": 0,

@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "0698f",
+        "ex": 1,
+        "ineum": "익",
+        "in": "익 : 푸른새그린배(익)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": "영"
+    },
+    {
+        "rnum": 0,
         "cd": "06991",
         "ex": 1,
         "ineum": "부",
@@ -99,6 +113,20 @@
     },
     {
         "rnum": 0,
+        "cd": "069a3",
+        "ex": 1,
+        "ineum": "요",
+        "in": "요 : 큰나무(요)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "069a4",
         "ex": 1,
         "ineum": "걸",
@@ -152,6 +180,20 @@
         "stroke": 10,
         "isin": 1,
         "dic": "비 : 비자나무(비)"
+    },
+    {
+        "rnum": 0,
+        "cd": "069ac",
+        "ex": 1,
+        "ineum": "원",
+        "in": "원 : 자새(원) 종다는나무(원)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -306,6 +348,20 @@
         "stroke": 10,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "069bd",
+        "ex": 1,
+        "ineum": "혜",
+        "in": "혜 : 나무이름(혜)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": "계 : 묶을(계)"
     },
     {
         "rnum": 0,
@@ -465,15 +521,15 @@
         "rnum": 0,
         "cd": "069cf",
         "ex": 1,
-        "ineum": "겸",
-        "in": "겸 : 창설주(겸) 문(겸)",
+        "ineum": "겸,염",
+        "in": "겸,염 : 창설주(겸) 문(겸)",
         "em": 0,
         "rad_id": 75,
         "type": "0",
         "totstroke": 0,
         "stroke": 10,
         "isin": 1,
-        "dic": "렴 : 난간(렴)"
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -530,6 +586,20 @@
         "stroke": 10,
         "isin": 1,
         "dic": "계"
+    },
+    {
+        "rnum": 0,
+        "cd": "06b05",
+        "ex": 1,
+        "ineum": "거",
+        "in": "거 : 느티나무(거)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 10,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -967,20 +1037,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0698f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "영,익 : 푸른새그린배 (익)"
-    },
-    {
-        "rnum": 0,
         "cd": "06990",
         "ex": 0,
         "ineum": "",
@@ -1149,20 +1205,6 @@
     },
     {
         "rnum": 0,
-        "cd": "069a3",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "요 : 큰나무(요)"
-    },
-    {
-        "rnum": 0,
         "cd": "069a8",
         "ex": 0,
         "ineum": "",
@@ -1216,20 +1258,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "순,준 : 장부(순)"
-    },
-    {
-        "rnum": 0,
-        "cd": "069ac",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "원 : 자새(원) 종다 는나무(원)"
     },
     {
         "rnum": 0,
@@ -1300,20 +1328,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "사 : 산복숭아(사)  소반(사)"
-    },
-    {
-        "rnum": 0,
-        "cd": "069bd",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "계,혜 : 나무이름(혜) 묶을(계)"
     },
     {
         "rnum": 0,
@@ -1552,20 +1566,6 @@
         "stroke": 10,
         "isin": 0,
         "dic": "표"
-    },
-    {
-        "rnum": 0,
-        "cd": "06b05",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 10,
-        "isin": 0,
-        "dic": "거 : 느티나무(거)"
     },
     {
         "rnum": 0,

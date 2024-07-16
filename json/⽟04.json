@@ -43,6 +43,48 @@
     },
     {
         "rnum": 0,
+        "cd": "073a1",
+        "ex": 1,
+        "ineum": "아",
+        "in": "아 : 땅이름(아)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "073a2",
+        "ex": 1,
+        "ineum": "분",
+        "in": "분 : 옥무늬(분)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "빈 : 옥무늬(빈)"
+    },
+    {
+        "rnum": 0,
+        "cd": "073a4",
+        "ex": 1,
+        "ineum": "방",
+        "in": "방 : 옥돌(방) 땅이름(방)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "073a6",
         "ex": 1,
         "ineum": "결",
@@ -124,6 +166,20 @@
         "stroke": 4,
         "isin": 1,
         "dic": "변,비"
+    },
+    {
+        "rnum": 0,
+        "cd": "073af",
+        "ex": 1,
+        "ineum": "배",
+        "in": "배 : 배교(배)",
+        "em": 0,
+        "rad_id": 96,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "환"
     },
     {
         "rnum": 0,
@@ -267,34 +323,6 @@
     },
     {
         "rnum": 0,
-        "cd": "073a1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "아 : 땅이름(아)"
-    },
-    {
-        "rnum": 0,
-        "cd": "073a2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "분,빈 : 옥무늬(빈/ 분)"
-    },
-    {
-        "rnum": 0,
         "cd": "073a3",
         "ex": 0,
         "ineum": "",
@@ -306,20 +334,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "관,변 : 옥으로꾸민관 (변)"
-    },
-    {
-        "rnum": 0,
-        "cd": "073a4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "방 : 옥돌(방) 땅이 름(방)"
     },
     {
         "rnum": 0,
@@ -376,20 +390,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "위"
-    },
-    {
-        "rnum": 0,
-        "cd": "073af",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 96,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "배,환 : 배교(배)"
     },
     {
         "rnum": 0,

@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03da1",
+        "ex": 1,
+        "ineum": "화",
+        "in": "화",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 2,
+        "isin": 1,
+        "dic": "대,환"
+    },
+    {
+        "rnum": 0,
         "cd": "0706f",
         "ex": 1,
         "ineum": "정",
@@ -29,17 +43,17 @@
     },
     {
         "rnum": 0,
-        "cd": "03da1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
+        "cd": "07071",
+        "ex": 1,
+        "ineum": "초,효",
+        "in": "초,효 : 더울(효)",
         "em": 0,
         "rad_id": 86,
         "type": "0",
         "totstroke": 0,
         "stroke": 2,
-        "isin": 0,
-        "dic": "대,화,환"
+        "isin": 1,
+        "dic": "도 : 태울(도)"
     },
     {
         "rnum": 0,
@@ -68,20 +82,6 @@
         "stroke": 2,
         "isin": 0,
         "dic": "광"
-    },
-    {
-        "rnum": 0,
-        "cd": "07071",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 2,
-        "isin": 0,
-        "dic": "도,효 : 더울(효)  태울(도)"
     },
     {
         "rnum": 0,

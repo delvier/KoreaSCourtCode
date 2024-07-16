@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07803",
+        "ex": 1,
+        "ineum": "단",
+        "in": "단 : 흰돌(단)",
+        "em": 0,
+        "rad_id": 112,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "07807",
         "ex": 1,
         "ineum": "민",
@@ -138,20 +152,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "류,빙 : 펌프(붕/빙)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07803",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 112,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "단 : 흰돌(단)"
     },
     {
         "rnum": 0,

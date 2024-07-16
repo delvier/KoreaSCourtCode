@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "07af1",
+        "ex": 1,
+        "ineum": "단,전",
+        "in": "단,전 : 같을(전) 같을(단)",
+        "em": 0,
+        "rad_id": 117,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "041d2",
         "ex": 0,
         "ineum": "",
@@ -26,20 +40,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "병 : 비틀거릴(병)"
-    },
-    {
-        "rnum": 0,
-        "cd": "07af1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 117,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "전 : 같을(전) 같을 (단)"
     },
     {
         "rnum": 0,

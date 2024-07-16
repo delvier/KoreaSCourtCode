@@ -29,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "051bf",
+        "ex": 1,
+        "ineum": "전,점",
+        "in": "전,점 : 나아갈(점)",
+        "em": 0,
+        "rad_id": 15,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "첨"
+    },
+    {
+        "rnum": 0,
         "cd": "034c9",
         "ex": 0,
         "ineum": "",
@@ -110,20 +124,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "선,승 : 성(선/승)"
-    },
-    {
-        "rnum": 0,
-        "cd": "051bf",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 15,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "전,점,첨 : 나아갈(점)"
     },
     {
         "rnum": 0,

@@ -1,6 +1,48 @@
 [
     {
         "rnum": 0,
+        "cd": "05d77",
+        "ex": 1,
+        "ineum": "종",
+        "in": "종 : 산높을(종)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": "송 : 뾰족한봉우리(송)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05d78",
+        "ex": 1,
+        "ineum": "종",
+        "in": "종",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": "송"
+    },
+    {
+        "rnum": 0,
+        "cd": "05d7a",
+        "ex": 1,
+        "ineum": "교",
+        "in": "교 : 산불끈솟을(교)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": "료 : 산불끈솟을(료)"
+    },
+    {
+        "rnum": 0,
         "cd": "05d81",
         "ex": 1,
         "ineum": "누,루",
@@ -68,6 +110,20 @@
         "stroke": 11,
         "isin": 1,
         "dic": "구 : 가파를(구)"
+    },
+    {
+        "rnum": 0,
+        "cd": "05d88",
+        "ex": 1,
+        "ineum": "장",
+        "in": "장 : 산이높고클(장) 물이무주쳐산울릴(장)",
+        "em": 0,
+        "rad_id": 46,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 11,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -253,34 +309,6 @@
     },
     {
         "rnum": 0,
-        "cd": "05d77",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "송,종 : 산높을(종)  뾰족한봉우리(송)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05d78",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "송,종"
-    },
-    {
-        "rnum": 0,
         "cd": "05d79",
         "ex": 0,
         "ineum": "",
@@ -292,20 +320,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "강 : 산이름(강)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05d7a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "교,료 : 산불끈솟을(교/료)"
     },
     {
         "rnum": 0,
@@ -418,20 +432,6 @@
         "stroke": 11,
         "isin": 0,
         "dic": "오 : 산에돌이많을(오)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05d88",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 46,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 11,
-        "isin": 0,
-        "dic": "장 : 산이높고클(장)  물이무주쳐산울릴(장)"
     },
     {
         "rnum": 0,

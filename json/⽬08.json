@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "07757",
+        "ex": 1,
+        "ineum": "석",
+        "in": "석 : 빨리볼(석)",
+        "em": 0,
+        "rad_id": 109,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "0775a",
         "ex": 1,
         "ineum": "애",
@@ -40,6 +54,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "청"
+    },
+    {
+        "rnum": 0,
+        "cd": "0775e",
+        "ex": 1,
+        "ineum": "래",
+        "in": "래 : 곁눈질할(래)",
+        "em": 0,
+        "rad_id": 109,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -166,6 +194,20 @@
         "stroke": 8,
         "isin": 1,
         "dic": "채 : 주목할(채)"
+    },
+    {
+        "rnum": 0,
+        "cd": "0776d",
+        "ex": 1,
+        "ineum": "주",
+        "in": "주",
+        "em": 0,
+        "rad_id": 109,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 8,
+        "isin": 1,
+        "dic": "채,추 : 깊을(추)"
     },
     {
         "rnum": 0,
@@ -351,20 +393,6 @@
     },
     {
         "rnum": 0,
-        "cd": "07757",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 109,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "석 : 빨리볼(석)"
-    },
-    {
-        "rnum": 0,
         "cd": "07758",
         "ex": 0,
         "ineum": "",
@@ -421,20 +449,6 @@
     },
     {
         "rnum": 0,
-        "cd": "0775e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 109,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "래 : 곁눈질할(래)"
-    },
-    {
-        "rnum": 0,
         "cd": "07764",
         "ex": 0,
         "ineum": "",
@@ -488,20 +502,6 @@
         "stroke": 8,
         "isin": 0,
         "dic": "록,역,연,택 : 엿볼 (역)"
-    },
-    {
-        "rnum": 0,
-        "cd": "0776d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 109,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 8,
-        "isin": 0,
-        "dic": "주,채,추 : 깊을(추)"
     },
     {
         "rnum": 0,

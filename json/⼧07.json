@@ -15,6 +15,20 @@
     },
     {
         "rnum": 0,
+        "cd": "05bad",
+        "ex": 1,
+        "ineum": "군",
+        "in": "군 : 모여살(군)",
+        "em": 0,
+        "rad_id": 40,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "05bae",
         "ex": 1,
         "ineum": "궁",
@@ -194,20 +208,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "이 : 구석(이)"
-    },
-    {
-        "rnum": 0,
-        "cd": "05bad",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 40,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "군 : 모여살(군)"
     },
     {
         "rnum": 0,

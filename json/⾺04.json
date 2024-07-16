@@ -43,6 +43,20 @@
     },
     {
         "rnum": 0,
+        "cd": "099c4",
+        "ex": 1,
+        "ineum": "태",
+        "in": "태 : 실을(태)",
+        "em": 0,
+        "rad_id": 187,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 4,
+        "isin": 1,
+        "dic": "타 : 징(타)"
+    },
+    {
+        "rnum": 0,
         "cd": "04b77",
         "ex": 0,
         "ineum": "",
@@ -306,20 +320,6 @@
         "stroke": 4,
         "isin": 0,
         "dic": "결,쾌 : 준마(결)"
-    },
-    {
-        "rnum": 0,
-        "cd": "099c4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 187,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 4,
-        "isin": 0,
-        "dic": "타,태 : 실을(태)  징(타)"
     },
     {
         "rnum": 0,

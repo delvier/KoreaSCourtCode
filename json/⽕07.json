@@ -29,6 +29,20 @@
     },
     {
         "rnum": 0,
+        "cd": "070f0",
+        "ex": 1,
+        "ineum": "부",
+        "in": "부 : 찔(부) 불김(부)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "070f1",
         "ex": 1,
         "ineum": "경",
@@ -43,6 +57,20 @@
     },
     {
         "rnum": 0,
+        "cd": "070f2",
+        "ex": 1,
+        "ineum": "철",
+        "in": "철 : 불당길(철) 불당길(철)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "070f3",
         "ex": 1,
         "ineum": "보",
@@ -54,6 +82,20 @@
         "stroke": 7,
         "isin": 1,
         "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "070f4",
+        "ex": 1,
+        "ineum": "경",
+        "in": "경 : 탄화수소(경)",
+        "em": 0,
+        "rad_id": 86,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 7,
+        "isin": 1,
+        "dic": "형"
     },
     {
         "rnum": 0,
@@ -292,48 +334,6 @@
         "stroke": 7,
         "isin": 0,
         "dic": "보,통"
-    },
-    {
-        "rnum": 0,
-        "cd": "070f0",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "부 : 찔(부) 불김(부)"
-    },
-    {
-        "rnum": 0,
-        "cd": "070f2",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "철 : 불당길(철) 불 당길(철)"
-    },
-    {
-        "rnum": 0,
-        "cd": "070f4",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 86,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 7,
-        "isin": 0,
-        "dic": "경,형 : 탄화수소(경 /정)"
     },
     {
         "rnum": 0,

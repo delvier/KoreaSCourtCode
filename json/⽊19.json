@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "06b0f",
+        "ex": 1,
+        "ineum": "라",
+        "in": "라 : 사라나무(라)",
+        "em": 0,
+        "rad_id": 75,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 19,
+        "isin": 1,
+        "dic": "나"
+    },
+    {
+        "rnum": 0,
         "cd": "06b11",
         "ex": 1,
         "ineum": "찬",
@@ -96,20 +110,6 @@
         "stroke": 19,
         "isin": 0,
         "dic": "전"
-    },
-    {
-        "rnum": 0,
-        "cd": "06b0f",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 75,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 19,
-        "isin": 0,
-        "dic": "나,라 : 사라나무(라)"
     },
     {
         "rnum": 0,

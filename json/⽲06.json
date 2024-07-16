@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "079f1",
+        "ex": 1,
+        "ineum": "동",
+        "in": "동 : 벼무성할(동) 벼마디(동)",
+        "em": 0,
+        "rad_id": 115,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "형"
+    },
+    {
+        "rnum": 0,
         "cd": "079f5",
         "ex": 1,
         "ineum": "인",
@@ -222,20 +236,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "진"
-    },
-    {
-        "rnum": 0,
-        "cd": "079f1",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 115,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "동,형 : 벼무성할(동) 벼마디(동)"
     },
     {
         "rnum": 0,

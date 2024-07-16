@@ -1,6 +1,20 @@
 [
     {
         "rnum": 0,
+        "cd": "03cd8",
+        "ex": 1,
+        "ineum": "충",
+        "in": "충",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "연"
+    },
+    {
+        "rnum": 0,
         "cd": "06cda",
         "ex": 1,
         "ineum": "자",
@@ -29,10 +43,38 @@
     },
     {
         "rnum": 0,
+        "cd": "06d00",
+        "ex": 1,
+        "ineum": "주",
+        "in": "주 : 물놀이칠㈜",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "반 : 서릴(반)"
+    },
+    {
+        "rnum": 0,
         "cd": "06d04",
         "ex": 1,
         "ineum": "회",
         "in": "회 : 물거슬러흐를(회)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "06d06",
+        "ex": 1,
+        "ineum": "승",
+        "in": "승 : 빠질(승)",
         "em": 0,
         "rad_id": 85,
         "type": "0",
@@ -54,6 +96,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "형"
+    },
+    {
+        "rnum": 0,
+        "cd": "06d08",
+        "ex": 1,
+        "ineum": "위",
+        "in": "위 : 물이름(위)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -96,6 +152,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "열 : 맑을(렬/열)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06d0e",
+        "ex": 1,
+        "ineum": "계",
+        "in": "계 : 윤택할(계) 국물(계)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "게,기,자 : 미칠(기)"
     },
     {
         "rnum": 0,
@@ -169,6 +239,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06d1a",
+        "ex": 1,
+        "ineum": "홍",
+        "in": "홍 : 큰물(홍)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": "강,봉"
+    },
+    {
+        "rnum": 0,
         "cd": "06d1b",
         "ex": 1,
         "ineum": "낙,락",
@@ -215,6 +299,34 @@
         "ex": 1,
         "ineum": "이",
         "in": "이 : 콧물(이) 눈물(체)(涕와 동자)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "06d20",
+        "ex": 1,
+        "ineum": "모",
+        "in": "모 : 물가언덕(모)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
+        "cd": "06d22",
+        "ex": 1,
+        "ineum": "이",
+        "in": "이 : 물이름(이)",
         "em": 0,
         "rad_id": 85,
         "type": "0",
@@ -337,6 +449,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06d2d",
+        "ex": 1,
+        "ineum": "광",
+        "in": "광 : 땅이름(광)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06d2e",
         "ex": 1,
         "ineum": "도",
@@ -365,6 +491,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06d31",
+        "ex": 1,
+        "ineum": "이",
+        "in": "이 : 물이름(이)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "06d32",
         "ex": 1,
         "ineum": "주",
@@ -376,6 +516,20 @@
         "stroke": 6,
         "isin": 1,
         "dic": "주 : 뭍(주) 모래톱 (주)"
+    },
+    {
+        "rnum": 0,
+        "cd": "06d33",
+        "ex": 1,
+        "ineum": "여",
+        "in": "여 : 습한땅(여)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
     },
     {
         "rnum": 0,
@@ -519,6 +673,20 @@
     },
     {
         "rnum": 0,
+        "cd": "06d42",
+        "ex": 1,
+        "ineum": "일",
+        "in": "일 : 물가(일)",
+        "em": 0,
+        "rad_id": 85,
+        "type": "0",
+        "totstroke": 0,
+        "stroke": 6,
+        "isin": 1,
+        "dic": ""
+    },
+    {
+        "rnum": 0,
         "cd": "f1543",
         "ex": 1,
         "ineum": "해",
@@ -558,20 +726,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "채"
-    },
-    {
-        "rnum": 0,
-        "cd": "03cd8",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "연,충"
     },
     {
         "rnum": 0,
@@ -729,20 +883,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06d00",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "반,주 : 물놀이칠(주) 서릴(반)"
-    },
-    {
-        "rnum": 0,
         "cd": "06d01",
         "ex": 0,
         "ineum": "",
@@ -799,34 +939,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06d06",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "승 : 빠질(승)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06d08",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "위 : 물이름(위)"
-    },
-    {
-        "rnum": 0,
         "cd": "06d09",
         "ex": 0,
         "ineum": "",
@@ -838,20 +950,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "후 : 적실(후)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06d0e",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "게,계,기,자 : 미칠 (기) 윤택할(계)  국물(계)"
     },
     {
         "rnum": 0,
@@ -925,20 +1023,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06d1a",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "강,봉,홍 : 큰물(홍)"
-    },
-    {
-        "rnum": 0,
         "cd": "06d1c",
         "ex": 0,
         "ineum": "",
@@ -953,20 +1037,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06d20",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "모 : 물가언덕(모)"
-    },
-    {
-        "rnum": 0,
         "cd": "06d21",
         "ex": 0,
         "ineum": "",
@@ -978,20 +1048,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "래,뢰 : 물들(래)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06d22",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "이 : 물이름(이)"
     },
     {
         "rnum": 0,
@@ -1023,20 +1079,6 @@
     },
     {
         "rnum": 0,
-        "cd": "06d2d",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "광 : 땅이름(광)"
-    },
-    {
-        "rnum": 0,
         "cd": "06d30",
         "ex": 0,
         "ineum": "",
@@ -1048,34 +1090,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "거,궁 : 수중물많을(거)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06d31",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "이 : 물이름(이)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06d33",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "여 : 습한땅(여)"
     },
     {
         "rnum": 0,
@@ -1132,20 +1146,6 @@
         "stroke": 6,
         "isin": 0,
         "dic": "곡 : 물이를(곡)"
-    },
-    {
-        "rnum": 0,
-        "cd": "06d42",
-        "ex": 0,
-        "ineum": "",
-        "in": "",
-        "em": 0,
-        "rad_id": 85,
-        "type": "0",
-        "totstroke": 0,
-        "stroke": 6,
-        "isin": 0,
-        "dic": "일 : 물가(일)"
     },
     {
         "rnum": 0,
