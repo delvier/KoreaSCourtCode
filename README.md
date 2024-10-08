@@ -31,3 +31,6 @@ Please do not run the script in `src` abusively.
 #### Known issues
 
 * There may exist some replacement characters (U+FFFD) in the downloaded JSON files. Those are corrected manually in this repository.
+
+### See also
+[https://babelstone.co.uk/CJK/whj.pdf] (BabelStone)
