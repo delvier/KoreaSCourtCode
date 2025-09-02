@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Supreme Court of Korea Character Code</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="module" src="./code.js"></script>
+    <link href="main.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h2>Supreme Court of Korea Character Code</h2>
+        <h3>대한민국 대법원 문자 코드</h3>
+        <h4>― Live version</h4>
+    </header>
+    <div id="main-area">
+        <div id="chart-area">
+            <button type="button" id="button-prev" name="button-prev">Prev</button>
+            <button type="button" id="button-next" name="button-next">Next</button>
+            <input type="text" id="input-code" name="input-code" placeholder="Code point..." />
+            <table id="code-table">
+                <tr>
+                    <th></th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th>
+                </tr>
+                <tr id="row-0">
+                    <th>0</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-1">
+                    <th>1</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-2">
+                    <th>2</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-3">
+                    <th>3</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-4">
+                    <th>4</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-5">
+                    <th>5</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-6">
+                    <th>6</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-7">
+                    <th>7</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-8">
+                    <th>8</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-9">
+                    <th>9</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-a">
+                    <th>A</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-b">
+                    <th>B</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-c">
+                    <th>C</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-d">
+                    <th>D</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-e">
+                    <th>E</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                <tr id="row-f">
+                    <th>F</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+            </table>
+        </div>
+        <div id="info-area">
+            <div id="charbox"></div>
+            <dl id="info">
+                <dt>Unicode</dt>
+                <dd id="info-unicode">&nbsp;</dd>
+                <dt>Name reading(s)</dt>
+                <dd id="info-nameread">&nbsp;</dd>
+                <dt>Other reading(s)</dt>
+                <dd id="info-otherread">&nbsp;</dd>
+            </dl>
+            <span id="raw"></span>
+        </div>
+    </div>
+</body>
+</html>

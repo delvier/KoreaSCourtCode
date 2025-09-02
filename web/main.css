@@ -1,0 +1,72 @@
+@media print {
+    button {
+        display: none !important;
+    }
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 8px;
+    margin-bottom: 0px; 
+}
+
+#main-area {
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+#chart-area {
+    width: fit-content;
+}
+
+#code-table th {
+    width: 32px;
+    height: 36px;
+    font-size: 16px;
+}
+
+#code-table tr:nth-child(n+2) th {
+    width: 48px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 1px;
+    text-align: center;
+}
+
+#code-table td {
+    font-size: 24px;
+}
+
+#input-code {
+    float: right;
+}
+
+#info-area {
+    padding-left: 8px;
+}
+
+#charbox {
+    display: table-cell;
+    width: 160px;
+    height: 160px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 160px;
+    border: 1px solid black;
+}
+
+#raw {
+    display: none;
+}
