@@ -161,7 +161,7 @@ const char_info = async (ev) => {
             document.getElementById("raw").textContent = JSON.stringify(data, null, 2);
         } else {
             charbox.style.color = '';
-            output.textContent = 'No data for this character.';
+            output.textContent = 'No data.';
             document.getElementById("raw").textContent = '';
         }
     }
