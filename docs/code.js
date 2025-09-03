@@ -38,6 +38,14 @@ const LIST_TABLES = [
 ];
 const DEFAULT_TABLE = LIST_TABLES.findIndex((x) => x === 0x4E);
 
+function is_hanja(val) {
+    return val >= 0x3400 && val <= 0x4DB5
+    || val >= 0x4E00 && val < 0xA000
+    || val >= 0x20000 && val < 0x2A700
+    || val >= 0xA0000 && val < 0xA0300
+    || val >= 0xF0000 && val < 0xF3500;
+}
+
 async function load_font(hex) {
     hex = hex.padStart(8, "0");
     const url = `https://efamily.scourt.go.kr/webhanja/whjfont?c=${hex}&t=woff`;
@@ -104,12 +112,7 @@ async function load_page(id) {
                 cell.setAttribute('title', codepoint.toUpperCase());
                 cell.setAttribute('data-codepoint', codepoint);
                 var val = parseInt(codepoint, 16);
-                if (val >= 0x3400 && val <= 0x4DB5
-                    || val >= 0x4E00 && val < 0xA000
-                    || val >= 0x20000 && val < 0x2A700
-                    || val >= 0xA0000 && val < 0xA0300
-                    || val >= 0xF0000 && val < 0xF3500
-                ) {
+                if (is_hanja(val)) {
                     var data = await get_info(codepoint);
                     if (data) {
                         if (data['isinmyung'] == '1')
@@ -124,6 +127,7 @@ async function load_page(id) {
             } else {
                 cell.textContent = '';
                 cell.style.fontFamily = '';
+                cell.style.color = '';
                 cell.style.background="#666666";
                 cell.removeEventListener("click", char_info);
             }
@@ -158,12 +162,7 @@ input.addEventListener("input", async (ev) => {
 const char_info = async (ev) => {
     var cp = ev.target.dataset.codepoint;
     var val = parseInt(ev.target.dataset.codepoint, 16);
-    if (val >= 0x3400 && val <= 0x4DB5
-        || val >= 0x4E00 && val < 0xA000
-        || val >= 0x20000 && val < 0x2A700
-        || val >= 0xA0000 && val < 0xA0300
-        || val >= 0xF0000 && val < 0xF3500
-    ) {
+    if (is_hanja(val)) {
         var data = await get_info(cp);
         var charbox = document.getElementById("charbox");
         var output = document.getElementById("info");
