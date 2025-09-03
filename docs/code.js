@@ -87,6 +87,7 @@ async function load_page(id) {
             const cell = row.children[j+1];
             cell.textContent = '';
             cell.style.fontFamily = ''; 
+            cell.style.background = '';
         }
     }
     document.body.style.cursor = 'wait';
@@ -108,7 +109,7 @@ async function load_page(id) {
                 var codepoint = upper + lower;
                 cell.textContent = '';
                 cell.style.fontFamily = `kct-${codepoint.padStart(8, '0')}`;
-                cell.style.background="";
+                cell.style.background = '';
                 cell.setAttribute('title', codepoint.toUpperCase());
                 cell.setAttribute('data-codepoint', codepoint);
                 var val = parseInt(codepoint, 16);
