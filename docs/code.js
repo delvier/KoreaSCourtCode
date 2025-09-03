@@ -70,6 +70,7 @@ async function load_page(id) {
     next.setAttribute('data-page', idx + 1);
     if (idx + 1 == LIST_TABLES.length)
         next.setAttribute('disabled', '');
+    const input = document.getElementById('input-code');
     const upper = LIST_TABLES[idx].toString(16);
     for (var i = 0; i < 16; ++i) {
         const row = document.getElementById(`row-${i.toString(16)}`);
@@ -80,32 +81,60 @@ async function load_page(id) {
             cell.style.fontFamily = ''; 
         }
     }
-    //document.body.style.cursor = 'wait';
+    document.body.style.cursor = 'wait';
+    prev.setAttribute('disabled', '');
+    next.setAttribute('disabled', '');
+    input.setAttribute('disabled', '');
     for (var i = 0; i < 16; ++i) {
         const row = document.getElementById(`row-${i.toString(16)}`);
-        var waiting = [];
+        var font_waiting = [];
         for (var j = 0; j < 16; ++j) {
             const lower = i.toString(16) + j.toString(16);
-            waiting[j] = load_font(upper + lower);
+            font_waiting[j] = load_font(upper + lower);
         }
-        var container = await Promise.all(waiting).then((_) => {return _});
+        var container = await Promise.all(font_waiting).then((_) => {return _});
         for (var j = 0; j < 16; ++j) {
             const cell = row.children[j+1];
             const lower = i.toString(16) + j.toString(16);
             if (container[j]) {
+                var codepoint = upper + lower;
                 cell.textContent = '';
-                cell.style.fontFamily = `kct-${(upper + lower).padStart(8, '0')}`;
-                cell.setAttribute('title', (upper + lower).toUpperCase());
-                cell.setAttribute('data-codepoint', (upper + lower));
+                cell.style.fontFamily = `kct-${codepoint.padStart(8, '0')}`;
+                cell.style.background="";
+                cell.setAttribute('title', codepoint.toUpperCase());
+                cell.setAttribute('data-codepoint', codepoint);
+                var val = parseInt(codepoint, 16);
+                if (val >= 0x3400 && val <= 0x4DB5
+                    || val >= 0x4E00 && val < 0xA000
+                    || val >= 0x20000 && val < 0x2A700
+                    || val >= 0xA0000 && val < 0xA0300
+                    || val >= 0xF0000 && val < 0xF3500
+                ) {
+                    var data = await get_info(codepoint);
+                    if (data) {
+                        if (data['isinmyung'] == '1')
+                            cell.style.color = '#0000cc';
+                        else
+                            cell.style.color = '';
+                    } else {
+                        cell.style.color = '#666666';
+                    }
+                }
                 cell.addEventListener("click", char_info);
             } else {
                 cell.textContent = '';
                 cell.style.fontFamily = '';
+                cell.style.background="#666666";
                 cell.removeEventListener("click", char_info);
             }
         }
     }
-    //document.body.style.cursor = '';
+    document.body.style.cursor = '';
+    if (idx != 0)
+        prev.removeAttribute('disabled');
+    if (idx + 1 != LIST_TABLES.length)
+        next.removeAttribute('disabled');
+    input.removeAttribute('disabled');
 }
 
 const button = document.querySelectorAll("button");
@@ -132,7 +161,7 @@ const char_info = async (ev) => {
     if (val >= 0x3400 && val <= 0x4DB5
         || val >= 0x4E00 && val < 0xA000
         || val >= 0x20000 && val < 0x2A700
-        || val >= 0xA0000 && val < 0xA02E7
+        || val >= 0xA0000 && val < 0xA0300
         || val >= 0xF0000 && val < 0xF3500
     ) {
         var data = await get_info(cp);

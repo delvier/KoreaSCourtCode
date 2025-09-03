@@ -4,6 +4,55 @@
     }
 }
 
+@media (min-width: 320px) {
+    #main-area {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    #code-table th {
+        width: 16px;
+        height: 20px;
+        font-size: 10px;
+    }
+    #code-table td {
+        font-size: 16px;
+    }
+    #code-table tr:nth-child(n+2) th {
+        width: 24px;
+    }
+    #info-area {
+        display: flex;
+        flex-direction: row;
+    }
+    #info {
+        padding-left: 8px;
+    }
+}
+
+@media (min-width: 961px) {
+    #main-area {
+        display: flex;
+        flex-direction: row;
+        margin-top: 16px;
+    }
+    #code-table th {
+        width: 24px;
+        height: 30px;
+        font-size: 16px;
+    }
+    #code-table td {
+        font-size: 24px;
+    }
+    #code-table tr:nth-child(n+2) th {
+        width: 36px;
+    }
+    #info-area {
+        display: flex;
+        flex-direction: column;
+        padding-left: 8px;
+    }
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -19,24 +68,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0px; 
 }
 
-#main-area {
-    display: flex;
-    flex-direction: row;
-    margin-top: 16px;
-}
-
 #chart-area {
     width: fit-content;
-}
-
-#code-table th {
-    width: 32px;
-    height: 36px;
-    font-size: 16px;
-}
-
-#code-table tr:nth-child(n+2) th {
-    width: 48px;
 }
 
 th, td {
@@ -45,16 +78,8 @@ th, td {
     text-align: center;
 }
 
-#code-table td {
-    font-size: 24px;
-}
-
 #input-code {
     float: right;
-}
-
-#info-area {
-    padding-left: 8px;
 }
 
 #charbox {
