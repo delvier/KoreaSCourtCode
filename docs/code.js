@@ -129,6 +129,7 @@ async function load_page(id) {
                 cell.style.fontFamily = '';
                 cell.style.color = '';
                 cell.style.background="#666666";
+                cell.setAttribute('title', '');
                 cell.removeEventListener("click", char_info);
             }
         }
